@@ -25,7 +25,7 @@ export interface SceneData {
 }
 
 const all_s_well_that_ends_well_1_1: SceneData = {
-  playTitle: 'All's Well That Ends Well',
+  playTitle: 'All\'s Well That Ends Well',
   act: 1,
   scene: 1,
   speeches: [
@@ -1320,7 +1320,7 @@ const all_s_well_that_ends_well_1_1: SceneData = {
 };
 
 const all_s_well_that_ends_well_1_2: SceneData = {
-  playTitle: 'All's Well That Ends Well',
+  playTitle: 'All\'s Well That Ends Well',
   act: 1,
   scene: 2,
   speeches: [
@@ -1781,7 +1781,7 @@ const all_s_well_that_ends_well_1_2: SceneData = {
 };
 
 const all_s_well_that_ends_well_1_3: SceneData = {
-  playTitle: 'All's Well That Ends Well',
+  playTitle: 'All\'s Well That Ends Well',
   act: 1,
   scene: 3,
   speeches: [
@@ -3233,7 +3233,7 @@ const all_s_well_that_ends_well_1_3: SceneData = {
 };
 
 const all_s_well_that_ends_well_2_1: SceneData = {
-  playTitle: 'All's Well That Ends Well',
+  playTitle: 'All\'s Well That Ends Well',
   act: 2,
   scene: 1,
   speeches: [
@@ -4535,7 +4535,7 @@ const all_s_well_that_ends_well_2_1: SceneData = {
 };
 
 const all_s_well_that_ends_well_2_2: SceneData = {
-  playTitle: 'All's Well That Ends Well',
+  playTitle: 'All\'s Well That Ends Well',
   act: 2,
   scene: 2,
   speeches: [
@@ -4971,7 +4971,7 @@ const all_s_well_that_ends_well_2_2: SceneData = {
 };
 
 const all_s_well_that_ends_well_2_3: SceneData = {
-  playTitle: 'All's Well That Ends Well',
+  playTitle: 'All\'s Well That Ends Well',
   act: 2,
   scene: 3,
   speeches: [
@@ -6870,7 +6870,7 @@ const all_s_well_that_ends_well_2_3: SceneData = {
 };
 
 const all_s_well_that_ends_well_2_4: SceneData = {
-  playTitle: 'All's Well That Ends Well',
+  playTitle: 'All\'s Well That Ends Well',
   act: 2,
   scene: 4,
   speeches: [
@@ -7254,7 +7254,7 @@ const all_s_well_that_ends_well_2_4: SceneData = {
 };
 
 const all_s_well_that_ends_well_2_5: SceneData = {
-  playTitle: 'All's Well That Ends Well',
+  playTitle: 'All\'s Well That Ends Well',
   act: 2,
   scene: 5,
   speeches: [
@@ -7912,7 +7912,7 @@ const all_s_well_that_ends_well_2_5: SceneData = {
 };
 
 const all_s_well_that_ends_well_3_1: SceneData = {
-  playTitle: 'All's Well That Ends Well',
+  playTitle: 'All\'s Well That Ends Well',
   act: 3,
   scene: 1,
   speeches: [
@@ -8078,7 +8078,7 @@ const all_s_well_that_ends_well_3_1: SceneData = {
 };
 
 const all_s_well_that_ends_well_3_2: SceneData = {
-  playTitle: 'All's Well That Ends Well',
+  playTitle: 'All\'s Well That Ends Well',
   act: 3,
   scene: 2,
   speeches: [
@@ -8883,7 +8883,7 @@ const all_s_well_that_ends_well_3_2: SceneData = {
 };
 
 const all_s_well_that_ends_well_3_3: SceneData = {
-  playTitle: 'All's Well That Ends Well',
+  playTitle: 'All\'s Well That Ends Well',
   act: 3,
   scene: 3,
   speeches: [
@@ -8969,7 +8969,7 @@ const all_s_well_that_ends_well_3_3: SceneData = {
 };
 
 const all_s_well_that_ends_well_3_4: SceneData = {
-  playTitle: 'All's Well That Ends Well',
+  playTitle: 'All\'s Well That Ends Well',
   act: 3,
   scene: 4,
   speeches: [
@@ -9193,7 +9193,7 @@ const all_s_well_that_ends_well_3_4: SceneData = {
 };
 
 const all_s_well_that_ends_well_3_5: SceneData = {
-  playTitle: 'All's Well That Ends Well',
+  playTitle: 'All\'s Well That Ends Well',
   act: 3,
   scene: 5,
   speeches: [
@@ -9959,7 +9959,7 @@ const all_s_well_that_ends_well_3_5: SceneData = {
 };
 
 const all_s_well_that_ends_well_3_6: SceneData = {
-  playTitle: 'All's Well That Ends Well',
+  playTitle: 'All\'s Well That Ends Well',
   act: 3,
   scene: 6,
   speeches: [
@@ -10668,7 +10668,7 @@ const all_s_well_that_ends_well_3_6: SceneData = {
 };
 
 const all_s_well_that_ends_well_3_7: SceneData = {
-  playTitle: 'All's Well That Ends Well',
+  playTitle: 'All\'s Well That Ends Well',
   act: 3,
   scene: 7,
   speeches: [
@@ -10948,7 +10948,7 @@ const all_s_well_that_ends_well_3_7: SceneData = {
 };
 
 const all_s_well_that_ends_well_4_1: SceneData = {
-  playTitle: 'All's Well That Ends Well',
+  playTitle: 'All\'s Well That Ends Well',
   act: 4,
   scene: 1,
   speeches: [
@@ -11630,7 +11630,7 @@ const all_s_well_that_ends_well_4_1: SceneData = {
 };
 
 const all_s_well_that_ends_well_4_2: SceneData = {
-  playTitle: 'All's Well That Ends Well',
+  playTitle: 'All\'s Well That Ends Well',
   act: 4,
   scene: 2,
   speeches: [
@@ -12106,7 +12106,7 @@ const all_s_well_that_ends_well_4_2: SceneData = {
 };
 
 const all_s_well_that_ends_well_4_3: SceneData = {
-  playTitle: 'All's Well That Ends Well',
+  playTitle: 'All\'s Well That Ends Well',
   act: 4,
   scene: 3,
   speeches: [
@@ -14216,7 +14216,7 @@ const all_s_well_that_ends_well_4_3: SceneData = {
 };
 
 const all_s_well_that_ends_well_4_4: SceneData = {
-  playTitle: 'All's Well That Ends Well',
+  playTitle: 'All\'s Well That Ends Well',
   act: 4,
   scene: 4,
   speeches: [
@@ -14420,7 +14420,7 @@ const all_s_well_that_ends_well_4_4: SceneData = {
 };
 
 const all_s_well_that_ends_well_4_5: SceneData = {
-  playTitle: 'All's Well That Ends Well',
+  playTitle: 'All\'s Well That Ends Well',
   act: 4,
   scene: 5,
   speeches: [
@@ -15065,7 +15065,7 @@ const all_s_well_that_ends_well_4_5: SceneData = {
 };
 
 const all_s_well_that_ends_well_5_1: SceneData = {
-  playTitle: 'All's Well That Ends Well',
+  playTitle: 'All\'s Well That Ends Well',
   act: 5,
   scene: 1,
   speeches: [
@@ -15353,7 +15353,7 @@ const all_s_well_that_ends_well_5_1: SceneData = {
 };
 
 const all_s_well_that_ends_well_5_2: SceneData = {
-  playTitle: 'All's Well That Ends Well',
+  playTitle: 'All\'s Well That Ends Well',
   act: 5,
   scene: 2,
   speeches: [
@@ -15699,7 +15699,7 @@ const all_s_well_that_ends_well_5_2: SceneData = {
 };
 
 const all_s_well_that_ends_well_5_3: SceneData = {
-  playTitle: 'All's Well That Ends Well',
+  playTitle: 'All\'s Well That Ends Well',
   act: 5,
   scene: 3,
   speeches: [

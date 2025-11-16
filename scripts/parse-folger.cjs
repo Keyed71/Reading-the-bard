@@ -177,7 +177,7 @@ function generateTypeScript(play) {
     for (const scene of act.scenes) {
       const varName = `${playId}_${act.act}_${scene.scene}`;
       output += `const ${varName}: SceneData = {\n`;
-      output += `  playTitle: '${play.title}',\n`;
+      output += `  playTitle: '${play.title.replace(/'/g, "\\'")}',\n`;
       output += `  act: ${act.act},\n`;
       output += `  scene: ${scene.scene},\n`;
       output += `  speeches: ${JSON.stringify(scene.speeches, null, 2)},\n`;
