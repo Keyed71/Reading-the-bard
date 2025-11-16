@@ -24,7 +24,7 @@ export interface SceneData {
   autoInsights?: { [lineNumber: number]: string };
 }
 
-const all-s-well-that-ends-well_1_1: SceneData = {
+const all_s_well_that_ends_well_1_1: SceneData = {
   playTitle: 'All's Well That Ends Well',
   act: 1,
   scene: 1,
@@ -1319,7 +1319,7 @@ const all-s-well-that-ends-well_1_1: SceneData = {
   autoInsights: {}
 };
 
-const all-s-well-that-ends-well_1_2: SceneData = {
+const all_s_well_that_ends_well_1_2: SceneData = {
   playTitle: 'All's Well That Ends Well',
   act: 1,
   scene: 2,
@@ -1780,7 +1780,7 @@ const all-s-well-that-ends-well_1_2: SceneData = {
   autoInsights: {}
 };
 
-const all-s-well-that-ends-well_1_3: SceneData = {
+const all_s_well_that_ends_well_1_3: SceneData = {
   playTitle: 'All's Well That Ends Well',
   act: 1,
   scene: 3,
@@ -3232,7 +3232,7 @@ const all-s-well-that-ends-well_1_3: SceneData = {
   autoInsights: {}
 };
 
-const all-s-well-that-ends-well_2_1: SceneData = {
+const all_s_well_that_ends_well_2_1: SceneData = {
   playTitle: 'All's Well That Ends Well',
   act: 2,
   scene: 1,
@@ -4534,7 +4534,7 @@ const all-s-well-that-ends-well_2_1: SceneData = {
   autoInsights: {}
 };
 
-const all-s-well-that-ends-well_2_2: SceneData = {
+const all_s_well_that_ends_well_2_2: SceneData = {
   playTitle: 'All's Well That Ends Well',
   act: 2,
   scene: 2,
@@ -4970,7 +4970,7 @@ const all-s-well-that-ends-well_2_2: SceneData = {
   autoInsights: {}
 };
 
-const all-s-well-that-ends-well_2_3: SceneData = {
+const all_s_well_that_ends_well_2_3: SceneData = {
   playTitle: 'All's Well That Ends Well',
   act: 2,
   scene: 3,
@@ -6869,7 +6869,7 @@ const all-s-well-that-ends-well_2_3: SceneData = {
   autoInsights: {}
 };
 
-const all-s-well-that-ends-well_2_4: SceneData = {
+const all_s_well_that_ends_well_2_4: SceneData = {
   playTitle: 'All's Well That Ends Well',
   act: 2,
   scene: 4,
@@ -7253,7 +7253,7 @@ const all-s-well-that-ends-well_2_4: SceneData = {
   autoInsights: {}
 };
 
-const all-s-well-that-ends-well_2_5: SceneData = {
+const all_s_well_that_ends_well_2_5: SceneData = {
   playTitle: 'All's Well That Ends Well',
   act: 2,
   scene: 5,
@@ -7911,7 +7911,7 @@ const all-s-well-that-ends-well_2_5: SceneData = {
   autoInsights: {}
 };
 
-const all-s-well-that-ends-well_3_1: SceneData = {
+const all_s_well_that_ends_well_3_1: SceneData = {
   playTitle: 'All's Well That Ends Well',
   act: 3,
   scene: 1,
@@ -8077,7 +8077,7 @@ const all-s-well-that-ends-well_3_1: SceneData = {
   autoInsights: {}
 };
 
-const all-s-well-that-ends-well_3_2: SceneData = {
+const all_s_well_that_ends_well_3_2: SceneData = {
   playTitle: 'All's Well That Ends Well',
   act: 3,
   scene: 2,
@@ -8882,7 +8882,7 @@ const all-s-well-that-ends-well_3_2: SceneData = {
   autoInsights: {}
 };
 
-const all-s-well-that-ends-well_3_3: SceneData = {
+const all_s_well_that_ends_well_3_3: SceneData = {
   playTitle: 'All's Well That Ends Well',
   act: 3,
   scene: 3,
@@ -8968,7 +8968,7 @@ const all-s-well-that-ends-well_3_3: SceneData = {
   autoInsights: {}
 };
 
-const all-s-well-that-ends-well_3_4: SceneData = {
+const all_s_well_that_ends_well_3_4: SceneData = {
   playTitle: 'All's Well That Ends Well',
   act: 3,
   scene: 4,
@@ -9192,7 +9192,7 @@ const all-s-well-that-ends-well_3_4: SceneData = {
   autoInsights: {}
 };
 
-const all-s-well-that-ends-well_3_5: SceneData = {
+const all_s_well_that_ends_well_3_5: SceneData = {
   playTitle: 'All's Well That Ends Well',
   act: 3,
   scene: 5,
@@ -9958,7 +9958,7 @@ const all-s-well-that-ends-well_3_5: SceneData = {
   autoInsights: {}
 };
 
-const all-s-well-that-ends-well_3_6: SceneData = {
+const all_s_well_that_ends_well_3_6: SceneData = {
   playTitle: 'All's Well That Ends Well',
   act: 3,
   scene: 6,
@@ -10667,7 +10667,7 @@ const all-s-well-that-ends-well_3_6: SceneData = {
   autoInsights: {}
 };
 
-const all-s-well-that-ends-well_3_7: SceneData = {
+const all_s_well_that_ends_well_3_7: SceneData = {
   playTitle: 'All's Well That Ends Well',
   act: 3,
   scene: 7,
@@ -10947,7 +10947,7 @@ const all-s-well-that-ends-well_3_7: SceneData = {
   autoInsights: {}
 };
 
-const all-s-well-that-ends-well_4_1: SceneData = {
+const all_s_well_that_ends_well_4_1: SceneData = {
   playTitle: 'All's Well That Ends Well',
   act: 4,
   scene: 1,
@@ -11629,7 +11629,7 @@ const all-s-well-that-ends-well_4_1: SceneData = {
   autoInsights: {}
 };
 
-const all-s-well-that-ends-well_4_2: SceneData = {
+const all_s_well_that_ends_well_4_2: SceneData = {
   playTitle: 'All's Well That Ends Well',
   act: 4,
   scene: 2,
@@ -12105,7 +12105,7 @@ const all-s-well-that-ends-well_4_2: SceneData = {
   autoInsights: {}
 };
 
-const all-s-well-that-ends-well_4_3: SceneData = {
+const all_s_well_that_ends_well_4_3: SceneData = {
   playTitle: 'All's Well That Ends Well',
   act: 4,
   scene: 3,
@@ -14215,7 +14215,7 @@ const all-s-well-that-ends-well_4_3: SceneData = {
   autoInsights: {}
 };
 
-const all-s-well-that-ends-well_4_4: SceneData = {
+const all_s_well_that_ends_well_4_4: SceneData = {
   playTitle: 'All's Well That Ends Well',
   act: 4,
   scene: 4,
@@ -14419,7 +14419,7 @@ const all-s-well-that-ends-well_4_4: SceneData = {
   autoInsights: {}
 };
 
-const all-s-well-that-ends-well_4_5: SceneData = {
+const all_s_well_that_ends_well_4_5: SceneData = {
   playTitle: 'All's Well That Ends Well',
   act: 4,
   scene: 5,
@@ -15064,7 +15064,7 @@ const all-s-well-that-ends-well_4_5: SceneData = {
   autoInsights: {}
 };
 
-const all-s-well-that-ends-well_5_1: SceneData = {
+const all_s_well_that_ends_well_5_1: SceneData = {
   playTitle: 'All's Well That Ends Well',
   act: 5,
   scene: 1,
@@ -15352,7 +15352,7 @@ const all-s-well-that-ends-well_5_1: SceneData = {
   autoInsights: {}
 };
 
-const all-s-well-that-ends-well_5_2: SceneData = {
+const all_s_well_that_ends_well_5_2: SceneData = {
   playTitle: 'All's Well That Ends Well',
   act: 5,
   scene: 2,
@@ -15698,7 +15698,7 @@ const all-s-well-that-ends-well_5_2: SceneData = {
   autoInsights: {}
 };
 
-const all-s-well-that-ends-well_5_3: SceneData = {
+const all_s_well_that_ends_well_5_3: SceneData = {
   playTitle: 'All's Well That Ends Well',
   act: 5,
   scene: 3,
@@ -17922,32 +17922,34 @@ const all-s-well-that-ends-well_5_3: SceneData = {
 };
 
 export const scenes: { [key: string]: SceneData } = {
-  'all-s-well-that-ends-well_1_1': all-s-well-that-ends-well_1_1,
-  'all-s-well-that-ends-well_1_2': all-s-well-that-ends-well_1_2,
-  'all-s-well-that-ends-well_1_3': all-s-well-that-ends-well_1_3,
-  'all-s-well-that-ends-well_2_1': all-s-well-that-ends-well_2_1,
-  'all-s-well-that-ends-well_2_2': all-s-well-that-ends-well_2_2,
-  'all-s-well-that-ends-well_2_3': all-s-well-that-ends-well_2_3,
-  'all-s-well-that-ends-well_2_4': all-s-well-that-ends-well_2_4,
-  'all-s-well-that-ends-well_2_5': all-s-well-that-ends-well_2_5,
-  'all-s-well-that-ends-well_3_1': all-s-well-that-ends-well_3_1,
-  'all-s-well-that-ends-well_3_2': all-s-well-that-ends-well_3_2,
-  'all-s-well-that-ends-well_3_3': all-s-well-that-ends-well_3_3,
-  'all-s-well-that-ends-well_3_4': all-s-well-that-ends-well_3_4,
-  'all-s-well-that-ends-well_3_5': all-s-well-that-ends-well_3_5,
-  'all-s-well-that-ends-well_3_6': all-s-well-that-ends-well_3_6,
-  'all-s-well-that-ends-well_3_7': all-s-well-that-ends-well_3_7,
-  'all-s-well-that-ends-well_4_1': all-s-well-that-ends-well_4_1,
-  'all-s-well-that-ends-well_4_2': all-s-well-that-ends-well_4_2,
-  'all-s-well-that-ends-well_4_3': all-s-well-that-ends-well_4_3,
-  'all-s-well-that-ends-well_4_4': all-s-well-that-ends-well_4_4,
-  'all-s-well-that-ends-well_4_5': all-s-well-that-ends-well_4_5,
-  'all-s-well-that-ends-well_5_1': all-s-well-that-ends-well_5_1,
-  'all-s-well-that-ends-well_5_2': all-s-well-that-ends-well_5_2,
-  'all-s-well-that-ends-well_5_3': all-s-well-that-ends-well_5_3,
+  'all_s_well_that_ends_well_1_1': all_s_well_that_ends_well_1_1,
+  'all_s_well_that_ends_well_1_2': all_s_well_that_ends_well_1_2,
+  'all_s_well_that_ends_well_1_3': all_s_well_that_ends_well_1_3,
+  'all_s_well_that_ends_well_2_1': all_s_well_that_ends_well_2_1,
+  'all_s_well_that_ends_well_2_2': all_s_well_that_ends_well_2_2,
+  'all_s_well_that_ends_well_2_3': all_s_well_that_ends_well_2_3,
+  'all_s_well_that_ends_well_2_4': all_s_well_that_ends_well_2_4,
+  'all_s_well_that_ends_well_2_5': all_s_well_that_ends_well_2_5,
+  'all_s_well_that_ends_well_3_1': all_s_well_that_ends_well_3_1,
+  'all_s_well_that_ends_well_3_2': all_s_well_that_ends_well_3_2,
+  'all_s_well_that_ends_well_3_3': all_s_well_that_ends_well_3_3,
+  'all_s_well_that_ends_well_3_4': all_s_well_that_ends_well_3_4,
+  'all_s_well_that_ends_well_3_5': all_s_well_that_ends_well_3_5,
+  'all_s_well_that_ends_well_3_6': all_s_well_that_ends_well_3_6,
+  'all_s_well_that_ends_well_3_7': all_s_well_that_ends_well_3_7,
+  'all_s_well_that_ends_well_4_1': all_s_well_that_ends_well_4_1,
+  'all_s_well_that_ends_well_4_2': all_s_well_that_ends_well_4_2,
+  'all_s_well_that_ends_well_4_3': all_s_well_that_ends_well_4_3,
+  'all_s_well_that_ends_well_4_4': all_s_well_that_ends_well_4_4,
+  'all_s_well_that_ends_well_4_5': all_s_well_that_ends_well_4_5,
+  'all_s_well_that_ends_well_5_1': all_s_well_that_ends_well_5_1,
+  'all_s_well_that_ends_well_5_2': all_s_well_that_ends_well_5_2,
+  'all_s_well_that_ends_well_5_3': all_s_well_that_ends_well_5_3,
 };
 
 export const getScene = (playId: string, act: number, scene: number): SceneData | null => {
-  const key = `${playId}_${act}_${scene}`;
+  // Normalize playId: convert hyphens to underscores to match our keys
+  const normalizedPlayId = playId.replace(/-/g, '_');
+  const key = `${normalizedPlayId}_${act}_${scene}`;
   return scenes[key] || null;
 };

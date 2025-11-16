@@ -171,7 +171,7 @@ function generateTypeScript(play) {
   output += `  autoInsights?: { [lineNumber: number]: string };\n`;
   output += `}\n\n`;
 
-  const playId = play.title.toLowerCase().replace(/[^a-z0-9]+/g, '-');
+  const playId = play.title.toLowerCase().replace(/[^a-z0-9]+/g, '_');
 
   for (const act of play.acts) {
     for (const scene of act.scenes) {
@@ -199,7 +199,9 @@ function generateTypeScript(play) {
 
   // Generate getScene function
   output += `export const getScene = (playId: string, act: number, scene: number): SceneData | null => {\n`;
-  output += `  const key = \`\${playId}_\${act}_\${scene}\`;\n`;
+  output += `  // Normalize playId: convert hyphens to underscores to match our keys\n`;
+  output += `  const normalizedPlayId = playId.replace(/-/g, '_');\n`;
+  output += `  const key = \`\${normalizedPlayId}_\${act}_\${scene}\`;\n`;
   output += `  return scenes[key] || null;\n`;
   output += `};\n`;
 
