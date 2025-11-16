@@ -1,17 +1,46 @@
 import { useState } from 'react';
-import { useParams, Link } from 'react-router-dom';
-import { MessageCircle, ChevronLeft, BookOpen } from 'lucide-react';
+import { useParams, Link, useNavigate } from 'react-router-dom';
+import { MessageCircle, ChevronLeft, ChevronRight, BookOpen } from 'lucide-react';
 import { getScene } from '../data/tempest';
 
 const TempestReader = () => {
   const { actId, sceneId } = useParams();
+  const navigate = useNavigate();
   const [selectedLineNumber, setSelectedLineNumber] = useState<number | null>(null);
   const [commentary, setCommentary] = useState('');
   const [loading, setLoading] = useState(false);
   const [conversationHistory, setConversationHistory] = useState<Array<{ role: string; content: string }>>([]);
   const [userQuestion, setUserQuestion] = useState('');
 
-  const sceneData = getScene('the-tempest', parseInt(actId!), parseInt(sceneId!));
+  const currentAct = parseInt(actId!);
+  const currentScene = parseInt(sceneId!);
+  const sceneData = getScene('the-tempest', currentAct, currentScene);
+
+  // Scene navigation helpers
+  const actSceneCounts: { [key: number]: number } = {
+    1: 2, 2: 2, 3: 3, 4: 1, 5: 1
+  };
+
+  const getNextScene = () => {
+    if (currentScene < actSceneCounts[currentAct]) {
+      return { act: currentAct, scene: currentScene + 1 };
+    } else if (currentAct < 5) {
+      return { act: currentAct + 1, scene: 1 };
+    }
+    return null;
+  };
+
+  const getPrevScene = () => {
+    if (currentScene > 1) {
+      return { act: currentAct, scene: currentScene - 1 };
+    } else if (currentAct > 1) {
+      return { act: currentAct - 1, scene: actSceneCounts[currentAct - 1] };
+    }
+    return null;
+  };
+
+  const nextScene = getNextScene();
+  const prevScene = getPrevScene();
 
   if (!sceneData) {
     return (
@@ -166,6 +195,32 @@ Keep it conversational but focused - like a knowledgeable friend explaining the 
                 </div>
               );
             })}
+          </div>
+
+          {/* Scene Navigation */}
+          <div className="mt-8 pt-6 border-t-2 border-amber-100 flex justify-between items-center">
+            {prevScene ? (
+              <button
+                onClick={() => navigate(`/play/the-tempest/${prevScene.act}/${prevScene.scene}`)}
+                className="flex items-center gap-2 px-4 py-2 bg-amber-100 hover:bg-amber-200 text-amber-900 rounded-lg transition-colors"
+              >
+                <ChevronLeft className="w-4 h-4" />
+                Previous Scene (Act {prevScene.act}, Scene {prevScene.scene})
+              </button>
+            ) : (
+              <div></div>
+            )}
+            {nextScene ? (
+              <button
+                onClick={() => navigate(`/play/the-tempest/${nextScene.act}/${nextScene.scene}`)}
+                className="flex items-center gap-2 px-4 py-2 bg-amber-600 hover:bg-amber-700 text-white rounded-lg transition-colors"
+              >
+                Next Scene (Act {nextScene.act}, Scene {nextScene.scene})
+                <ChevronRight className="w-4 h-4" />
+              </button>
+            ) : (
+              <div className="text-sm text-amber-600 italic">End of play</div>
+            )}
           </div>
         </div>
 
