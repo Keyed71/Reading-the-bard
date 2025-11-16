@@ -1,7 +1,8 @@
 import { useState } from 'react';
 import { useParams, Link, useNavigate } from 'react-router-dom';
-import { MessageCircle, ChevronLeft, ChevronRight, BookOpen } from 'lucide-react';
+import { MessageCircle, ChevronLeft, ChevronRight, BookOpen, Info } from 'lucide-react';
 import { getScene } from '../data/tempest';
+import { getSceneSynopsis } from '../data/play-metadata';
 
 const TempestReader = () => {
   const { actId, sceneId } = useParams();
@@ -15,6 +16,7 @@ const TempestReader = () => {
   const currentAct = parseInt(actId!);
   const currentScene = parseInt(sceneId!);
   const sceneData = getScene('the-tempest', currentAct, currentScene);
+  const sceneSynopsis = getSceneSynopsis('the-tempest', currentAct, currentScene);
 
   // Scene navigation helpers
   const actSceneCounts: { [key: number]: number } = {
@@ -148,6 +150,26 @@ Keep it conversational but focused - like a knowledgeable friend explaining the 
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
         {/* Text Panel */}
         <div className="bg-white rounded-xl shadow-lg p-8 border-2 border-amber-200">
+          {/* Scene Synopsis */}
+          {sceneSynopsis && (
+            <div className="mb-6 pb-6 border-b-2 border-amber-100">
+              <div className="flex items-start gap-3 mb-3">
+                <Info className="w-5 h-5 text-amber-700 flex-shrink-0 mt-0.5" />
+                <div>
+                  <h3 className="font-bold text-amber-900 text-lg mb-1">Scene Overview</h3>
+                  <p className="text-sm text-amber-600 italic mb-2">{sceneSynopsis.setting}</p>
+                  <p className="text-sm text-gray-700 leading-relaxed">{sceneSynopsis.summary}</p>
+                  {sceneSynopsis.characters && sceneSynopsis.characters.length > 0 && (
+                    <p className="text-xs text-amber-600 mt-2">
+                      <span className="font-semibold">Characters: </span>
+                      {sceneSynopsis.characters.join(', ')}
+                    </p>
+                  )}
+                </div>
+              </div>
+            </div>
+          )}
+
           <div className="mb-6 pb-4 border-b-2 border-amber-100">
             <p className="text-sm text-amber-600 mt-1">Click any line for detailed commentary</p>
           </div>
