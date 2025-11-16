@@ -13507,6 +13507,8 @@ export const scenes: { [key: string]: SceneData } = {
 };
 
 export const getScene = (playId: string, act: number, scene: number): SceneData | null => {
-  const key = `${playId}_${act}_${scene}`;
+  // Normalize playId: convert hyphens to underscores to match our keys
+  const normalizedPlayId = playId.replace(/-/g, '_');
+  const key = `${normalizedPlayId}_${act}_${scene}`;
   return scenes[key] || null;
 };
