@@ -22,26 +22,27 @@ const TempestReader = () => {
     );
   }
 
-  const getClaudeCommentary = async (lineNumber: number, lineText: string, isQuestion = false) => {
+  const getClaudeCommentary = async (lineNumber: number, lineText: string, speaker: string = '', isQuestion = false) => {
     setLoading(true);
 
     const contextPrompt = isQuestion
-      ? `The student is reading ${sceneData.playTitle}, Act ${actId}, Scene ${sceneId}. They're looking at line ${lineNumber}: "${lineText}".
+      ? `The student is reading ${sceneData.playTitle}, Act ${actId}, Scene ${sceneId}. They're looking at line ${lineNumber}, spoken by ${speaker}: "${lineText}".
 
 They have a question: ${userQuestion}
 
 As their Shakespeare teacher, provide a thoughtful, engaging answer. Be specific, use examples, and help deepen their understanding.`
       : `You are an expert Shakespeare teacher guiding a student through ${sceneData.playTitle}, Act ${actId}, Scene ${sceneId}.
 
-The student has clicked on line ${lineNumber}: "${lineText}"
+The student has clicked on line ${lineNumber}, which is spoken by ${speaker}:
+"${lineText}"
 
-Provide insightful commentary as the best teacher would. Include:
+Provide clear, direct commentary. Include:
 - What this line means in modern English
-- Literary devices or techniques Shakespeare uses
-- How it connects to the character and the play's themes
-- Any interesting historical/performance context
+- Why ${speaker} says this at this moment
+- Any literary devices Shakespeare uses here
+- How it connects to the play's themes
 
-Keep it conversational and engaging, like you're sitting next to them discussing the text. Be concise but illuminating (2-3 short paragraphs).`;
+Keep it conversational but focused - like a knowledgeable friend explaining the text. Be concise (2-3 short paragraphs). Avoid excessive praise or filler phrases.`;
 
     try {
       const messages = isQuestion
@@ -81,22 +82,22 @@ Keep it conversational and engaging, like you're sitting next to them discussing
     setLoading(false);
   };
 
-  const handleLineClick = (lineNumber: number, lineText: string) => {
+  const handleLineClick = (lineNumber: number, lineText: string, speaker: string) => {
     setSelectedLineNumber(lineNumber);
     setCommentary('');
     setConversationHistory([]);
-    getClaudeCommentary(lineNumber, lineText);
+    getClaudeCommentary(lineNumber, lineText, speaker);
   };
 
   const handleAskQuestion = () => {
     if (userQuestion.trim() && selectedLineNumber) {
-      // Find the line text
+      // Find the line text and speaker
       const speech = sceneData.speeches.find(s =>
         s.lines.some(l => l.lineNumber === selectedLineNumber)
       );
       const line = speech?.lines.find(l => l.lineNumber === selectedLineNumber);
-      if (line) {
-        getClaudeCommentary(selectedLineNumber, line.text, true);
+      if (line && speech) {
+        getClaudeCommentary(selectedLineNumber, line.text, speech.speaker, true);
       }
     }
   };
@@ -148,13 +149,13 @@ Keep it conversational and engaging, like you're sitting next to them discussing
                       {speech.lines.map((line, lineIndex) => (
                         <span
                           key={lineIndex}
-                          onClick={() => handleLineClick(line.lineNumber, line.text)}
+                          onClick={() => handleLineClick(line.lineNumber, line.text, speech.speaker)}
                           className={`cursor-pointer transition-colors inline ${
                             selectedLineNumber === line.lineNumber
                               ? 'bg-amber-200 rounded px-1'
                               : 'hover:bg-amber-50 rounded px-1'
                           }`}
-                          title={`Line ${line.lineNumber}`}
+                          title={`Line ${line.lineNumber} - ${speech.speaker}`}
                         >
                           {line.text}
                           {lineIndex < speech.lines.length - 1 && ' '}
