@@ -24,7 +24,7 @@ export interface SceneData {
   autoInsights?: { [lineNumber: number]: string };
 }
 
-const the_tempest_1_1: SceneData = {
+const the-tempest_1_1: SceneData = {
   playTitle: 'The Tempest',
   act: 1,
   scene: 1,
@@ -529,7 +529,7 @@ const the_tempest_1_1: SceneData = {
   autoInsights: {}
 };
 
-const the_tempest_1_2: SceneData = {
+const the-tempest_1_2: SceneData = {
   playTitle: 'The Tempest',
   act: 1,
   scene: 2,
@@ -3799,7 +3799,7 @@ const the_tempest_1_2: SceneData = {
   autoInsights: {}
 };
 
-const the_tempest_2_1: SceneData = {
+const the-tempest_2_1: SceneData = {
   playTitle: 'The Tempest',
   act: 2,
   scene: 1,
@@ -6148,7 +6148,7 @@ const the_tempest_2_1: SceneData = {
   autoInsights: {}
 };
 
-const the_tempest_2_2: SceneData = {
+const the-tempest_2_2: SceneData = {
   playTitle: 'The Tempest',
   act: 2,
   scene: 2,
@@ -7250,7 +7250,7 @@ const the_tempest_2_2: SceneData = {
   autoInsights: {}
 };
 
-const the_tempest_3_1: SceneData = {
+const the-tempest_3_1: SceneData = {
   playTitle: 'The Tempest',
   act: 3,
   scene: 1,
@@ -7866,7 +7866,7 @@ const the_tempest_3_1: SceneData = {
   autoInsights: {}
 };
 
-const the_tempest_3_2: SceneData = {
+const the-tempest_3_2: SceneData = {
   playTitle: 'The Tempest',
   act: 3,
   scene: 2,
@@ -8900,7 +8900,7 @@ const the_tempest_3_2: SceneData = {
   autoInsights: {}
 };
 
-const the_tempest_3_3: SceneData = {
+const the-tempest_3_3: SceneData = {
   playTitle: 'The Tempest',
   act: 3,
   scene: 3,
@@ -9677,7 +9677,7 @@ const the_tempest_3_3: SceneData = {
   autoInsights: {}
 };
 
-const the_tempest_4_1: SceneData = {
+const the-tempest_4_1: SceneData = {
   playTitle: 'The Tempest',
   act: 4,
   scene: 1,
@@ -11343,7 +11343,7 @@ const the_tempest_4_1: SceneData = {
   autoInsights: {}
 };
 
-const the_tempest_5_1: SceneData = {
+const the-tempest_5_1: SceneData = {
   playTitle: 'The Tempest',
   act: 5,
   scene: 1,
@@ -13516,21 +13516,18 @@ const the_tempest_5_1: SceneData = {
 };
 
 export const scenes: { [key: string]: SceneData } = {
-  'the_tempest_1_1': the_tempest_1_1,
-  'the_tempest_1_2': the_tempest_1_2,
-  'the_tempest_2_1': the_tempest_2_1,
-  'the_tempest_2_2': the_tempest_2_2,
-  'the_tempest_3_1': the_tempest_3_1,
-  'the_tempest_3_2': the_tempest_3_2,
-  'the_tempest_3_3': the_tempest_3_3,
-  'the_tempest_4_1': the_tempest_4_1,
-  'the_tempest_5_1': the_tempest_5_1,
+  'the-tempest_1_1': the-tempest_1_1,
+  'the-tempest_1_2': the-tempest_1_2,
+  'the-tempest_2_1': the-tempest_2_1,
+  'the-tempest_2_2': the-tempest_2_2,
+  'the-tempest_3_1': the-tempest_3_1,
+  'the-tempest_3_2': the-tempest_3_2,
+  'the-tempest_3_3': the-tempest_3_3,
+  'the-tempest_4_1': the-tempest_4_1,
+  'the-tempest_5_1': the-tempest_5_1,
 };
 
-
 export const getScene = (playId: string, act: number, scene: number): SceneData | null => {
-  // Normalize playId: convert hyphens to underscores to match our keys
-  const normalizedPlayId = playId.replace(/-/g, '_');
-  const key = `${normalizedPlayId}_${act}_${scene}`;
+  const key = `${playId}_${act}_${scene}`;
   return scenes[key] || null;
 };

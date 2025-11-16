@@ -30,8 +30,8 @@ function parseFolgerPlay(fileContent) {
   }
 
   function isSpeakerLine(line) {
-    // Speaker line: starts with uppercase and has 2+ spaces somewhere  
-    return /^[A-Z].*?\s{2,}/.test(line);
+    // Speaker line: starts with uppercase letter, has two spaces before dialogue
+    return /^[A-Z][A-Z\s,']+\s{2,}/.test(line);
   }
 
   function isStageDirection(line) {
