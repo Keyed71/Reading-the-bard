@@ -14,7 +14,7 @@ const AllsWellReader = () => {
 
   const currentAct = parseInt(actId!);
   const currentScene = parseInt(sceneId!);
-  const sceneData = getScene('alls-well-that-ends-well', currentAct, currentScene);
+  const sceneData = getScene('all-s-well-that-ends-well', currentAct, currentScene);
 
   // Scene navigation helpers
   const actSceneCounts: { [key: number]: number } = {
