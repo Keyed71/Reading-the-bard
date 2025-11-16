@@ -10,7 +10,8 @@
       "Bash(git push)",
       "Bash(npx vercel ls)",
       "Bash(git add:*)",
-      "Bash(npm run build:*)"
+      "Bash(npm run build:*)",
+      "Bash(npx vercel login)"
     ],
     "deny": [],
     "ask": []
