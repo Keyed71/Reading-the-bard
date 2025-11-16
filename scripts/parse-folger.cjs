@@ -66,7 +66,7 @@ function parseFolgerPlay(fileContent) {
       continue;
     }
 
-    // Scene marker
+    // Scene marker (including the ===== line that follows)
     if (trimmed.startsWith('Scene ')) {
       saveSpeech();
       const sceneNum = parseInt(trimmed.match(/Scene (\d+)/)?.[1] || '0');
@@ -79,6 +79,13 @@ function parseFolgerPlay(fileContent) {
         currentAct.scenes.push(currentScene);
       }
       lineNumber = 0;
+      currentSpeaker = '';
+      currentSpeech = [];
+      continue;
+    }
+
+    // Skip scene/act separator lines (=====)
+    if (/^=+$/.test(trimmed)) {
       continue;
     }
 
@@ -91,6 +98,13 @@ function parseFolgerPlay(fileContent) {
           text: trimmed.slice(1, -1)
         });
       }
+      continue;
+    }
+
+    // Speaker name alone on a line (common in Folger format)
+    if (/^[A-Z][A-Z\s,']+$/.test(trimmed) && trimmed.length < 30 && currentScene && !isStageDirection(line)) {
+      saveSpeech();
+      currentSpeaker = trimmed;
       continue;
     }
 

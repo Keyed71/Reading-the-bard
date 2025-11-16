@@ -535,71 +535,58 @@ const the_tempest_1_2: SceneData = {
   scene: 2,
   speeches: [
   {
-    "speaker": "GONZALO",
+    "speaker": "MIRANDA",
     "lines": [
       {
         "lineNumber": 1,
-        "text": "======="
-      }
-    ]
-  },
-  {
-    "speaker": "GONZALO",
-    "lines": [
-      {
-        "lineNumber": 2,
-        "text": "MIRANDA"
-      },
-      {
-        "lineNumber": 3,
         "text": "If by your art, my dearest father, you have"
       },
       {
-        "lineNumber": 4,
+        "lineNumber": 2,
         "text": "Put the wild waters in this roar, allay them."
       },
       {
-        "lineNumber": 5,
+        "lineNumber": 3,
         "text": "The sky, it seems, would pour down stinking pitch,"
       },
       {
-        "lineNumber": 6,
+        "lineNumber": 4,
         "text": "But that the sea, mounting to th' welkin's cheek,"
       },
       {
-        "lineNumber": 7,
+        "lineNumber": 5,
         "text": "Dashes the fire out. O, I have suffered"
       },
       {
-        "lineNumber": 8,
+        "lineNumber": 6,
         "text": "With those that I saw suffer! A brave vessel,"
       },
       {
-        "lineNumber": 9,
+        "lineNumber": 7,
         "text": "Who had, no doubt, some noble creature in her,"
       },
       {
-        "lineNumber": 10,
+        "lineNumber": 8,
         "text": "Dashed all to pieces. O, the cry did knock"
       },
       {
-        "lineNumber": 11,
+        "lineNumber": 9,
         "text": "Against my very heart! Poor souls, they perished."
       },
       {
-        "lineNumber": 12,
+        "lineNumber": 10,
         "text": "Had I been any god of power, I would"
       },
       {
-        "lineNumber": 13,
+        "lineNumber": 11,
         "text": "Have sunk the sea within the earth or ere"
       },
       {
-        "lineNumber": 14,
+        "lineNumber": 12,
         "text": "It should the good ship so have swallowed, and"
       },
       {
-        "lineNumber": 15,
+        "lineNumber": 13,
         "text": "The fraughting souls within her."
       }
     ]
@@ -608,15 +595,15 @@ const the_tempest_1_2: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 16,
+        "lineNumber": 14,
         "text": "Be collected."
       },
       {
-        "lineNumber": 17,
+        "lineNumber": 15,
         "text": "No more amazement. Tell your piteous heart"
       },
       {
-        "lineNumber": 18,
+        "lineNumber": 16,
         "text": "There's no harm done."
       }
     ]
@@ -625,7 +612,7 @@ const the_tempest_1_2: SceneData = {
     "speaker": "MIRANDA",
     "lines": [
       {
-        "lineNumber": 19,
+        "lineNumber": 17,
         "text": "O, woe the day!"
       }
     ]
@@ -634,31 +621,31 @@ const the_tempest_1_2: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 20,
+        "lineNumber": 18,
         "text": "No harm."
       },
       {
-        "lineNumber": 21,
+        "lineNumber": 19,
         "text": "I have done nothing but in care of thee,"
       },
       {
-        "lineNumber": 22,
+        "lineNumber": 20,
         "text": "Of thee, my dear one, thee, my daughter, who"
       },
       {
-        "lineNumber": 23,
+        "lineNumber": 21,
         "text": "Art ignorant of what thou art, naught knowing"
       },
       {
-        "lineNumber": 24,
+        "lineNumber": 22,
         "text": "Of whence I am, nor that I am more better"
       },
       {
-        "lineNumber": 25,
+        "lineNumber": 23,
         "text": "Than Prospero, master of a full poor cell,"
       },
       {
-        "lineNumber": 26,
+        "lineNumber": 24,
         "text": "And thy no greater father."
       }
     ]
@@ -667,11 +654,11 @@ const the_tempest_1_2: SceneData = {
     "speaker": "MIRANDA",
     "lines": [
       {
-        "lineNumber": 27,
+        "lineNumber": 25,
         "text": "More to know"
       },
       {
-        "lineNumber": 28,
+        "lineNumber": 26,
         "text": "Did never meddle with my thoughts."
       }
     ]
@@ -680,15 +667,15 @@ const the_tempest_1_2: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 29,
+        "lineNumber": 27,
         "text": "'Tis time"
       },
       {
-        "lineNumber": 30,
+        "lineNumber": 28,
         "text": "I should inform thee farther. Lend thy hand"
       },
       {
-        "lineNumber": 31,
+        "lineNumber": 29,
         "text": "And pluck my magic garment from me."
       }
     ]
@@ -697,47 +684,47 @@ const the_tempest_1_2: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 32,
+        "lineNumber": 30,
         "text": "So,"
       },
       {
-        "lineNumber": 33,
+        "lineNumber": 31,
         "text": "Lie there, my art.--Wipe thou thine eyes. Have"
       },
       {
-        "lineNumber": 34,
+        "lineNumber": 32,
         "text": "comfort."
       },
       {
-        "lineNumber": 35,
+        "lineNumber": 33,
         "text": "The direful spectacle of the wrack, which touched"
       },
       {
-        "lineNumber": 36,
+        "lineNumber": 34,
         "text": "The very virtue of compassion in thee,"
       },
       {
-        "lineNumber": 37,
+        "lineNumber": 35,
         "text": "I have with such provision in mine art"
       },
       {
-        "lineNumber": 38,
+        "lineNumber": 36,
         "text": "So safely ordered that there is no soul--"
       },
       {
-        "lineNumber": 39,
+        "lineNumber": 37,
         "text": "No, not so much perdition as an hair,"
       },
       {
-        "lineNumber": 40,
+        "lineNumber": 38,
         "text": "Betid to any creature in the vessel"
       },
       {
-        "lineNumber": 41,
+        "lineNumber": 39,
         "text": "Which thou heard'st cry, which thou saw'st sink. Sit"
       },
       {
-        "lineNumber": 42,
+        "lineNumber": 40,
         "text": "down,"
       }
     ]
@@ -746,19 +733,19 @@ const the_tempest_1_2: SceneData = {
     "speaker": "MIRANDA",
     "lines": [
       {
-        "lineNumber": 43,
+        "lineNumber": 41,
         "text": "You have often"
       },
       {
-        "lineNumber": 44,
+        "lineNumber": 42,
         "text": "Begun to tell me what I am, but stopped"
       },
       {
-        "lineNumber": 45,
+        "lineNumber": 43,
         "text": "And left me to a bootless inquisition,"
       },
       {
-        "lineNumber": 46,
+        "lineNumber": 44,
         "text": "Concluding \"Stay. Not yet.\""
       }
     ]
@@ -767,27 +754,27 @@ const the_tempest_1_2: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 47,
+        "lineNumber": 45,
         "text": "The hour's now come."
       },
       {
-        "lineNumber": 48,
+        "lineNumber": 46,
         "text": "The very minute bids thee ope thine ear."
       },
       {
-        "lineNumber": 49,
+        "lineNumber": 47,
         "text": "Obey, and be attentive. Canst thou remember"
       },
       {
-        "lineNumber": 50,
+        "lineNumber": 48,
         "text": "A time before we came unto this cell?"
       },
       {
-        "lineNumber": 51,
+        "lineNumber": 49,
         "text": "I do not think thou canst, for then thou wast not"
       },
       {
-        "lineNumber": 52,
+        "lineNumber": 50,
         "text": "Out three years old."
       }
     ]
@@ -796,28 +783,24 @@ const the_tempest_1_2: SceneData = {
     "speaker": "MIRANDA",
     "lines": [
       {
-        "lineNumber": 53,
+        "lineNumber": 51,
         "text": "Certainly, sir, I can."
       }
     ]
   },
   {
-    "speaker": "MIRANDA",
+    "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 54,
-        "text": "PROSPERO"
-      },
-      {
-        "lineNumber": 55,
+        "lineNumber": 52,
         "text": "By what? By any other house or person?"
       },
       {
-        "lineNumber": 56,
+        "lineNumber": 53,
         "text": "Of anything the image tell me that"
       },
       {
-        "lineNumber": 57,
+        "lineNumber": 54,
         "text": "Hath kept with thy remembrance."
       }
     ]
@@ -826,48 +809,44 @@ const the_tempest_1_2: SceneData = {
     "speaker": "MIRANDA",
     "lines": [
       {
-        "lineNumber": 58,
+        "lineNumber": 55,
         "text": "'Tis far off"
       },
       {
-        "lineNumber": 59,
+        "lineNumber": 56,
         "text": "And rather like a dream than an assurance"
       },
       {
-        "lineNumber": 60,
+        "lineNumber": 57,
         "text": "That my remembrance warrants. Had I not"
       },
       {
-        "lineNumber": 61,
+        "lineNumber": 58,
         "text": "Four or five women once that tended me?"
       }
     ]
   },
   {
-    "speaker": "MIRANDA",
+    "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 62,
-        "text": "PROSPERO"
-      },
-      {
-        "lineNumber": 63,
+        "lineNumber": 59,
         "text": "Thou hadst, and more, Miranda. But how is it"
       },
       {
-        "lineNumber": 64,
+        "lineNumber": 60,
         "text": "That this lives in thy mind? What seest thou else"
       },
       {
-        "lineNumber": 65,
+        "lineNumber": 61,
         "text": "In the dark backward and abysm of time?"
       },
       {
-        "lineNumber": 66,
+        "lineNumber": 62,
         "text": "If thou rememb'rest aught ere thou cam'st here,"
       },
       {
-        "lineNumber": 67,
+        "lineNumber": 63,
         "text": "How thou cam'st here thou mayst."
       }
     ]
@@ -876,28 +855,24 @@ const the_tempest_1_2: SceneData = {
     "speaker": "MIRANDA",
     "lines": [
       {
-        "lineNumber": 68,
+        "lineNumber": 64,
         "text": "But that I do not."
       }
     ]
   },
   {
-    "speaker": "MIRANDA",
+    "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 69,
-        "text": "PROSPERO"
-      },
-      {
-        "lineNumber": 70,
+        "lineNumber": 65,
         "text": "Twelve year since, Miranda, twelve year since,"
       },
       {
-        "lineNumber": 71,
+        "lineNumber": 66,
         "text": "Thy father was the Duke of Milan and"
       },
       {
-        "lineNumber": 72,
+        "lineNumber": 67,
         "text": "A prince of power."
       }
     ]
@@ -906,32 +881,28 @@ const the_tempest_1_2: SceneData = {
     "speaker": "MIRANDA",
     "lines": [
       {
-        "lineNumber": 73,
+        "lineNumber": 68,
         "text": "Sir, are not you my father?"
       }
     ]
   },
   {
-    "speaker": "MIRANDA",
+    "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 74,
-        "text": "PROSPERO"
-      },
-      {
-        "lineNumber": 75,
+        "lineNumber": 69,
         "text": "Thy mother was a piece of virtue, and"
       },
       {
-        "lineNumber": 76,
+        "lineNumber": 70,
         "text": "She said thou wast my daughter. And thy father"
       },
       {
-        "lineNumber": 77,
+        "lineNumber": 71,
         "text": "Was Duke of Milan, and his only heir"
       },
       {
-        "lineNumber": 78,
+        "lineNumber": 72,
         "text": "And princess no worse issued."
       }
     ]
@@ -940,15 +911,15 @@ const the_tempest_1_2: SceneData = {
     "speaker": "MIRANDA",
     "lines": [
       {
-        "lineNumber": 79,
+        "lineNumber": 73,
         "text": "O, the heavens!"
       },
       {
-        "lineNumber": 80,
+        "lineNumber": 74,
         "text": "What foul play had we that we came from thence?"
       },
       {
-        "lineNumber": 81,
+        "lineNumber": 75,
         "text": "Or blessed was 't we did?"
       }
     ]
@@ -957,15 +928,15 @@ const the_tempest_1_2: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 82,
+        "lineNumber": 76,
         "text": "Both, both, my girl."
       },
       {
-        "lineNumber": 83,
+        "lineNumber": 77,
         "text": "By foul play, as thou sayst, were we heaved thence,"
       },
       {
-        "lineNumber": 84,
+        "lineNumber": 78,
         "text": "But blessedly holp hither."
       }
     ]
@@ -974,80 +945,76 @@ const the_tempest_1_2: SceneData = {
     "speaker": "MIRANDA",
     "lines": [
       {
-        "lineNumber": 85,
+        "lineNumber": 79,
         "text": "O, my heart bleeds"
       },
       {
-        "lineNumber": 86,
+        "lineNumber": 80,
         "text": "To think o' th' teen that I have turned you to,"
       },
       {
-        "lineNumber": 87,
+        "lineNumber": 81,
         "text": "Which is from my remembrance. Please you,"
       },
       {
-        "lineNumber": 88,
+        "lineNumber": 82,
         "text": "farther."
       }
     ]
   },
   {
-    "speaker": "MIRANDA",
+    "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 89,
-        "text": "PROSPERO"
-      },
-      {
-        "lineNumber": 90,
+        "lineNumber": 83,
         "text": "My brother and thy uncle, called Antonio--"
       },
       {
-        "lineNumber": 91,
+        "lineNumber": 84,
         "text": "I pray thee, mark me--that a brother should"
       },
       {
-        "lineNumber": 92,
+        "lineNumber": 85,
         "text": "Be so perfidious!--he whom next thyself"
       },
       {
-        "lineNumber": 93,
+        "lineNumber": 86,
         "text": "Of all the world I loved, and to him put"
       },
       {
-        "lineNumber": 94,
+        "lineNumber": 87,
         "text": "The manage of my state, as at that time"
       },
       {
-        "lineNumber": 95,
+        "lineNumber": 88,
         "text": "Through all the signories it was the first,"
       },
       {
-        "lineNumber": 96,
+        "lineNumber": 89,
         "text": "And Prospero the prime duke, being so reputed"
       },
       {
-        "lineNumber": 97,
+        "lineNumber": 90,
         "text": "In dignity, and for the liberal arts"
       },
       {
-        "lineNumber": 98,
+        "lineNumber": 91,
         "text": "Without a parallel. Those being all my study,"
       },
       {
-        "lineNumber": 99,
+        "lineNumber": 92,
         "text": "The government I cast upon my brother"
       },
       {
-        "lineNumber": 100,
+        "lineNumber": 93,
         "text": "And to my state grew stranger, being transported"
       },
       {
-        "lineNumber": 101,
+        "lineNumber": 94,
         "text": "And rapt in secret studies. Thy false uncle--"
       },
       {
-        "lineNumber": 102,
+        "lineNumber": 95,
         "text": "Dost thou attend me?"
       }
     ]
@@ -1056,52 +1023,48 @@ const the_tempest_1_2: SceneData = {
     "speaker": "MIRANDA",
     "lines": [
       {
-        "lineNumber": 103,
+        "lineNumber": 96,
         "text": "Sir, most heedfully."
       }
     ]
   },
   {
-    "speaker": "MIRANDA",
+    "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 104,
-        "text": "PROSPERO"
-      },
-      {
-        "lineNumber": 105,
+        "lineNumber": 97,
         "text": "Being once perfected how to grant suits,"
       },
       {
-        "lineNumber": 106,
+        "lineNumber": 98,
         "text": "How to deny them, who t' advance, and who"
       },
       {
-        "lineNumber": 107,
+        "lineNumber": 99,
         "text": "To trash for overtopping, new created"
       },
       {
-        "lineNumber": 108,
+        "lineNumber": 100,
         "text": "The creatures that were mine, I say, or changed 'em,"
       },
       {
-        "lineNumber": 109,
+        "lineNumber": 101,
         "text": "Or else new formed 'em, having both the key"
       },
       {
-        "lineNumber": 110,
+        "lineNumber": 102,
         "text": "Of officer and office, set all hearts i' th' state"
       },
       {
-        "lineNumber": 111,
+        "lineNumber": 103,
         "text": "To what tune pleased his ear, that now he was"
       },
       {
-        "lineNumber": 112,
+        "lineNumber": 104,
         "text": "The ivy which had hid my princely trunk"
       },
       {
-        "lineNumber": 113,
+        "lineNumber": 105,
         "text": "And sucked my verdure out on 't. Thou attend'st not."
       }
     ]
@@ -1110,11 +1073,7 @@ const the_tempest_1_2: SceneData = {
     "speaker": "MIRANDA",
     "lines": [
       {
-        "lineNumber": 114,
-        "text": "MIRANDA"
-      },
-      {
-        "lineNumber": 115,
+        "lineNumber": 106,
         "text": "O, good sir, I do."
       }
     ]
@@ -1123,92 +1082,88 @@ const the_tempest_1_2: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 116,
+        "lineNumber": 107,
         "text": "I pray thee, mark me."
       },
       {
-        "lineNumber": 117,
+        "lineNumber": 108,
         "text": "I, thus neglecting worldly ends, all dedicated"
       },
       {
-        "lineNumber": 118,
+        "lineNumber": 109,
         "text": "To closeness and the bettering of my mind"
       },
       {
-        "lineNumber": 119,
+        "lineNumber": 110,
         "text": "With that which, but by being so retired,"
       },
       {
-        "lineNumber": 120,
+        "lineNumber": 111,
         "text": "O'erprized all popular rate, in my false brother"
       },
       {
-        "lineNumber": 121,
+        "lineNumber": 112,
         "text": "Awaked an evil nature, and my trust,"
       },
       {
-        "lineNumber": 122,
+        "lineNumber": 113,
         "text": "Like a good parent, did beget of him"
       },
       {
-        "lineNumber": 123,
+        "lineNumber": 114,
         "text": "A falsehood in its contrary as great"
       },
       {
-        "lineNumber": 124,
+        "lineNumber": 115,
         "text": "As my trust was, which had indeed no limit,"
       },
       {
-        "lineNumber": 125,
+        "lineNumber": 116,
         "text": "A confidence sans bound. He being thus lorded,"
       },
       {
-        "lineNumber": 126,
+        "lineNumber": 117,
         "text": "Not only with what my revenue yielded"
       },
       {
-        "lineNumber": 127,
+        "lineNumber": 118,
         "text": "But what my power might else exact, like one"
       },
       {
-        "lineNumber": 128,
+        "lineNumber": 119,
         "text": "Who, having into truth by telling of it,"
       },
       {
-        "lineNumber": 129,
+        "lineNumber": 120,
         "text": "Made such a sinner of his memory"
       },
       {
-        "lineNumber": 130,
+        "lineNumber": 121,
         "text": "To credit his own lie, he did believe"
       },
       {
-        "lineNumber": 131,
+        "lineNumber": 122,
         "text": "He was indeed the Duke, out o' th' substitution"
       },
       {
-        "lineNumber": 132,
+        "lineNumber": 123,
         "text": "And executing th' outward face of royalty"
       },
       {
-        "lineNumber": 133,
+        "lineNumber": 124,
         "text": "With all prerogative. Hence, his ambition growing--"
       },
       {
-        "lineNumber": 134,
+        "lineNumber": 125,
         "text": "Dost thou hear?"
       }
     ]
   },
   {
-    "speaker": "PROSPERO",
+    "speaker": "MIRANDA",
     "lines": [
       {
-        "lineNumber": 135,
-        "text": "MIRANDA"
-      },
-      {
-        "lineNumber": 136,
+        "lineNumber": 126,
         "text": "Your tale, sir, would cure deafness."
       }
     ]
@@ -1217,47 +1172,43 @@ const the_tempest_1_2: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 137,
-        "text": "PROSPERO"
-      },
-      {
-        "lineNumber": 138,
+        "lineNumber": 127,
         "text": "To have no screen between this part he played"
       },
       {
-        "lineNumber": 139,
+        "lineNumber": 128,
         "text": "And him he played it for, he needs will be"
       },
       {
-        "lineNumber": 140,
+        "lineNumber": 129,
         "text": "Absolute Milan. Me, poor man, my library"
       },
       {
-        "lineNumber": 141,
+        "lineNumber": 130,
         "text": "Was dukedom large enough. Of temporal royalties"
       },
       {
-        "lineNumber": 142,
+        "lineNumber": 131,
         "text": "He thinks me now incapable; confederates,"
       },
       {
-        "lineNumber": 143,
+        "lineNumber": 132,
         "text": "So dry he was for sway, wi' th' King of Naples"
       },
       {
-        "lineNumber": 144,
+        "lineNumber": 133,
         "text": "To give him annual tribute, do him homage,"
       },
       {
-        "lineNumber": 145,
+        "lineNumber": 134,
         "text": "Subject his coronet to his crown, and bend"
       },
       {
-        "lineNumber": 146,
+        "lineNumber": 135,
         "text": "The dukedom, yet unbowed--alas, poor Milan!--"
       },
       {
-        "lineNumber": 147,
+        "lineNumber": 136,
         "text": "To most ignoble stooping."
       }
     ]
@@ -1266,24 +1217,20 @@ const the_tempest_1_2: SceneData = {
     "speaker": "MIRANDA",
     "lines": [
       {
-        "lineNumber": 148,
+        "lineNumber": 137,
         "text": "O, the heavens!"
       }
     ]
   },
   {
-    "speaker": "MIRANDA",
+    "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 149,
-        "text": "PROSPERO"
-      },
-      {
-        "lineNumber": 150,
+        "lineNumber": 138,
         "text": "Mark his condition and th' event. Then tell me"
       },
       {
-        "lineNumber": 151,
+        "lineNumber": 139,
         "text": "If this might be a brother."
       }
     ]
@@ -1292,15 +1239,15 @@ const the_tempest_1_2: SceneData = {
     "speaker": "MIRANDA",
     "lines": [
       {
-        "lineNumber": 152,
+        "lineNumber": 140,
         "text": "I should sin"
       },
       {
-        "lineNumber": 153,
+        "lineNumber": 141,
         "text": "To think but nobly of my grandmother."
       },
       {
-        "lineNumber": 154,
+        "lineNumber": 142,
         "text": "Good wombs have borne bad sons."
       }
     ]
@@ -1309,55 +1256,55 @@ const the_tempest_1_2: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 155,
+        "lineNumber": 143,
         "text": "Now the condition."
       },
       {
-        "lineNumber": 156,
+        "lineNumber": 144,
         "text": "This King of Naples, being an enemy"
       },
       {
-        "lineNumber": 157,
+        "lineNumber": 145,
         "text": "To me inveterate, hearkens my brother's suit,"
       },
       {
-        "lineNumber": 158,
+        "lineNumber": 146,
         "text": "Which was that he, in lieu o' th' premises"
       },
       {
-        "lineNumber": 159,
+        "lineNumber": 147,
         "text": "Of homage and I know not how much tribute,"
       },
       {
-        "lineNumber": 160,
+        "lineNumber": 148,
         "text": "Should presently extirpate me and mine"
       },
       {
-        "lineNumber": 161,
+        "lineNumber": 149,
         "text": "Out of the dukedom, and confer fair Milan,"
       },
       {
-        "lineNumber": 162,
+        "lineNumber": 150,
         "text": "With all the honors, on my brother; whereon,"
       },
       {
-        "lineNumber": 163,
+        "lineNumber": 151,
         "text": "A treacherous army levied, one midnight"
       },
       {
-        "lineNumber": 164,
+        "lineNumber": 152,
         "text": "Fated to th' purpose did Antonio open"
       },
       {
-        "lineNumber": 165,
+        "lineNumber": 153,
         "text": "The gates of Milan, and i' th' dead of darkness"
       },
       {
-        "lineNumber": 166,
+        "lineNumber": 154,
         "text": "The ministers for th' purpose hurried thence"
       },
       {
-        "lineNumber": 167,
+        "lineNumber": 155,
         "text": "Me and thy crying self."
       }
     ]
@@ -1366,19 +1313,19 @@ const the_tempest_1_2: SceneData = {
     "speaker": "MIRANDA",
     "lines": [
       {
-        "lineNumber": 168,
+        "lineNumber": 156,
         "text": "Alack, for pity!"
       },
       {
-        "lineNumber": 169,
+        "lineNumber": 157,
         "text": "I, not rememb'ring how I cried out then,"
       },
       {
-        "lineNumber": 170,
+        "lineNumber": 158,
         "text": "Will cry it o'er again. It is a hint"
       },
       {
-        "lineNumber": 171,
+        "lineNumber": 159,
         "text": "That wrings mine eyes to 't."
       }
     ]
@@ -1387,19 +1334,19 @@ const the_tempest_1_2: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 172,
+        "lineNumber": 160,
         "text": "Hear a little further,"
       },
       {
-        "lineNumber": 173,
+        "lineNumber": 161,
         "text": "And then I'll bring thee to the present business"
       },
       {
-        "lineNumber": 174,
+        "lineNumber": 162,
         "text": "Which now 's upon 's, without the which this story"
       },
       {
-        "lineNumber": 175,
+        "lineNumber": 163,
         "text": "Were most impertinent."
       }
     ]
@@ -1408,11 +1355,11 @@ const the_tempest_1_2: SceneData = {
     "speaker": "MIRANDA",
     "lines": [
       {
-        "lineNumber": 176,
+        "lineNumber": 164,
         "text": "Wherefore did they not"
       },
       {
-        "lineNumber": 177,
+        "lineNumber": 165,
         "text": "That hour destroy us?"
       }
     ]
@@ -1421,55 +1368,55 @@ const the_tempest_1_2: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 178,
+        "lineNumber": 166,
         "text": "Well demanded, wench."
       },
       {
-        "lineNumber": 179,
+        "lineNumber": 167,
         "text": "My tale provokes that question. Dear, they durst not,"
       },
       {
-        "lineNumber": 180,
+        "lineNumber": 168,
         "text": "So dear the love my people bore me, nor set"
       },
       {
-        "lineNumber": 181,
+        "lineNumber": 169,
         "text": "A mark so bloody on the business, but"
       },
       {
-        "lineNumber": 182,
+        "lineNumber": 170,
         "text": "With colors fairer painted their foul ends."
       },
       {
-        "lineNumber": 183,
+        "lineNumber": 171,
         "text": "In few, they hurried us aboard a bark,"
       },
       {
-        "lineNumber": 184,
+        "lineNumber": 172,
         "text": "Bore us some leagues to sea, where they prepared"
       },
       {
-        "lineNumber": 185,
+        "lineNumber": 173,
         "text": "A rotten carcass of a butt, not rigged,"
       },
       {
-        "lineNumber": 186,
+        "lineNumber": 174,
         "text": "Nor tackle, sail, nor mast; the very rats"
       },
       {
-        "lineNumber": 187,
+        "lineNumber": 175,
         "text": "Instinctively have quit it. There they hoist us"
       },
       {
-        "lineNumber": 188,
+        "lineNumber": 176,
         "text": "To cry to th' sea that roared to us, to sigh"
       },
       {
-        "lineNumber": 189,
+        "lineNumber": 177,
         "text": "To th' winds, whose pity, sighing back again,"
       },
       {
-        "lineNumber": 190,
+        "lineNumber": 178,
         "text": "Did us but loving wrong."
       }
     ]
@@ -1478,11 +1425,11 @@ const the_tempest_1_2: SceneData = {
     "speaker": "MIRANDA",
     "lines": [
       {
-        "lineNumber": 191,
+        "lineNumber": 179,
         "text": "Alack, what trouble"
       },
       {
-        "lineNumber": 192,
+        "lineNumber": 180,
         "text": "Was I then to you!"
       }
     ]
@@ -1491,31 +1438,31 @@ const the_tempest_1_2: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 193,
+        "lineNumber": 181,
         "text": "O, a cherubin"
       },
       {
-        "lineNumber": 194,
+        "lineNumber": 182,
         "text": "Thou wast that did preserve me. Thou didst smile,"
       },
       {
-        "lineNumber": 195,
+        "lineNumber": 183,
         "text": "Infused with a fortitude from heaven,"
       },
       {
-        "lineNumber": 196,
+        "lineNumber": 184,
         "text": "When I have decked the sea with drops full salt,"
       },
       {
-        "lineNumber": 197,
+        "lineNumber": 185,
         "text": "Under my burden groaned, which raised in me"
       },
       {
-        "lineNumber": 198,
+        "lineNumber": 186,
         "text": "An undergoing stomach to bear up"
       },
       {
-        "lineNumber": 199,
+        "lineNumber": 187,
         "text": "Against what should ensue."
       }
     ]
@@ -1524,7 +1471,7 @@ const the_tempest_1_2: SceneData = {
     "speaker": "MIRANDA",
     "lines": [
       {
-        "lineNumber": 200,
+        "lineNumber": 188,
         "text": "How came we ashore?"
       }
     ]
@@ -1533,47 +1480,47 @@ const the_tempest_1_2: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 201,
+        "lineNumber": 189,
         "text": "By providence divine."
       },
       {
-        "lineNumber": 202,
+        "lineNumber": 190,
         "text": "Some food we had, and some fresh water, that"
       },
       {
-        "lineNumber": 203,
+        "lineNumber": 191,
         "text": "A noble Neapolitan, Gonzalo,"
       },
       {
-        "lineNumber": 204,
+        "lineNumber": 192,
         "text": "Out of his charity, who being then appointed"
       },
       {
-        "lineNumber": 205,
+        "lineNumber": 193,
         "text": "Master of this design, did give us, with"
       },
       {
-        "lineNumber": 206,
+        "lineNumber": 194,
         "text": "Rich garments, linens, stuffs, and necessaries,"
       },
       {
-        "lineNumber": 207,
+        "lineNumber": 195,
         "text": "Which since have steaded much. So, of his"
       },
       {
-        "lineNumber": 208,
+        "lineNumber": 196,
         "text": "gentleness,"
       },
       {
-        "lineNumber": 209,
+        "lineNumber": 197,
         "text": "Knowing I loved my books, he furnished me"
       },
       {
-        "lineNumber": 210,
+        "lineNumber": 198,
         "text": "From mine own library with volumes that"
       },
       {
-        "lineNumber": 211,
+        "lineNumber": 199,
         "text": "I prize above my dukedom."
       }
     ]
@@ -1582,11 +1529,11 @@ const the_tempest_1_2: SceneData = {
     "speaker": "MIRANDA",
     "lines": [
       {
-        "lineNumber": 212,
+        "lineNumber": 200,
         "text": "Would I might"
       },
       {
-        "lineNumber": 213,
+        "lineNumber": 201,
         "text": "But ever see that man."
       }
     ]
@@ -1595,27 +1542,27 @@ const the_tempest_1_2: SceneData = {
     "speaker": "MIRANDA",
     "lines": [
       {
-        "lineNumber": 214,
+        "lineNumber": 202,
         "text": "PROSPERO, [standing]  Now I arise."
       },
       {
-        "lineNumber": 215,
+        "lineNumber": 203,
         "text": "Sit still, and hear the last of our sea-sorrow."
       },
       {
-        "lineNumber": 216,
+        "lineNumber": 204,
         "text": "Here in this island we arrived, and here"
       },
       {
-        "lineNumber": 217,
+        "lineNumber": 205,
         "text": "Have I, thy schoolmaster, made thee more profit"
       },
       {
-        "lineNumber": 218,
+        "lineNumber": 206,
         "text": "Than other princes can, that have more time"
       },
       {
-        "lineNumber": 219,
+        "lineNumber": 207,
         "text": "For vainer hours and tutors not so careful."
       }
     ]
@@ -1624,19 +1571,15 @@ const the_tempest_1_2: SceneData = {
     "speaker": "MIRANDA",
     "lines": [
       {
-        "lineNumber": 220,
-        "text": "MIRANDA"
-      },
-      {
-        "lineNumber": 221,
+        "lineNumber": 208,
         "text": "Heavens thank you for 't. And now I pray you, sir--"
       },
       {
-        "lineNumber": 222,
+        "lineNumber": 209,
         "text": "For still 'tis beating in my mind--your reason"
       },
       {
-        "lineNumber": 223,
+        "lineNumber": 210,
         "text": "For raising this sea storm?"
       }
     ]
@@ -1645,43 +1588,43 @@ const the_tempest_1_2: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 224,
+        "lineNumber": 211,
         "text": "Know thus far forth:"
       },
       {
-        "lineNumber": 225,
+        "lineNumber": 212,
         "text": "By accident most strange, bountiful Fortune,"
       },
       {
-        "lineNumber": 226,
+        "lineNumber": 213,
         "text": "Now my dear lady, hath mine enemies"
       },
       {
-        "lineNumber": 227,
+        "lineNumber": 214,
         "text": "Brought to this shore; and by my prescience"
       },
       {
-        "lineNumber": 228,
+        "lineNumber": 215,
         "text": "I find my zenith doth depend upon"
       },
       {
-        "lineNumber": 229,
+        "lineNumber": 216,
         "text": "A most auspicious star, whose influence"
       },
       {
-        "lineNumber": 230,
+        "lineNumber": 217,
         "text": "If now I court not, but omit, my fortunes"
       },
       {
-        "lineNumber": 231,
+        "lineNumber": 218,
         "text": "Will ever after droop. Here cease more questions."
       },
       {
-        "lineNumber": 232,
+        "lineNumber": 219,
         "text": "Thou art inclined to sleep. 'Tis a good dullness,"
       },
       {
-        "lineNumber": 233,
+        "lineNumber": 220,
         "text": "And give it way. I know thou canst not choose."
       }
     ]
@@ -1690,40 +1633,36 @@ const the_tempest_1_2: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 234,
+        "lineNumber": 221,
         "text": "Come away, servant, come. I am ready now."
       },
       {
-        "lineNumber": 235,
+        "lineNumber": 222,
         "text": "Approach, my Ariel. Come."
       }
     ]
   },
   {
-    "speaker": "PROSPERO",
+    "speaker": "ARIEL",
     "lines": [
       {
-        "lineNumber": 236,
-        "text": "ARIEL"
-      },
-      {
-        "lineNumber": 237,
+        "lineNumber": 223,
         "text": "All hail, great master! Grave sir, hail! I come"
       },
       {
-        "lineNumber": 238,
+        "lineNumber": 224,
         "text": "To answer thy best pleasure. Be 't to fly,"
       },
       {
-        "lineNumber": 239,
+        "lineNumber": 225,
         "text": "To swim, to dive into the fire, to ride"
       },
       {
-        "lineNumber": 240,
+        "lineNumber": 226,
         "text": "On the curled clouds, to thy strong bidding task"
       },
       {
-        "lineNumber": 241,
+        "lineNumber": 227,
         "text": "Ariel and all his quality."
       }
     ]
@@ -1732,11 +1671,11 @@ const the_tempest_1_2: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 242,
+        "lineNumber": 228,
         "text": "Hast thou, spirit,"
       },
       {
-        "lineNumber": 243,
+        "lineNumber": 229,
         "text": "Performed to point the tempest that I bade thee?"
       }
     ]
@@ -1745,51 +1684,51 @@ const the_tempest_1_2: SceneData = {
     "speaker": "ARIEL",
     "lines": [
       {
-        "lineNumber": 244,
+        "lineNumber": 230,
         "text": "To every article."
       },
       {
-        "lineNumber": 245,
+        "lineNumber": 231,
         "text": "I boarded the King's ship; now on the beak,"
       },
       {
-        "lineNumber": 246,
+        "lineNumber": 232,
         "text": "Now in the waist, the deck, in every cabin,"
       },
       {
-        "lineNumber": 247,
+        "lineNumber": 233,
         "text": "I flamed amazement. Sometimes I'd divide"
       },
       {
-        "lineNumber": 248,
+        "lineNumber": 234,
         "text": "And burn in many places. On the topmast,"
       },
       {
-        "lineNumber": 249,
+        "lineNumber": 235,
         "text": "The yards, and bowsprit would I flame distinctly,"
       },
       {
-        "lineNumber": 250,
+        "lineNumber": 236,
         "text": "Then meet and join. Jove's lightning, the precursors"
       },
       {
-        "lineNumber": 251,
+        "lineNumber": 237,
         "text": "O' th' dreadful thunderclaps, more momentary"
       },
       {
-        "lineNumber": 252,
+        "lineNumber": 238,
         "text": "And sight-outrunning were not. The fire and cracks"
       },
       {
-        "lineNumber": 253,
+        "lineNumber": 239,
         "text": "Of sulfurous roaring the most mighty Neptune"
       },
       {
-        "lineNumber": 254,
+        "lineNumber": 240,
         "text": "Seem to besiege and make his bold waves tremble,"
       },
       {
-        "lineNumber": 255,
+        "lineNumber": 241,
         "text": "Yea, his dread trident shake."
       }
     ]
@@ -1798,15 +1737,15 @@ const the_tempest_1_2: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 256,
+        "lineNumber": 242,
         "text": "My brave spirit!"
       },
       {
-        "lineNumber": 257,
+        "lineNumber": 243,
         "text": "Who was so firm, so constant, that this coil"
       },
       {
-        "lineNumber": 258,
+        "lineNumber": 244,
         "text": "Would not infect his reason?"
       }
     ]
@@ -1815,35 +1754,35 @@ const the_tempest_1_2: SceneData = {
     "speaker": "ARIEL",
     "lines": [
       {
-        "lineNumber": 259,
+        "lineNumber": 245,
         "text": "Not a soul"
       },
       {
-        "lineNumber": 260,
+        "lineNumber": 246,
         "text": "But felt a fever of the mad, and played"
       },
       {
-        "lineNumber": 261,
+        "lineNumber": 247,
         "text": "Some tricks of desperation. All but mariners"
       },
       {
-        "lineNumber": 262,
+        "lineNumber": 248,
         "text": "Plunged in the foaming brine and quit the vessel,"
       },
       {
-        "lineNumber": 263,
+        "lineNumber": 249,
         "text": "Then all afire with me. The King's son, Ferdinand,"
       },
       {
-        "lineNumber": 264,
+        "lineNumber": 250,
         "text": "With hair up-staring--then like reeds, not hair--"
       },
       {
-        "lineNumber": 265,
+        "lineNumber": 251,
         "text": "Was the first man that leaped; cried \"Hell is empty,"
       },
       {
-        "lineNumber": 266,
+        "lineNumber": 252,
         "text": "And all the devils are here.\""
       }
     ]
@@ -1852,11 +1791,11 @@ const the_tempest_1_2: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 267,
+        "lineNumber": 253,
         "text": "Why, that's my spirit!"
       },
       {
-        "lineNumber": 268,
+        "lineNumber": 254,
         "text": "But was not this nigh shore?"
       }
     ]
@@ -1865,20 +1804,16 @@ const the_tempest_1_2: SceneData = {
     "speaker": "ARIEL",
     "lines": [
       {
-        "lineNumber": 269,
+        "lineNumber": 255,
         "text": "Close by, my master."
       }
     ]
   },
   {
-    "speaker": "ARIEL",
+    "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 270,
-        "text": "PROSPERO"
-      },
-      {
-        "lineNumber": 271,
+        "lineNumber": 256,
         "text": "But are they, Ariel, safe?"
       }
     ]
@@ -1887,31 +1822,31 @@ const the_tempest_1_2: SceneData = {
     "speaker": "ARIEL",
     "lines": [
       {
-        "lineNumber": 272,
+        "lineNumber": 257,
         "text": "Not a hair perished."
       },
       {
-        "lineNumber": 273,
+        "lineNumber": 258,
         "text": "On their sustaining garments not a blemish,"
       },
       {
-        "lineNumber": 274,
+        "lineNumber": 259,
         "text": "But fresher than before; and, as thou bad'st me,"
       },
       {
-        "lineNumber": 275,
+        "lineNumber": 260,
         "text": "In troops I have dispersed them 'bout the isle."
       },
       {
-        "lineNumber": 276,
+        "lineNumber": 261,
         "text": "The King's son have I landed by himself,"
       },
       {
-        "lineNumber": 277,
+        "lineNumber": 262,
         "text": "Whom I left cooling of the air with sighs"
       },
       {
-        "lineNumber": 278,
+        "lineNumber": 263,
         "text": "In an odd angle of the isle, and sitting,"
       }
     ]
@@ -1920,15 +1855,15 @@ const the_tempest_1_2: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 279,
+        "lineNumber": 264,
         "text": "Of the King's ship,"
       },
       {
-        "lineNumber": 280,
+        "lineNumber": 265,
         "text": "The mariners say how thou hast disposed,"
       },
       {
-        "lineNumber": 281,
+        "lineNumber": 266,
         "text": "And all the rest o' th' fleet."
       }
     ]
@@ -1937,51 +1872,51 @@ const the_tempest_1_2: SceneData = {
     "speaker": "ARIEL",
     "lines": [
       {
-        "lineNumber": 282,
+        "lineNumber": 267,
         "text": "Safely in harbor"
       },
       {
-        "lineNumber": 283,
+        "lineNumber": 268,
         "text": "Is the King's ship. In the deep nook, where once"
       },
       {
-        "lineNumber": 284,
+        "lineNumber": 269,
         "text": "Thou called'st me up at midnight to fetch dew"
       },
       {
-        "lineNumber": 285,
+        "lineNumber": 270,
         "text": "From the still-vexed Bermoothes, there she's hid;"
       },
       {
-        "lineNumber": 286,
+        "lineNumber": 271,
         "text": "The mariners all under hatches stowed,"
       },
       {
-        "lineNumber": 287,
+        "lineNumber": 272,
         "text": "Who, with a charm joined to their suffered labor,"
       },
       {
-        "lineNumber": 288,
+        "lineNumber": 273,
         "text": "I have left asleep. And for the rest o' th' fleet,"
       },
       {
-        "lineNumber": 289,
+        "lineNumber": 274,
         "text": "Which I dispersed, they all have met again"
       },
       {
-        "lineNumber": 290,
+        "lineNumber": 275,
         "text": "And are upon the Mediterranean float,"
       },
       {
-        "lineNumber": 291,
+        "lineNumber": 276,
         "text": "Bound sadly home for Naples,"
       },
       {
-        "lineNumber": 292,
+        "lineNumber": 277,
         "text": "Supposing that they saw the King's ship wracked"
       },
       {
-        "lineNumber": 293,
+        "lineNumber": 278,
         "text": "And his great person perish."
       }
     ]
@@ -1990,15 +1925,15 @@ const the_tempest_1_2: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 294,
+        "lineNumber": 279,
         "text": "Ariel, thy charge"
       },
       {
-        "lineNumber": 295,
+        "lineNumber": 280,
         "text": "Exactly is performed. But there's more work."
       },
       {
-        "lineNumber": 296,
+        "lineNumber": 281,
         "text": "What is the time o' th' day?"
       }
     ]
@@ -2007,24 +1942,20 @@ const the_tempest_1_2: SceneData = {
     "speaker": "ARIEL",
     "lines": [
       {
-        "lineNumber": 297,
+        "lineNumber": 282,
         "text": "Past the mid season."
       }
     ]
   },
   {
-    "speaker": "ARIEL",
+    "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 298,
-        "text": "PROSPERO"
-      },
-      {
-        "lineNumber": 299,
+        "lineNumber": 283,
         "text": "At least two glasses. The time 'twixt six and now"
       },
       {
-        "lineNumber": 300,
+        "lineNumber": 284,
         "text": "Must by us both be spent most preciously."
       }
     ]
@@ -2033,19 +1964,15 @@ const the_tempest_1_2: SceneData = {
     "speaker": "ARIEL",
     "lines": [
       {
-        "lineNumber": 301,
-        "text": "ARIEL"
-      },
-      {
-        "lineNumber": 302,
+        "lineNumber": 285,
         "text": "Is there more toil? Since thou dost give me pains,"
       },
       {
-        "lineNumber": 303,
+        "lineNumber": 286,
         "text": "Let me remember thee what thou hast promised,"
       },
       {
-        "lineNumber": 304,
+        "lineNumber": 287,
         "text": "Which is not yet performed me."
       }
     ]
@@ -2054,11 +1981,11 @@ const the_tempest_1_2: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 305,
+        "lineNumber": 288,
         "text": "How now? Moody?"
       },
       {
-        "lineNumber": 306,
+        "lineNumber": 289,
         "text": "What is 't thou canst demand?"
       }
     ]
@@ -2067,20 +1994,16 @@ const the_tempest_1_2: SceneData = {
     "speaker": "ARIEL",
     "lines": [
       {
-        "lineNumber": 307,
+        "lineNumber": 290,
         "text": "My liberty."
       }
     ]
   },
   {
-    "speaker": "ARIEL",
+    "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 308,
-        "text": "PROSPERO"
-      },
-      {
-        "lineNumber": 309,
+        "lineNumber": 291,
         "text": "Before the time be out? No more."
       }
     ]
@@ -2089,23 +2012,23 @@ const the_tempest_1_2: SceneData = {
     "speaker": "ARIEL",
     "lines": [
       {
-        "lineNumber": 310,
+        "lineNumber": 292,
         "text": "I prithee,"
       },
       {
-        "lineNumber": 311,
+        "lineNumber": 293,
         "text": "Remember I have done thee worthy service,"
       },
       {
-        "lineNumber": 312,
+        "lineNumber": 294,
         "text": "Told thee no lies, made no mistakings, served"
       },
       {
-        "lineNumber": 313,
+        "lineNumber": 295,
         "text": "Without or grudge or grumblings. Thou did promise"
       },
       {
-        "lineNumber": 314,
+        "lineNumber": 296,
         "text": "To bate me a full year."
       }
     ]
@@ -2114,11 +2037,11 @@ const the_tempest_1_2: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 315,
+        "lineNumber": 297,
         "text": "Dost thou forget"
       },
       {
-        "lineNumber": 316,
+        "lineNumber": 298,
         "text": "From what a torment I did free thee?"
       }
     ]
@@ -2127,36 +2050,32 @@ const the_tempest_1_2: SceneData = {
     "speaker": "ARIEL",
     "lines": [
       {
-        "lineNumber": 317,
+        "lineNumber": 299,
         "text": "No."
       }
     ]
   },
   {
-    "speaker": "ARIEL",
+    "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 318,
-        "text": "PROSPERO"
-      },
-      {
-        "lineNumber": 319,
+        "lineNumber": 300,
         "text": "Thou dost, and think'st it much to tread the ooze"
       },
       {
-        "lineNumber": 320,
+        "lineNumber": 301,
         "text": "Of the salt deep,"
       },
       {
-        "lineNumber": 321,
+        "lineNumber": 302,
         "text": "To run upon the sharp wind of the North,"
       },
       {
-        "lineNumber": 322,
+        "lineNumber": 303,
         "text": "To do me business in the veins o' th' Earth"
       },
       {
-        "lineNumber": 323,
+        "lineNumber": 304,
         "text": "When it is baked with frost."
       }
     ]
@@ -2165,28 +2084,24 @@ const the_tempest_1_2: SceneData = {
     "speaker": "ARIEL",
     "lines": [
       {
-        "lineNumber": 324,
+        "lineNumber": 305,
         "text": "I do not, sir."
       }
     ]
   },
   {
-    "speaker": "ARIEL",
+    "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 325,
-        "text": "PROSPERO"
-      },
-      {
-        "lineNumber": 326,
+        "lineNumber": 306,
         "text": "Thou liest, malignant thing. Hast thou forgot"
       },
       {
-        "lineNumber": 327,
+        "lineNumber": 307,
         "text": "The foul witch Sycorax, who with age and envy"
       },
       {
-        "lineNumber": 328,
+        "lineNumber": 308,
         "text": "Was grown into a hoop? Hast thou forgot her?"
       }
     ]
@@ -2195,20 +2110,16 @@ const the_tempest_1_2: SceneData = {
     "speaker": "ARIEL",
     "lines": [
       {
-        "lineNumber": 329,
+        "lineNumber": 309,
         "text": "No, sir."
       }
     ]
   },
   {
-    "speaker": "ARIEL",
+    "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 330,
-        "text": "PROSPERO"
-      },
-      {
-        "lineNumber": 331,
+        "lineNumber": 310,
         "text": "Thou hast. Where was she born? Speak. Tell me."
       }
     ]
@@ -2217,11 +2128,7 @@ const the_tempest_1_2: SceneData = {
     "speaker": "ARIEL",
     "lines": [
       {
-        "lineNumber": 332,
-        "text": "ARIEL"
-      },
-      {
-        "lineNumber": 333,
+        "lineNumber": 311,
         "text": "Sir, in Argier."
       }
     ]
@@ -2230,31 +2137,31 @@ const the_tempest_1_2: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 334,
+        "lineNumber": 312,
         "text": "O, was she so? I must"
       },
       {
-        "lineNumber": 335,
+        "lineNumber": 313,
         "text": "Once in a month recount what thou hast been,"
       },
       {
-        "lineNumber": 336,
+        "lineNumber": 314,
         "text": "Which thou forget'st. This damned witch Sycorax,"
       },
       {
-        "lineNumber": 337,
+        "lineNumber": 315,
         "text": "For mischiefs manifold, and sorceries terrible"
       },
       {
-        "lineNumber": 338,
+        "lineNumber": 316,
         "text": "To enter human hearing, from Argier,"
       },
       {
-        "lineNumber": 339,
+        "lineNumber": 317,
         "text": "Thou know'st, was banished. For one thing she did"
       },
       {
-        "lineNumber": 340,
+        "lineNumber": 318,
         "text": "They would not take her life. Is not this true?"
       }
     ]
@@ -2263,80 +2170,76 @@ const the_tempest_1_2: SceneData = {
     "speaker": "ARIEL",
     "lines": [
       {
-        "lineNumber": 341,
+        "lineNumber": 319,
         "text": "Ay, sir."
       }
     ]
   },
   {
-    "speaker": "ARIEL",
+    "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 342,
-        "text": "PROSPERO"
-      },
-      {
-        "lineNumber": 343,
+        "lineNumber": 320,
         "text": "This blue-eyed hag was hither brought with child"
       },
       {
-        "lineNumber": 344,
+        "lineNumber": 321,
         "text": "And here was left by th' sailors. Thou, my slave,"
       },
       {
-        "lineNumber": 345,
+        "lineNumber": 322,
         "text": "As thou report'st thyself, was then her servant,"
       },
       {
-        "lineNumber": 346,
+        "lineNumber": 323,
         "text": "And for thou wast a spirit too delicate"
       },
       {
-        "lineNumber": 347,
+        "lineNumber": 324,
         "text": "To act her earthy and abhorred commands,"
       },
       {
-        "lineNumber": 348,
+        "lineNumber": 325,
         "text": "Refusing her grand hests, she did confine thee,"
       },
       {
-        "lineNumber": 349,
+        "lineNumber": 326,
         "text": "By help of her more potent ministers"
       },
       {
-        "lineNumber": 350,
+        "lineNumber": 327,
         "text": "And in her most unmitigable rage,"
       },
       {
-        "lineNumber": 351,
+        "lineNumber": 328,
         "text": "Into a cloven pine, within which rift"
       },
       {
-        "lineNumber": 352,
+        "lineNumber": 329,
         "text": "Imprisoned thou didst painfully remain"
       },
       {
-        "lineNumber": 353,
+        "lineNumber": 330,
         "text": "A dozen years; within which space she died"
       },
       {
-        "lineNumber": 354,
+        "lineNumber": 331,
         "text": "And left thee there, where thou didst vent thy groans"
       },
       {
-        "lineNumber": 355,
+        "lineNumber": 332,
         "text": "As fast as mill wheels strike. Then was this island"
       },
       {
-        "lineNumber": 356,
+        "lineNumber": 333,
         "text": "(Save for the son that she did litter here,"
       },
       {
-        "lineNumber": 357,
+        "lineNumber": 334,
         "text": "A freckled whelp, hag-born) not honored with"
       },
       {
-        "lineNumber": 358,
+        "lineNumber": 335,
         "text": "A human shape."
       }
     ]
@@ -2345,52 +2248,48 @@ const the_tempest_1_2: SceneData = {
     "speaker": "ARIEL",
     "lines": [
       {
-        "lineNumber": 359,
+        "lineNumber": 336,
         "text": "Yes, Caliban, her son."
       }
     ]
   },
   {
-    "speaker": "ARIEL",
+    "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 360,
-        "text": "PROSPERO"
-      },
-      {
-        "lineNumber": 361,
+        "lineNumber": 337,
         "text": "Dull thing, I say so; he, that Caliban"
       },
       {
-        "lineNumber": 362,
+        "lineNumber": 338,
         "text": "Whom now I keep in service. Thou best know'st"
       },
       {
-        "lineNumber": 363,
+        "lineNumber": 339,
         "text": "What torment I did find thee in. Thy groans"
       },
       {
-        "lineNumber": 364,
+        "lineNumber": 340,
         "text": "Did make wolves howl, and penetrate the breasts"
       },
       {
-        "lineNumber": 365,
+        "lineNumber": 341,
         "text": "Of ever-angry bears. It was a torment"
       },
       {
-        "lineNumber": 366,
+        "lineNumber": 342,
         "text": "To lay upon the damned, which Sycorax"
       },
       {
-        "lineNumber": 367,
+        "lineNumber": 343,
         "text": "Could not again undo. It was mine art,"
       },
       {
-        "lineNumber": 368,
+        "lineNumber": 344,
         "text": "When I arrived and heard thee, that made gape"
       },
       {
-        "lineNumber": 369,
+        "lineNumber": 345,
         "text": "The pine and let thee out."
       }
     ]
@@ -2399,28 +2298,24 @@ const the_tempest_1_2: SceneData = {
     "speaker": "ARIEL",
     "lines": [
       {
-        "lineNumber": 370,
+        "lineNumber": 346,
         "text": "I thank thee, master."
       }
     ]
   },
   {
-    "speaker": "ARIEL",
+    "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 371,
-        "text": "PROSPERO"
-      },
-      {
-        "lineNumber": 372,
+        "lineNumber": 347,
         "text": "If thou more murmur'st, I will rend an oak"
       },
       {
-        "lineNumber": 373,
+        "lineNumber": 348,
         "text": "And peg thee in his knotty entrails till"
       },
       {
-        "lineNumber": 374,
+        "lineNumber": 349,
         "text": "Thou hast howled away twelve winters."
       }
     ]
@@ -2429,15 +2324,15 @@ const the_tempest_1_2: SceneData = {
     "speaker": "ARIEL",
     "lines": [
       {
-        "lineNumber": 375,
+        "lineNumber": 350,
         "text": "Pardon, master."
       },
       {
-        "lineNumber": 376,
+        "lineNumber": 351,
         "text": "I will be correspondent to command"
       },
       {
-        "lineNumber": 377,
+        "lineNumber": 352,
         "text": "And do my spriting gently."
       }
     ]
@@ -2446,11 +2341,11 @@ const the_tempest_1_2: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 378,
+        "lineNumber": 353,
         "text": "Do so, and after two days"
       },
       {
-        "lineNumber": 379,
+        "lineNumber": 354,
         "text": "I will discharge thee."
       }
     ]
@@ -2459,45 +2354,41 @@ const the_tempest_1_2: SceneData = {
     "speaker": "ARIEL",
     "lines": [
       {
-        "lineNumber": 380,
+        "lineNumber": 355,
         "text": "That's my noble master."
       },
       {
-        "lineNumber": 381,
+        "lineNumber": 356,
         "text": "What shall I do? Say, what? What shall I do?"
       }
     ]
   },
   {
-    "speaker": "ARIEL",
+    "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 382,
-        "text": "PROSPERO"
-      },
-      {
-        "lineNumber": 383,
+        "lineNumber": 357,
         "text": "Go make thyself like a nymph o' th' sea. Be subject"
       },
       {
-        "lineNumber": 384,
+        "lineNumber": 358,
         "text": "To no sight but thine and mine, invisible"
       },
       {
-        "lineNumber": 385,
+        "lineNumber": 359,
         "text": "To every eyeball else. Go, take this shape,"
       },
       {
-        "lineNumber": 386,
+        "lineNumber": 360,
         "text": "And hither come in 't. Go, hence with diligence!"
       }
     ]
   },
   {
-    "speaker": "ARIEL",
+    "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 387,
+        "lineNumber": 361,
         "text": "Awake, dear heart, awake. Thou hast slept well."
       }
     ]
@@ -2506,11 +2397,11 @@ const the_tempest_1_2: SceneData = {
     "speaker": "MIRANDA",
     "lines": [
       {
-        "lineNumber": 388,
+        "lineNumber": 362,
         "text": "The strangeness of your story put"
       },
       {
-        "lineNumber": 389,
+        "lineNumber": 363,
         "text": "Heaviness in me."
       }
     ]
@@ -2519,15 +2410,15 @@ const the_tempest_1_2: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 390,
+        "lineNumber": 364,
         "text": "Shake it off. Come on,"
       },
       {
-        "lineNumber": 391,
+        "lineNumber": 365,
         "text": "We'll visit Caliban, my slave, who never"
       },
       {
-        "lineNumber": 392,
+        "lineNumber": 366,
         "text": "Yields us kind answer."
       }
     ]
@@ -2536,11 +2427,11 @@ const the_tempest_1_2: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 393,
+        "lineNumber": 367,
         "text": "MIRANDA, [rising]  'Tis a villain, sir,"
       },
       {
-        "lineNumber": 394,
+        "lineNumber": 368,
         "text": "I do not love to look on."
       }
     ]
@@ -2549,23 +2440,23 @@ const the_tempest_1_2: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 395,
+        "lineNumber": 369,
         "text": "But, as 'tis,"
       },
       {
-        "lineNumber": 396,
+        "lineNumber": 370,
         "text": "We cannot miss him. He does make our fire,"
       },
       {
-        "lineNumber": 397,
+        "lineNumber": 371,
         "text": "Fetch in our wood, and serves in offices"
       },
       {
-        "lineNumber": 398,
+        "lineNumber": 372,
         "text": "That profit us.--What ho, slave, Caliban!"
       },
       {
-        "lineNumber": 399,
+        "lineNumber": 373,
         "text": "Thou earth, thou, speak!"
       }
     ]
@@ -2574,7 +2465,7 @@ const the_tempest_1_2: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 400,
+        "lineNumber": 374,
         "text": "CALIBAN, [within]  There's wood enough within."
       }
     ]
@@ -2583,15 +2474,11 @@ const the_tempest_1_2: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 401,
-        "text": "PROSPERO"
-      },
-      {
-        "lineNumber": 402,
+        "lineNumber": 375,
         "text": "Come forth, I say. There's other business for thee."
       },
       {
-        "lineNumber": 403,
+        "lineNumber": 376,
         "text": "Come, thou tortoise. When?"
       }
     ]
@@ -2600,7 +2487,7 @@ const the_tempest_1_2: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 404,
+        "lineNumber": 377,
         "text": "Fine apparition! My quaint Ariel,"
       }
     ]
@@ -2609,36 +2496,32 @@ const the_tempest_1_2: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 405,
+        "lineNumber": 378,
         "text": "Thou poisonous slave, got by the devil himself"
       },
       {
-        "lineNumber": 406,
+        "lineNumber": 379,
         "text": "Upon thy wicked dam, come forth!"
       }
     ]
   },
   {
-    "speaker": "PROSPERO",
+    "speaker": "CALIBAN",
     "lines": [
       {
-        "lineNumber": 407,
-        "text": "CALIBAN"
-      },
-      {
-        "lineNumber": 408,
+        "lineNumber": 380,
         "text": "As wicked dew as e'er my mother brushed"
       },
       {
-        "lineNumber": 409,
+        "lineNumber": 381,
         "text": "With raven's feather from unwholesome fen"
       },
       {
-        "lineNumber": 410,
+        "lineNumber": 382,
         "text": "Drop on you both. A southwest blow on you"
       },
       {
-        "lineNumber": 411,
+        "lineNumber": 383,
         "text": "And blister you all o'er."
       }
     ]
@@ -2647,31 +2530,27 @@ const the_tempest_1_2: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 412,
-        "text": "PROSPERO"
-      },
-      {
-        "lineNumber": 413,
+        "lineNumber": 384,
         "text": "For this, be sure, tonight thou shalt have cramps,"
       },
       {
-        "lineNumber": 414,
+        "lineNumber": 385,
         "text": "Side-stitches that shall pen thy breath up. Urchins"
       },
       {
-        "lineNumber": 415,
+        "lineNumber": 386,
         "text": "Shall forth at vast of night that they may work"
       },
       {
-        "lineNumber": 416,
+        "lineNumber": 387,
         "text": "All exercise on thee. Thou shalt be pinched"
       },
       {
-        "lineNumber": 417,
+        "lineNumber": 388,
         "text": "As thick as honeycomb, each pinch more stinging"
       },
       {
-        "lineNumber": 418,
+        "lineNumber": 389,
         "text": "Than bees that made 'em."
       }
     ]
@@ -2680,71 +2559,71 @@ const the_tempest_1_2: SceneData = {
     "speaker": "CALIBAN",
     "lines": [
       {
-        "lineNumber": 419,
+        "lineNumber": 390,
         "text": "I must eat my dinner."
       },
       {
-        "lineNumber": 420,
+        "lineNumber": 391,
         "text": "This island's mine by Sycorax, my mother,"
       },
       {
-        "lineNumber": 421,
+        "lineNumber": 392,
         "text": "Which thou tak'st from me. When thou cam'st first,"
       },
       {
-        "lineNumber": 422,
+        "lineNumber": 393,
         "text": "Thou strok'st me and made much of me, wouldst"
       },
       {
-        "lineNumber": 423,
+        "lineNumber": 394,
         "text": "give me"
       },
       {
-        "lineNumber": 424,
+        "lineNumber": 395,
         "text": "Water with berries in 't, and teach me how"
       },
       {
-        "lineNumber": 425,
+        "lineNumber": 396,
         "text": "To name the bigger light and how the less,"
       },
       {
-        "lineNumber": 426,
+        "lineNumber": 397,
         "text": "That burn by day and night. And then I loved thee,"
       },
       {
-        "lineNumber": 427,
+        "lineNumber": 398,
         "text": "And showed thee all the qualities o' th' isle,"
       },
       {
-        "lineNumber": 428,
+        "lineNumber": 399,
         "text": "The fresh springs, brine pits, barren place and"
       },
       {
-        "lineNumber": 429,
+        "lineNumber": 400,
         "text": "fertile."
       },
       {
-        "lineNumber": 430,
+        "lineNumber": 401,
         "text": "Cursed be I that did so! All the charms"
       },
       {
-        "lineNumber": 431,
+        "lineNumber": 402,
         "text": "Of Sycorax, toads, beetles, bats, light on you,"
       },
       {
-        "lineNumber": 432,
+        "lineNumber": 403,
         "text": "For I am all the subjects that you have,"
       },
       {
-        "lineNumber": 433,
+        "lineNumber": 404,
         "text": "Which first was mine own king; and here you sty me"
       },
       {
-        "lineNumber": 434,
+        "lineNumber": 405,
         "text": "In this hard rock, whiles you do keep from me"
       },
       {
-        "lineNumber": 435,
+        "lineNumber": 406,
         "text": "The rest o' th' island."
       }
     ]
@@ -2753,52 +2632,48 @@ const the_tempest_1_2: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 436,
+        "lineNumber": 407,
         "text": "Thou most lying slave,"
       },
       {
-        "lineNumber": 437,
+        "lineNumber": 408,
         "text": "Whom stripes may move, not kindness, I have used"
       },
       {
-        "lineNumber": 438,
+        "lineNumber": 409,
         "text": "thee,"
       },
       {
-        "lineNumber": 439,
+        "lineNumber": 410,
         "text": "Filth as thou art, with humane care, and lodged"
       },
       {
-        "lineNumber": 440,
+        "lineNumber": 411,
         "text": "thee"
       },
       {
-        "lineNumber": 441,
+        "lineNumber": 412,
         "text": "In mine own cell, till thou didst seek to violate"
       },
       {
-        "lineNumber": 442,
+        "lineNumber": 413,
         "text": "The honor of my child."
       }
     ]
   },
   {
-    "speaker": "PROSPERO",
+    "speaker": "CALIBAN",
     "lines": [
       {
-        "lineNumber": 443,
-        "text": "CALIBAN"
-      },
-      {
-        "lineNumber": 444,
+        "lineNumber": 414,
         "text": "O ho, O ho! Would 't had been done!"
       },
       {
-        "lineNumber": 445,
+        "lineNumber": 415,
         "text": "Thou didst prevent me. I had peopled else"
       },
       {
-        "lineNumber": 446,
+        "lineNumber": 416,
         "text": "This isle with Calibans."
       }
     ]
@@ -2807,84 +2682,80 @@ const the_tempest_1_2: SceneData = {
     "speaker": "MIRANDA",
     "lines": [
       {
-        "lineNumber": 447,
+        "lineNumber": 417,
         "text": "Abhorred slave,"
       },
       {
-        "lineNumber": 448,
+        "lineNumber": 418,
         "text": "Which any print of goodness wilt not take,"
       },
       {
-        "lineNumber": 449,
+        "lineNumber": 419,
         "text": "Being capable of all ill! I pitied thee,"
       },
       {
-        "lineNumber": 450,
+        "lineNumber": 420,
         "text": "Took pains to make thee speak, taught thee each"
       },
       {
-        "lineNumber": 451,
+        "lineNumber": 421,
         "text": "hour"
       },
       {
-        "lineNumber": 452,
+        "lineNumber": 422,
         "text": "One thing or other. When thou didst not, savage,"
       },
       {
-        "lineNumber": 453,
+        "lineNumber": 423,
         "text": "Know thine own meaning, but wouldst gabble like"
       },
       {
-        "lineNumber": 454,
+        "lineNumber": 424,
         "text": "A thing most brutish, I endowed thy purposes"
       },
       {
-        "lineNumber": 455,
+        "lineNumber": 425,
         "text": "With words that made them known. But thy vile"
       },
       {
-        "lineNumber": 456,
+        "lineNumber": 426,
         "text": "race,"
       },
       {
-        "lineNumber": 457,
+        "lineNumber": 427,
         "text": "Though thou didst learn, had that in 't which good"
       },
       {
-        "lineNumber": 458,
+        "lineNumber": 428,
         "text": "natures"
       },
       {
-        "lineNumber": 459,
+        "lineNumber": 429,
         "text": "Could not abide to be with. Therefore wast thou"
       },
       {
-        "lineNumber": 460,
+        "lineNumber": 430,
         "text": "Deservedly confined into this rock,"
       },
       {
-        "lineNumber": 461,
+        "lineNumber": 431,
         "text": "Who hadst deserved more than a prison."
       }
     ]
   },
   {
-    "speaker": "MIRANDA",
+    "speaker": "CALIBAN",
     "lines": [
       {
-        "lineNumber": 462,
-        "text": "CALIBAN"
-      },
-      {
-        "lineNumber": 463,
+        "lineNumber": 432,
         "text": "You taught me language, and my profit on 't"
       },
       {
-        "lineNumber": 464,
+        "lineNumber": 433,
         "text": "Is I know how to curse. The red plague rid you"
       },
       {
-        "lineNumber": 465,
+        "lineNumber": 434,
         "text": "For learning me your language!"
       }
     ]
@@ -2893,31 +2764,31 @@ const the_tempest_1_2: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 466,
+        "lineNumber": 435,
         "text": "Hagseed, hence!"
       },
       {
-        "lineNumber": 467,
+        "lineNumber": 436,
         "text": "Fetch us in fuel; and be quick, thou 'rt best,"
       },
       {
-        "lineNumber": 468,
+        "lineNumber": 437,
         "text": "To answer other business. Shrugg'st thou, malice?"
       },
       {
-        "lineNumber": 469,
+        "lineNumber": 438,
         "text": "If thou neglect'st or dost unwillingly"
       },
       {
-        "lineNumber": 470,
+        "lineNumber": 439,
         "text": "What I command, I'll rack thee with old cramps,"
       },
       {
-        "lineNumber": 471,
+        "lineNumber": 440,
         "text": "Fill all thy bones with aches, make thee roar"
       },
       {
-        "lineNumber": 472,
+        "lineNumber": 441,
         "text": "That beasts shall tremble at thy din."
       }
     ]
@@ -2926,7 +2797,7 @@ const the_tempest_1_2: SceneData = {
     "speaker": "CALIBAN",
     "lines": [
       {
-        "lineNumber": 473,
+        "lineNumber": 442,
         "text": "No, pray thee."
       }
     ]
@@ -2935,11 +2806,11 @@ const the_tempest_1_2: SceneData = {
     "speaker": "CALIBAN",
     "lines": [
       {
-        "lineNumber": 474,
+        "lineNumber": 443,
         "text": "It would control my dam's god, Setebos,"
       },
       {
-        "lineNumber": 475,
+        "lineNumber": 444,
         "text": "And make a vassal of him."
       }
     ]
@@ -2948,7 +2819,7 @@ const the_tempest_1_2: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 476,
+        "lineNumber": 445,
         "text": "So, slave, hence."
       }
     ]
@@ -2957,204 +2828,188 @@ const the_tempest_1_2: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 477,
+        "lineNumber": 446,
         "text": "Song."
       }
     ]
   },
   {
-    "speaker": "PROSPERO",
+    "speaker": "ARIEL",
     "lines": [
       {
-        "lineNumber": 478,
-        "text": "ARIEL"
-      },
-      {
-        "lineNumber": 479,
+        "lineNumber": 447,
         "text": "Come unto these yellow sands,"
       },
       {
-        "lineNumber": 480,
+        "lineNumber": 448,
         "text": "And then take hands."
       },
       {
-        "lineNumber": 481,
+        "lineNumber": 449,
         "text": "Curtsied when you have, and kissed"
       },
       {
-        "lineNumber": 482,
+        "lineNumber": 450,
         "text": "The wild waves whist."
       },
       {
-        "lineNumber": 483,
+        "lineNumber": 451,
         "text": "Foot it featly here and there,"
       },
       {
-        "lineNumber": 484,
+        "lineNumber": 452,
         "text": "And sweet sprites bear"
       },
       {
-        "lineNumber": 485,
+        "lineNumber": 453,
         "text": "The burden. Hark, hark!"
       }
     ]
   },
   {
-    "speaker": "PROSPERO",
+    "speaker": "ARIEL",
     "lines": [
       {
-        "lineNumber": 486,
+        "lineNumber": 454,
         "text": "The watchdogs bark."
       }
     ]
   },
   {
-    "speaker": "PROSPERO",
+    "speaker": "ARIEL",
     "lines": [
       {
-        "lineNumber": 487,
+        "lineNumber": 455,
         "text": "Hark, hark! I hear"
       },
       {
-        "lineNumber": 488,
+        "lineNumber": 456,
         "text": "The strain of strutting chanticleer"
       },
       {
-        "lineNumber": 489,
+        "lineNumber": 457,
         "text": "Cry cock-a-diddle-dow."
       }
     ]
   },
   {
-    "speaker": "PROSPERO",
+    "speaker": "FERDINAND",
     "lines": [
       {
-        "lineNumber": 490,
-        "text": "FERDINAND"
-      },
-      {
-        "lineNumber": 491,
+        "lineNumber": 458,
         "text": "Where should this music be? I' th' air, or th' earth?"
       },
       {
-        "lineNumber": 492,
+        "lineNumber": 459,
         "text": "It sounds no more; and sure it waits upon"
       },
       {
-        "lineNumber": 493,
+        "lineNumber": 460,
         "text": "Some god o' th' island. Sitting on a bank,"
       },
       {
-        "lineNumber": 494,
+        "lineNumber": 461,
         "text": "Weeping again the King my father's wrack,"
       },
       {
-        "lineNumber": 495,
+        "lineNumber": 462,
         "text": "This music crept by me upon the waters,"
       },
       {
-        "lineNumber": 496,
+        "lineNumber": 463,
         "text": "Allaying both their fury and my passion"
       },
       {
-        "lineNumber": 497,
+        "lineNumber": 464,
         "text": "With its sweet air. Thence I have followed it,"
       },
       {
-        "lineNumber": 498,
+        "lineNumber": 465,
         "text": "Or it hath drawn me rather. But 'tis gone."
       },
       {
-        "lineNumber": 499,
+        "lineNumber": 466,
         "text": "No, it begins again."
       }
     ]
   },
   {
-    "speaker": "PROSPERO",
+    "speaker": "FERDINAND",
     "lines": [
       {
-        "lineNumber": 500,
+        "lineNumber": 467,
         "text": "Song."
       }
     ]
   },
   {
-    "speaker": "PROSPERO",
+    "speaker": "ARIEL",
     "lines": [
       {
-        "lineNumber": 501,
-        "text": "ARIEL"
-      },
-      {
-        "lineNumber": 502,
+        "lineNumber": 468,
         "text": "Full fathom five thy father lies."
       },
       {
-        "lineNumber": 503,
+        "lineNumber": 469,
         "text": "Of his bones are coral made."
       },
       {
-        "lineNumber": 504,
+        "lineNumber": 470,
         "text": "Those are pearls that were his eyes."
       },
       {
-        "lineNumber": 505,
+        "lineNumber": 471,
         "text": "Nothing of him that doth fade"
       },
       {
-        "lineNumber": 506,
+        "lineNumber": 472,
         "text": "But doth suffer a sea change"
       },
       {
-        "lineNumber": 507,
+        "lineNumber": 473,
         "text": "Into something rich and strange."
       },
       {
-        "lineNumber": 508,
+        "lineNumber": 474,
         "text": "Sea nymphs hourly ring his knell."
       }
     ]
   },
   {
-    "speaker": "PROSPERO",
+    "speaker": "ARIEL",
     "lines": [
       {
-        "lineNumber": 509,
+        "lineNumber": 475,
         "text": "Hark, now I hear them: ding dong bell."
       }
     ]
   },
   {
-    "speaker": "PROSPERO",
+    "speaker": "FERDINAND",
     "lines": [
       {
-        "lineNumber": 510,
-        "text": "FERDINAND"
-      },
-      {
-        "lineNumber": 511,
+        "lineNumber": 476,
         "text": "The ditty does remember my drowned father."
       },
       {
-        "lineNumber": 512,
+        "lineNumber": 477,
         "text": "This is no mortal business, nor no sound"
       },
       {
-        "lineNumber": 513,
+        "lineNumber": 478,
         "text": "That the Earth owes. I hear it now above me."
       }
     ]
   },
   {
-    "speaker": "PROSPERO",
+    "speaker": "FERDINAND",
     "lines": [
       {
-        "lineNumber": 514,
+        "lineNumber": 479,
         "text": "The fringed curtains of thine eye advance"
       },
       {
-        "lineNumber": 515,
+        "lineNumber": 480,
         "text": "And say what thou seest yond."
       }
     ]
@@ -3163,52 +3018,48 @@ const the_tempest_1_2: SceneData = {
     "speaker": "MIRANDA",
     "lines": [
       {
-        "lineNumber": 516,
+        "lineNumber": 481,
         "text": "What is 't? A spirit?"
       },
       {
-        "lineNumber": 517,
+        "lineNumber": 482,
         "text": "Lord, how it looks about! Believe me, sir,"
       },
       {
-        "lineNumber": 518,
+        "lineNumber": 483,
         "text": "It carries a brave form. But 'tis a spirit."
       }
     ]
   },
   {
-    "speaker": "MIRANDA",
+    "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 519,
-        "text": "PROSPERO"
-      },
-      {
-        "lineNumber": 520,
+        "lineNumber": 484,
         "text": "No, wench, it eats and sleeps and hath such senses"
       },
       {
-        "lineNumber": 521,
+        "lineNumber": 485,
         "text": "As we have, such. This gallant which thou seest"
       },
       {
-        "lineNumber": 522,
+        "lineNumber": 486,
         "text": "Was in the wrack; and, but he's something stained"
       },
       {
-        "lineNumber": 523,
+        "lineNumber": 487,
         "text": "With grief--that's beauty's canker--thou might'st"
       },
       {
-        "lineNumber": 524,
+        "lineNumber": 488,
         "text": "call him"
       },
       {
-        "lineNumber": 525,
+        "lineNumber": 489,
         "text": "A goodly person. He hath lost his fellows"
       },
       {
-        "lineNumber": 526,
+        "lineNumber": 490,
         "text": "And strays about to find 'em."
       }
     ]
@@ -3217,15 +3068,15 @@ const the_tempest_1_2: SceneData = {
     "speaker": "MIRANDA",
     "lines": [
       {
-        "lineNumber": 527,
+        "lineNumber": 491,
         "text": "I might call him"
       },
       {
-        "lineNumber": 528,
+        "lineNumber": 492,
         "text": "A thing divine, for nothing natural"
       },
       {
-        "lineNumber": 529,
+        "lineNumber": 493,
         "text": "I ever saw so noble."
       }
     ]
@@ -3234,19 +3085,19 @@ const the_tempest_1_2: SceneData = {
     "speaker": "MIRANDA",
     "lines": [
       {
-        "lineNumber": 530,
+        "lineNumber": 494,
         "text": "PROSPERO, [aside]  It goes on, I see,"
       },
       {
-        "lineNumber": 531,
+        "lineNumber": 495,
         "text": "As my soul prompts it. [To Ariel.] Spirit, fine spirit,"
       },
       {
-        "lineNumber": 532,
+        "lineNumber": 496,
         "text": "I'll free thee"
       },
       {
-        "lineNumber": 533,
+        "lineNumber": 497,
         "text": "Within two days for this."
       }
     ]
@@ -3255,31 +3106,31 @@ const the_tempest_1_2: SceneData = {
     "speaker": "MIRANDA",
     "lines": [
       {
-        "lineNumber": 534,
+        "lineNumber": 498,
         "text": "FERDINAND, [seeing Miranda]  Most sure, the goddess"
       },
       {
-        "lineNumber": 535,
+        "lineNumber": 499,
         "text": "On whom these airs attend!--Vouchsafe my prayer"
       },
       {
-        "lineNumber": 536,
+        "lineNumber": 500,
         "text": "May know if you remain upon this island,"
       },
       {
-        "lineNumber": 537,
+        "lineNumber": 501,
         "text": "And that you will some good instruction give"
       },
       {
-        "lineNumber": 538,
+        "lineNumber": 502,
         "text": "How I may bear me here. My prime request,"
       },
       {
-        "lineNumber": 539,
+        "lineNumber": 503,
         "text": "Which I do last pronounce, is--O you wonder!--"
       },
       {
-        "lineNumber": 540,
+        "lineNumber": 504,
         "text": "If you be maid or no."
       }
     ]
@@ -3288,11 +3139,11 @@ const the_tempest_1_2: SceneData = {
     "speaker": "MIRANDA",
     "lines": [
       {
-        "lineNumber": 541,
+        "lineNumber": 505,
         "text": "No wonder, sir,"
       },
       {
-        "lineNumber": 542,
+        "lineNumber": 506,
         "text": "But certainly a maid."
       }
     ]
@@ -3301,15 +3152,15 @@ const the_tempest_1_2: SceneData = {
     "speaker": "FERDINAND",
     "lines": [
       {
-        "lineNumber": 543,
+        "lineNumber": 507,
         "text": "My language! Heavens!"
       },
       {
-        "lineNumber": 544,
+        "lineNumber": 508,
         "text": "I am the best of them that speak this speech,"
       },
       {
-        "lineNumber": 545,
+        "lineNumber": 509,
         "text": "Were I but where 'tis spoken."
       }
     ]
@@ -3318,40 +3169,36 @@ const the_tempest_1_2: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 546,
+        "lineNumber": 510,
         "text": "How? The best?"
       },
       {
-        "lineNumber": 547,
+        "lineNumber": 511,
         "text": "What wert thou if the King of Naples heard thee?"
       }
     ]
   },
   {
-    "speaker": "PROSPERO",
+    "speaker": "FERDINAND",
     "lines": [
       {
-        "lineNumber": 548,
-        "text": "FERDINAND"
-      },
-      {
-        "lineNumber": 549,
+        "lineNumber": 512,
         "text": "A single thing, as I am now, that wonders"
       },
       {
-        "lineNumber": 550,
+        "lineNumber": 513,
         "text": "To hear thee speak of Naples. He does hear me,"
       },
       {
-        "lineNumber": 551,
+        "lineNumber": 514,
         "text": "And that he does I weep. Myself am Naples,"
       },
       {
-        "lineNumber": 552,
+        "lineNumber": 515,
         "text": "Who with mine eyes, never since at ebb, beheld"
       },
       {
-        "lineNumber": 553,
+        "lineNumber": 516,
         "text": "The King my father wracked."
       }
     ]
@@ -3360,57 +3207,53 @@ const the_tempest_1_2: SceneData = {
     "speaker": "MIRANDA",
     "lines": [
       {
-        "lineNumber": 554,
+        "lineNumber": 517,
         "text": "Alack, for mercy!"
       }
     ]
   },
   {
-    "speaker": "MIRANDA",
+    "speaker": "FERDINAND",
     "lines": [
       {
-        "lineNumber": 555,
-        "text": "FERDINAND"
-      },
-      {
-        "lineNumber": 556,
+        "lineNumber": 518,
         "text": "Yes, faith, and all his lords, the Duke of Milan"
       },
       {
-        "lineNumber": 557,
+        "lineNumber": 519,
         "text": "And his brave son being twain."
       }
     ]
   },
   {
-    "speaker": "MIRANDA",
+    "speaker": "FERDINAND",
     "lines": [
       {
-        "lineNumber": 558,
+        "lineNumber": 520,
         "text": "PROSPERO, [aside]  The Duke of Milan"
       },
       {
-        "lineNumber": 559,
+        "lineNumber": 521,
         "text": "And his more braver daughter could control thee,"
       },
       {
-        "lineNumber": 560,
+        "lineNumber": 522,
         "text": "If now 'twere fit to do 't. At the first sight"
       },
       {
-        "lineNumber": 561,
+        "lineNumber": 523,
         "text": "They have changed eyes.--Delicate Ariel,"
       },
       {
-        "lineNumber": 562,
+        "lineNumber": 524,
         "text": "I'll set thee free for this. [To Ferdinand.] A word,"
       },
       {
-        "lineNumber": 563,
+        "lineNumber": 525,
         "text": "good sir."
       },
       {
-        "lineNumber": 564,
+        "lineNumber": 526,
         "text": "I fear you have done yourself some wrong. A word."
       }
     ]
@@ -3419,23 +3262,19 @@ const the_tempest_1_2: SceneData = {
     "speaker": "MIRANDA",
     "lines": [
       {
-        "lineNumber": 565,
-        "text": "MIRANDA"
-      },
-      {
-        "lineNumber": 566,
+        "lineNumber": 527,
         "text": "Why speaks my father so ungently? This"
       },
       {
-        "lineNumber": 567,
+        "lineNumber": 528,
         "text": "Is the third man that e'er I saw, the first"
       },
       {
-        "lineNumber": 568,
+        "lineNumber": 529,
         "text": "That e'er I sighed for. Pity move my father"
       },
       {
-        "lineNumber": 569,
+        "lineNumber": 530,
         "text": "To be inclined my way."
       }
     ]
@@ -3444,15 +3283,15 @@ const the_tempest_1_2: SceneData = {
     "speaker": "FERDINAND",
     "lines": [
       {
-        "lineNumber": 570,
+        "lineNumber": 531,
         "text": "O, if a virgin,"
       },
       {
-        "lineNumber": 571,
+        "lineNumber": 532,
         "text": "And your affection not gone forth, I'll make you"
       },
       {
-        "lineNumber": 572,
+        "lineNumber": 533,
         "text": "The Queen of Naples."
       }
     ]
@@ -3461,7 +3300,7 @@ const the_tempest_1_2: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 573,
+        "lineNumber": 534,
         "text": "Soft, sir, one word more."
       }
     ]
@@ -3470,35 +3309,35 @@ const the_tempest_1_2: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 574,
+        "lineNumber": 535,
         "text": "swift business"
       },
       {
-        "lineNumber": 575,
+        "lineNumber": 536,
         "text": "I must uneasy make, lest too light winning"
       },
       {
-        "lineNumber": 576,
+        "lineNumber": 537,
         "text": "Make the prize light. [To Ferdinand.] One word"
       },
       {
-        "lineNumber": 577,
+        "lineNumber": 538,
         "text": "more. I charge thee"
       },
       {
-        "lineNumber": 578,
+        "lineNumber": 539,
         "text": "That thou attend me. Thou dost here usurp"
       },
       {
-        "lineNumber": 579,
+        "lineNumber": 540,
         "text": "The name thou ow'st not, and hast put thyself"
       },
       {
-        "lineNumber": 580,
+        "lineNumber": 541,
         "text": "Upon this island as a spy, to win it"
       },
       {
-        "lineNumber": 581,
+        "lineNumber": 542,
         "text": "From me, the lord on 't."
       }
     ]
@@ -3507,58 +3346,54 @@ const the_tempest_1_2: SceneData = {
     "speaker": "FERDINAND",
     "lines": [
       {
-        "lineNumber": 582,
+        "lineNumber": 543,
         "text": "No, as I am a man!"
       }
     ]
   },
   {
-    "speaker": "FERDINAND",
+    "speaker": "MIRANDA",
     "lines": [
       {
-        "lineNumber": 583,
-        "text": "MIRANDA"
-      },
-      {
-        "lineNumber": 584,
+        "lineNumber": 544,
         "text": "There's nothing ill can dwell in such a temple."
       },
       {
-        "lineNumber": 585,
+        "lineNumber": 545,
         "text": "If the ill spirit have so fair a house,"
       },
       {
-        "lineNumber": 586,
+        "lineNumber": 546,
         "text": "Good things will strive to dwell with 't."
       }
     ]
   },
   {
-    "speaker": "FERDINAND",
+    "speaker": "MIRANDA",
     "lines": [
       {
-        "lineNumber": 587,
+        "lineNumber": 547,
         "text": "PROSPERO, [to Ferdinand]  Follow me."
       }
     ]
   },
   {
-    "speaker": "FERDINAND",
+    "speaker": "MIRANDA",
     "lines": [
       {
-        "lineNumber": 588,
+        "lineNumber": 548,
         "text": "I'll manacle thy neck and feet together."
       },
       {
-        "lineNumber": 589,
+        "lineNumber": 549,
         "text": "Sea water shalt thou drink. Thy food shall be"
       },
       {
-        "lineNumber": 590,
+        "lineNumber": 550,
         "text": "The fresh-brook mussels, withered roots, and husks"
       },
       {
-        "lineNumber": 591,
+        "lineNumber": 551,
         "text": "Wherein the acorn cradled. Follow."
       }
     ]
@@ -3567,15 +3402,15 @@ const the_tempest_1_2: SceneData = {
     "speaker": "FERDINAND",
     "lines": [
       {
-        "lineNumber": 592,
+        "lineNumber": 552,
         "text": "No,"
       },
       {
-        "lineNumber": 593,
+        "lineNumber": 553,
         "text": "I will resist such entertainment till"
       },
       {
-        "lineNumber": 594,
+        "lineNumber": 554,
         "text": "Mine enemy has more power."
       }
     ]
@@ -3584,15 +3419,15 @@ const the_tempest_1_2: SceneData = {
     "speaker": "MIRANDA",
     "lines": [
       {
-        "lineNumber": 595,
+        "lineNumber": 555,
         "text": "O dear father,"
       },
       {
-        "lineNumber": 596,
+        "lineNumber": 556,
         "text": "Make not too rash a trial of him, for"
       },
       {
-        "lineNumber": 597,
+        "lineNumber": 557,
         "text": "He's gentle and not fearful."
       }
     ]
@@ -3601,31 +3436,31 @@ const the_tempest_1_2: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 598,
+        "lineNumber": 558,
         "text": "What, I say,"
       },
       {
-        "lineNumber": 599,
+        "lineNumber": 559,
         "text": "My foot my tutor?--Put thy sword up, traitor,"
       },
       {
-        "lineNumber": 600,
+        "lineNumber": 560,
         "text": "Who mak'st a show, but dar'st not strike, thy"
       },
       {
-        "lineNumber": 601,
+        "lineNumber": 561,
         "text": "conscience"
       },
       {
-        "lineNumber": 602,
+        "lineNumber": 562,
         "text": "Is so possessed with guilt. Come from thy ward,"
       },
       {
-        "lineNumber": 603,
+        "lineNumber": 563,
         "text": "For I can here disarm thee with this stick"
       },
       {
-        "lineNumber": 604,
+        "lineNumber": 564,
         "text": "And make thy weapon drop."
       }
     ]
@@ -3634,20 +3469,16 @@ const the_tempest_1_2: SceneData = {
     "speaker": "MIRANDA",
     "lines": [
       {
-        "lineNumber": 605,
+        "lineNumber": 565,
         "text": "Beseech you, father--"
       }
     ]
   },
   {
-    "speaker": "MIRANDA",
+    "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 606,
-        "text": "PROSPERO"
-      },
-      {
-        "lineNumber": 607,
+        "lineNumber": 566,
         "text": "Hence! Hang not on my garments."
       }
     ]
@@ -3656,11 +3487,11 @@ const the_tempest_1_2: SceneData = {
     "speaker": "MIRANDA",
     "lines": [
       {
-        "lineNumber": 608,
+        "lineNumber": 567,
         "text": "Sir, have pity."
       },
       {
-        "lineNumber": 609,
+        "lineNumber": 568,
         "text": "I'll be his surety."
       }
     ]
@@ -3669,31 +3500,31 @@ const the_tempest_1_2: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 610,
+        "lineNumber": 569,
         "text": "Silence! One word more"
       },
       {
-        "lineNumber": 611,
+        "lineNumber": 570,
         "text": "Shall make me chide thee, if not hate thee. What,"
       },
       {
-        "lineNumber": 612,
+        "lineNumber": 571,
         "text": "An advocate for an impostor? Hush."
       },
       {
-        "lineNumber": 613,
+        "lineNumber": 572,
         "text": "Thou think'st there is no more such shapes as he,"
       },
       {
-        "lineNumber": 614,
+        "lineNumber": 573,
         "text": "Having seen but him and Caliban. Foolish wench,"
       },
       {
-        "lineNumber": 615,
+        "lineNumber": 574,
         "text": "To th' most of men this is a Caliban,"
       },
       {
-        "lineNumber": 616,
+        "lineNumber": 575,
         "text": "And they to him are angels."
       }
     ]
@@ -3702,15 +3533,15 @@ const the_tempest_1_2: SceneData = {
     "speaker": "MIRANDA",
     "lines": [
       {
-        "lineNumber": 617,
+        "lineNumber": 576,
         "text": "My affections"
       },
       {
-        "lineNumber": 618,
+        "lineNumber": 577,
         "text": "Are then most humble. I have no ambition"
       },
       {
-        "lineNumber": 619,
+        "lineNumber": 578,
         "text": "To see a goodlier man."
       }
     ]
@@ -3719,15 +3550,15 @@ const the_tempest_1_2: SceneData = {
     "speaker": "MIRANDA",
     "lines": [
       {
-        "lineNumber": 620,
+        "lineNumber": 579,
         "text": "PROSPERO, [to Ferdinand]  Come on, obey."
       },
       {
-        "lineNumber": 621,
+        "lineNumber": 580,
         "text": "Thy nerves are in their infancy again"
       },
       {
-        "lineNumber": 622,
+        "lineNumber": 581,
         "text": "And have no vigor in them."
       }
     ]
@@ -3736,39 +3567,39 @@ const the_tempest_1_2: SceneData = {
     "speaker": "FERDINAND",
     "lines": [
       {
-        "lineNumber": 623,
+        "lineNumber": 582,
         "text": "So they are."
       },
       {
-        "lineNumber": 624,
+        "lineNumber": 583,
         "text": "My spirits, as in a dream, are all bound up."
       },
       {
-        "lineNumber": 625,
+        "lineNumber": 584,
         "text": "My father's loss, the weakness which I feel,"
       },
       {
-        "lineNumber": 626,
+        "lineNumber": 585,
         "text": "The wrack of all my friends, nor this man's threats"
       },
       {
-        "lineNumber": 627,
+        "lineNumber": 586,
         "text": "To whom I am subdued, are but light to me,"
       },
       {
-        "lineNumber": 628,
+        "lineNumber": 587,
         "text": "Might I but through my prison once a day"
       },
       {
-        "lineNumber": 629,
+        "lineNumber": 588,
         "text": "Behold this maid. All corners else o' th' Earth"
       },
       {
-        "lineNumber": 630,
+        "lineNumber": 589,
         "text": "Let liberty make use of. Space enough"
       },
       {
-        "lineNumber": 631,
+        "lineNumber": 590,
         "text": "Have I in such a prison."
       }
     ]
@@ -3777,11 +3608,11 @@ const the_tempest_1_2: SceneData = {
     "speaker": "FERDINAND",
     "lines": [
       {
-        "lineNumber": 632,
+        "lineNumber": 591,
         "text": "PROSPERO, [aside]  It works.--Come on.--"
       },
       {
-        "lineNumber": 633,
+        "lineNumber": 592,
         "text": "Thou hast done well, fine Ariel.--Follow me."
       }
     ]
@@ -3790,23 +3621,23 @@ const the_tempest_1_2: SceneData = {
     "speaker": "FERDINAND",
     "lines": [
       {
-        "lineNumber": 634,
+        "lineNumber": 593,
         "text": "MIRANDA, [to Ferdinand]  Be of"
       },
       {
-        "lineNumber": 635,
+        "lineNumber": 594,
         "text": "comfort."
       },
       {
-        "lineNumber": 636,
+        "lineNumber": 595,
         "text": "My father's of a better nature, sir,"
       },
       {
-        "lineNumber": 637,
+        "lineNumber": 596,
         "text": "Than he appears by speech. This is unwonted"
       },
       {
-        "lineNumber": 638,
+        "lineNumber": 597,
         "text": "Which now came from him."
       }
     ]
@@ -3815,15 +3646,15 @@ const the_tempest_1_2: SceneData = {
     "speaker": "FERDINAND",
     "lines": [
       {
-        "lineNumber": 639,
+        "lineNumber": 598,
         "text": "PROSPERO, [to Ariel]  Thou shalt be as free"
       },
       {
-        "lineNumber": 640,
+        "lineNumber": 599,
         "text": "As mountain winds; but then exactly do"
       },
       {
-        "lineNumber": 641,
+        "lineNumber": 600,
         "text": "All points of my command."
       }
     ]
@@ -3832,7 +3663,7 @@ const the_tempest_1_2: SceneData = {
     "speaker": "ARIEL",
     "lines": [
       {
-        "lineNumber": 642,
+        "lineNumber": 601,
         "text": "To th' syllable."
       }
     ]
@@ -3841,136 +3672,127 @@ const the_tempest_1_2: SceneData = {
     "speaker": "ARIEL",
     "lines": [
       {
-        "lineNumber": 643,
+        "lineNumber": 602,
         "text": "Come follow. [To Miranda.] Speak not for him."
-      }
-    ]
-  },
-  {
-    "speaker": "ARIEL",
-    "lines": [
-      {
-        "lineNumber": 644,
-        "text": "====="
       }
     ]
   }
 ],
   stageDirections: [
   {
-    "position": 1,
+    "position": 0,
     "text": "Enter Prospero and Miranda."
   },
   {
-    "position": 7,
+    "position": 6,
     "text": "Putting aside his cloak."
   },
   {
-    "position": 8,
+    "position": 7,
     "text": "or thou must now know farther.\t[They sit."
   },
   {
-    "position": 44,
+    "position": 43,
     "text": "Miranda falls asleep."
   },
   {
-    "position": 44,
+    "position": 43,
     "text": "Prospero puts on his cloak."
   },
   {
-    "position": 45,
+    "position": 44,
     "text": "Enter Ariel."
   },
   {
-    "position": 54,
+    "position": 53,
     "text": "is arms in this sad knot.\t[He folds his arms."
   },
   {
-    "position": 83,
+    "position": 82,
     "text": "Ariel exits."
   },
   {
-    "position": 84,
+    "position": 83,
     "text": "wake.\t[Miranda wakes."
   },
   {
-    "position": 90,
+    "position": 89,
     "text": "Enter Ariel like a water nymph."
   },
   {
-    "position": 91,
+    "position": 90,
     "text": "ark in thine ear.\t[He whispers to Ariel."
   },
   {
-    "position": 91,
+    "position": 90,
     "text": "RIEL  My lord, it shall be done.\t[He exits."
   },
   {
-    "position": 91,
+    "position": 90,
     "text": "ROSPERO, [to Caliban"
   },
   {
-    "position": 92,
+    "position": 91,
     "text": "Enter Caliban."
   },
   {
-    "position": 101,
+    "position": 100,
     "text": "Aside.] I must obey. His art is of such powe"
   },
   {
-    "position": 103,
+    "position": 102,
     "text": "Caliban exits."
   },
   {
-    "position": 103,
+    "position": 102,
     "text": "Enter Ferdinand; and Ariel, invisible"
   },
   {
-    "position": 103,
+    "position": 102,
     "text": "laying and singing."
+  },
+  {
+    "position": 104,
+    "text": "Burden dispersedly, within:] Bow-wow"
   },
   {
     "position": 105,
     "text": "Burden dispersedly, within:] Bow-wow"
   },
   {
-    "position": 106,
-    "text": "Burden dispersedly, within:] Bow-wow"
-  },
-  {
-    "position": 110,
+    "position": 109,
     "text": "Burden, within:] Ding dong"
   },
   {
-    "position": 112,
+    "position": 111,
     "text": "ROSPERO, [to Miranda"
   },
   {
-    "position": 128,
+    "position": 127,
     "text": "Aside.] They are both in either's powers. But thi"
   },
   {
-    "position": 132,
+    "position": 131,
     "text": "To Miranda.] Speak not you for him. He's a traitor"
   },
   {
-    "position": 132,
+    "position": 131,
     "text": "To Ferdinand.] Come"
   },
   {
-    "position": 134,
+    "position": 133,
     "text": "He draws, and is charmed from moving."
   },
   {
-    "position": 144,
+    "position": 143,
     "text": "To Ariel.] Hark what thou else shalt do me"
   },
   {
-    "position": 147,
+    "position": 146,
     "text": "ROSPERO, [to Ferdinand"
   },
   {
-    "position": 148,
+    "position": 147,
     "text": "They exit."
   }
 ],
@@ -3983,60 +3805,10 @@ const the_tempest_2_1: SceneData = {
   scene: 1,
   speeches: [
   {
-    "speaker": "ARIEL",
-    "lines": [
-      {
-        "lineNumber": 1,
-        "text": "======="
-      }
-    ]
-  },
-  {
-    "speaker": "ARIEL",
-    "lines": [
-      {
-        "lineNumber": 2,
-        "text": "Beseech you, sir, be merry. You have cause--"
-      },
-      {
-        "lineNumber": 3,
-        "text": "So have we all--of joy, for our escape"
-      },
-      {
-        "lineNumber": 4,
-        "text": "Is much beyond our loss. Our hint of woe"
-      },
-      {
-        "lineNumber": 5,
-        "text": "Is common; every day some sailor's wife,"
-      },
-      {
-        "lineNumber": 6,
-        "text": "The masters of some merchant, and the merchant"
-      },
-      {
-        "lineNumber": 7,
-        "text": "Have just our theme of woe. But for the miracle--"
-      },
-      {
-        "lineNumber": 8,
-        "text": "I mean our preservation--few in millions"
-      },
-      {
-        "lineNumber": 9,
-        "text": "Can speak like us. Then wisely, good sir, weigh"
-      },
-      {
-        "lineNumber": 10,
-        "text": "Our sorrow with our comfort."
-      }
-    ]
-  },
-  {
     "speaker": "ALONSO",
     "lines": [
       {
-        "lineNumber": 11,
+        "lineNumber": 1,
         "text": "Prithee, peace."
       }
     ]
@@ -4045,11 +3817,11 @@ const the_tempest_2_1: SceneData = {
     "speaker": "ALONSO",
     "lines": [
       {
-        "lineNumber": 12,
+        "lineNumber": 2,
         "text": "SEBASTIAN, [aside to Antonio]  He receives comfort like"
       },
       {
-        "lineNumber": 13,
+        "lineNumber": 3,
         "text": "cold porridge."
       }
     ]
@@ -4058,7 +3830,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "ANTONIO",
     "lines": [
       {
-        "lineNumber": 14,
+        "lineNumber": 4,
         "text": "The visitor will not give him o'er so."
       }
     ]
@@ -4067,11 +3839,11 @@ const the_tempest_2_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 15,
+        "lineNumber": 5,
         "text": "Look, he's winding up the watch of his wit."
       },
       {
-        "lineNumber": 16,
+        "lineNumber": 6,
         "text": "By and by it will strike."
       }
     ]
@@ -4080,7 +3852,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 17,
+        "lineNumber": 7,
         "text": "GONZALO, [to Alonso]  Sir--"
       }
     ]
@@ -4089,7 +3861,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 18,
+        "lineNumber": 8,
         "text": "One. Tell."
       }
     ]
@@ -4098,11 +3870,11 @@ const the_tempest_2_1: SceneData = {
     "speaker": "GONZALO",
     "lines": [
       {
-        "lineNumber": 19,
+        "lineNumber": 9,
         "text": "When every grief is entertained that's offered,"
       },
       {
-        "lineNumber": 20,
+        "lineNumber": 10,
         "text": "comes to th' entertainer--"
       }
     ]
@@ -4111,7 +3883,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 21,
+        "lineNumber": 11,
         "text": "A dollar."
       }
     ]
@@ -4120,11 +3892,11 @@ const the_tempest_2_1: SceneData = {
     "speaker": "GONZALO",
     "lines": [
       {
-        "lineNumber": 22,
+        "lineNumber": 12,
         "text": "Dolor comes to him indeed. You have spoken"
       },
       {
-        "lineNumber": 23,
+        "lineNumber": 13,
         "text": "truer than you purposed."
       }
     ]
@@ -4133,11 +3905,11 @@ const the_tempest_2_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 24,
+        "lineNumber": 14,
         "text": "You have taken it wiselier than I meant you"
       },
       {
-        "lineNumber": 25,
+        "lineNumber": 15,
         "text": "should."
       }
     ]
@@ -4146,7 +3918,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 26,
+        "lineNumber": 16,
         "text": "GONZALO, [to Alonso]  Therefore, my lord--"
       }
     ]
@@ -4155,7 +3927,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "ANTONIO",
     "lines": [
       {
-        "lineNumber": 27,
+        "lineNumber": 17,
         "text": "Fie, what a spendthrift is he of his tongue."
       }
     ]
@@ -4164,7 +3936,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "ANTONIO",
     "lines": [
       {
-        "lineNumber": 28,
+        "lineNumber": 18,
         "text": "ALONSO, [to Gonzalo]  I prithee, spare."
       }
     ]
@@ -4173,7 +3945,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "GONZALO",
     "lines": [
       {
-        "lineNumber": 29,
+        "lineNumber": 19,
         "text": "Well, I have done. But yet--"
       }
     ]
@@ -4182,7 +3954,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "GONZALO",
     "lines": [
       {
-        "lineNumber": 30,
+        "lineNumber": 20,
         "text": "SEBASTIAN, [aside to Antonio]  He will be talking."
       }
     ]
@@ -4191,11 +3963,11 @@ const the_tempest_2_1: SceneData = {
     "speaker": "GONZALO",
     "lines": [
       {
-        "lineNumber": 31,
+        "lineNumber": 21,
         "text": "ANTONIO, [aside to Sebastian]  Which, of he or Adrian,"
       },
       {
-        "lineNumber": 32,
+        "lineNumber": 22,
         "text": "for a good wager, first begins to crow?"
       }
     ]
@@ -4204,7 +3976,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 33,
+        "lineNumber": 23,
         "text": "The old cock."
       }
     ]
@@ -4213,7 +3985,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "ANTONIO",
     "lines": [
       {
-        "lineNumber": 34,
+        "lineNumber": 24,
         "text": "The cockerel."
       }
     ]
@@ -4222,7 +3994,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 35,
+        "lineNumber": 25,
         "text": "Done. The wager?"
       }
     ]
@@ -4231,7 +4003,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "ANTONIO",
     "lines": [
       {
-        "lineNumber": 36,
+        "lineNumber": 26,
         "text": "A laughter."
       }
     ]
@@ -4240,7 +4012,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 37,
+        "lineNumber": 27,
         "text": "A match!"
       }
     ]
@@ -4249,7 +4021,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "ADRIAN",
     "lines": [
       {
-        "lineNumber": 38,
+        "lineNumber": 28,
         "text": "Though this island seem to be desert--"
       }
     ]
@@ -4258,7 +4030,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "ANTONIO",
     "lines": [
       {
-        "lineNumber": 39,
+        "lineNumber": 29,
         "text": "Ha, ha, ha."
       }
     ]
@@ -4267,7 +4039,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 40,
+        "lineNumber": 30,
         "text": "So. You're paid."
       }
     ]
@@ -4276,7 +4048,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "ADRIAN",
     "lines": [
       {
-        "lineNumber": 41,
+        "lineNumber": 31,
         "text": "Uninhabitable and almost inaccessible--"
       }
     ]
@@ -4285,7 +4057,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 42,
+        "lineNumber": 32,
         "text": "Yet--"
       }
     ]
@@ -4294,7 +4066,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "ADRIAN",
     "lines": [
       {
-        "lineNumber": 43,
+        "lineNumber": 33,
         "text": "Yet--"
       }
     ]
@@ -4303,7 +4075,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "ANTONIO",
     "lines": [
       {
-        "lineNumber": 44,
+        "lineNumber": 34,
         "text": "He could not miss 't."
       }
     ]
@@ -4312,11 +4084,11 @@ const the_tempest_2_1: SceneData = {
     "speaker": "ADRIAN",
     "lines": [
       {
-        "lineNumber": 45,
+        "lineNumber": 35,
         "text": "It must needs be of subtle, tender, and delicate"
       },
       {
-        "lineNumber": 46,
+        "lineNumber": 36,
         "text": "temperance."
       }
     ]
@@ -4325,7 +4097,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "ANTONIO",
     "lines": [
       {
-        "lineNumber": 47,
+        "lineNumber": 37,
         "text": "Temperance was a delicate wench."
       }
     ]
@@ -4334,11 +4106,11 @@ const the_tempest_2_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 48,
+        "lineNumber": 38,
         "text": "Ay, and a subtle, as he most learnedly"
       },
       {
-        "lineNumber": 49,
+        "lineNumber": 39,
         "text": "delivered."
       }
     ]
@@ -4347,7 +4119,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "ADRIAN",
     "lines": [
       {
-        "lineNumber": 50,
+        "lineNumber": 40,
         "text": "The air breathes upon us here most sweetly."
       }
     ]
@@ -4356,7 +4128,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 51,
+        "lineNumber": 41,
         "text": "As if it had lungs, and rotten ones."
       }
     ]
@@ -4365,7 +4137,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "ANTONIO",
     "lines": [
       {
-        "lineNumber": 52,
+        "lineNumber": 42,
         "text": "Or as 'twere perfumed by a fen."
       }
     ]
@@ -4374,7 +4146,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "GONZALO",
     "lines": [
       {
-        "lineNumber": 53,
+        "lineNumber": 43,
         "text": "Here is everything advantageous to life."
       }
     ]
@@ -4383,7 +4155,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "ANTONIO",
     "lines": [
       {
-        "lineNumber": 54,
+        "lineNumber": 44,
         "text": "True, save means to live."
       }
     ]
@@ -4392,7 +4164,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 55,
+        "lineNumber": 45,
         "text": "Of that there's none, or little."
       }
     ]
@@ -4401,11 +4173,11 @@ const the_tempest_2_1: SceneData = {
     "speaker": "GONZALO",
     "lines": [
       {
-        "lineNumber": 56,
+        "lineNumber": 46,
         "text": "How lush and lusty the grass looks! How"
       },
       {
-        "lineNumber": 57,
+        "lineNumber": 47,
         "text": "green!"
       }
     ]
@@ -4414,7 +4186,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "ANTONIO",
     "lines": [
       {
-        "lineNumber": 58,
+        "lineNumber": 48,
         "text": "The ground indeed is tawny."
       }
     ]
@@ -4423,7 +4195,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 59,
+        "lineNumber": 49,
         "text": "With an eye of green in 't."
       }
     ]
@@ -4432,7 +4204,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "ANTONIO",
     "lines": [
       {
-        "lineNumber": 60,
+        "lineNumber": 50,
         "text": "He misses not much."
       }
     ]
@@ -4441,7 +4213,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 61,
+        "lineNumber": 51,
         "text": "No, he doth but mistake the truth totally."
       }
     ]
@@ -4450,11 +4222,11 @@ const the_tempest_2_1: SceneData = {
     "speaker": "GONZALO",
     "lines": [
       {
-        "lineNumber": 62,
+        "lineNumber": 52,
         "text": "But the rarity of it is, which is indeed almost"
       },
       {
-        "lineNumber": 63,
+        "lineNumber": 53,
         "text": "beyond credit--"
       }
     ]
@@ -4463,7 +4235,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 64,
+        "lineNumber": 54,
         "text": "As many vouched rarities are."
       }
     ]
@@ -4472,19 +4244,19 @@ const the_tempest_2_1: SceneData = {
     "speaker": "GONZALO",
     "lines": [
       {
-        "lineNumber": 65,
+        "lineNumber": 55,
         "text": "That our garments, being, as they were,"
       },
       {
-        "lineNumber": 66,
+        "lineNumber": 56,
         "text": "drenched in the sea, hold notwithstanding their"
       },
       {
-        "lineNumber": 67,
+        "lineNumber": 57,
         "text": "freshness and gloss, being rather new-dyed than"
       },
       {
-        "lineNumber": 68,
+        "lineNumber": 58,
         "text": "stained with salt water."
       }
     ]
@@ -4493,11 +4265,11 @@ const the_tempest_2_1: SceneData = {
     "speaker": "ANTONIO",
     "lines": [
       {
-        "lineNumber": 69,
+        "lineNumber": 59,
         "text": "If but one of his pockets could speak, would"
       },
       {
-        "lineNumber": 70,
+        "lineNumber": 60,
         "text": "it not say he lies?"
       }
     ]
@@ -4506,7 +4278,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 71,
+        "lineNumber": 61,
         "text": "Ay, or very falsely pocket up his report."
       }
     ]
@@ -4515,19 +4287,19 @@ const the_tempest_2_1: SceneData = {
     "speaker": "GONZALO",
     "lines": [
       {
-        "lineNumber": 72,
+        "lineNumber": 62,
         "text": "Methinks our garments are now as fresh as"
       },
       {
-        "lineNumber": 73,
+        "lineNumber": 63,
         "text": "when we put them on first in Afric, at the marriage"
       },
       {
-        "lineNumber": 74,
+        "lineNumber": 64,
         "text": "of the King's fair daughter Claribel to the King of"
       },
       {
-        "lineNumber": 75,
+        "lineNumber": 65,
         "text": "Tunis."
       }
     ]
@@ -4536,11 +4308,11 @@ const the_tempest_2_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 76,
+        "lineNumber": 66,
         "text": "'Twas a sweet marriage, and we prosper"
       },
       {
-        "lineNumber": 77,
+        "lineNumber": 67,
         "text": "well in our return."
       }
     ]
@@ -4549,11 +4321,11 @@ const the_tempest_2_1: SceneData = {
     "speaker": "ADRIAN",
     "lines": [
       {
-        "lineNumber": 78,
+        "lineNumber": 68,
         "text": "Tunis was never graced before with such a"
       },
       {
-        "lineNumber": 79,
+        "lineNumber": 69,
         "text": "paragon to their queen."
       }
     ]
@@ -4562,7 +4334,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "GONZALO",
     "lines": [
       {
-        "lineNumber": 80,
+        "lineNumber": 70,
         "text": "Not since widow Dido's time."
       }
     ]
@@ -4571,11 +4343,11 @@ const the_tempest_2_1: SceneData = {
     "speaker": "ANTONIO",
     "lines": [
       {
-        "lineNumber": 81,
+        "lineNumber": 71,
         "text": "Widow? A pox o' that! How came that \"widow\""
       },
       {
-        "lineNumber": 82,
+        "lineNumber": 72,
         "text": "in? Widow Dido!"
       }
     ]
@@ -4584,11 +4356,11 @@ const the_tempest_2_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 83,
+        "lineNumber": 73,
         "text": "What if he had said \"widower Aeneas\" too?"
       },
       {
-        "lineNumber": 84,
+        "lineNumber": 74,
         "text": "Good Lord, how you take it!"
       }
     ]
@@ -4597,15 +4369,15 @@ const the_tempest_2_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 85,
+        "lineNumber": 75,
         "text": "ADRIAN, [to Gonzalo]  \"Widow Dido,\" said you? You"
       },
       {
-        "lineNumber": 86,
+        "lineNumber": 76,
         "text": "make me study of that. She was of Carthage, not of"
       },
       {
-        "lineNumber": 87,
+        "lineNumber": 77,
         "text": "Tunis."
       }
     ]
@@ -4614,7 +4386,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "GONZALO",
     "lines": [
       {
-        "lineNumber": 88,
+        "lineNumber": 78,
         "text": "This Tunis, sir, was Carthage."
       }
     ]
@@ -4623,7 +4395,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "ADRIAN",
     "lines": [
       {
-        "lineNumber": 89,
+        "lineNumber": 79,
         "text": "Carthage?"
       }
     ]
@@ -4632,7 +4404,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "GONZALO",
     "lines": [
       {
-        "lineNumber": 90,
+        "lineNumber": 80,
         "text": "I assure you, Carthage."
       }
     ]
@@ -4641,7 +4413,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "ANTONIO",
     "lines": [
       {
-        "lineNumber": 91,
+        "lineNumber": 81,
         "text": "His word is more than the miraculous harp."
       }
     ]
@@ -4650,7 +4422,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 92,
+        "lineNumber": 82,
         "text": "He hath raised the wall, and houses too."
       }
     ]
@@ -4659,11 +4431,11 @@ const the_tempest_2_1: SceneData = {
     "speaker": "ANTONIO",
     "lines": [
       {
-        "lineNumber": 93,
+        "lineNumber": 83,
         "text": "What impossible matter will he make easy"
       },
       {
-        "lineNumber": 94,
+        "lineNumber": 84,
         "text": "next?"
       }
     ]
@@ -4672,11 +4444,11 @@ const the_tempest_2_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 95,
+        "lineNumber": 85,
         "text": "I think he will carry this island home in his"
       },
       {
-        "lineNumber": 96,
+        "lineNumber": 86,
         "text": "pocket and give it his son for an apple."
       }
     ]
@@ -4685,11 +4457,11 @@ const the_tempest_2_1: SceneData = {
     "speaker": "ANTONIO",
     "lines": [
       {
-        "lineNumber": 97,
+        "lineNumber": 87,
         "text": "And sowing the kernels of it in the sea, bring"
       },
       {
-        "lineNumber": 98,
+        "lineNumber": 88,
         "text": "forth more islands."
       }
     ]
@@ -4698,7 +4470,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "GONZALO",
     "lines": [
       {
-        "lineNumber": 99,
+        "lineNumber": 89,
         "text": "Ay."
       }
     ]
@@ -4707,7 +4479,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "ANTONIO",
     "lines": [
       {
-        "lineNumber": 100,
+        "lineNumber": 90,
         "text": "Why, in good time."
       }
     ]
@@ -4716,19 +4488,19 @@ const the_tempest_2_1: SceneData = {
     "speaker": "ANTONIO",
     "lines": [
       {
-        "lineNumber": 101,
+        "lineNumber": 91,
         "text": "GONZALO, [to Alonso]  Sir, we were talking that our"
       },
       {
-        "lineNumber": 102,
+        "lineNumber": 92,
         "text": "garments seem now as fresh as when we were at"
       },
       {
-        "lineNumber": 103,
+        "lineNumber": 93,
         "text": "Tunis at the marriage of your daughter, who is now"
       },
       {
-        "lineNumber": 104,
+        "lineNumber": 94,
         "text": "queen."
       }
     ]
@@ -4737,7 +4509,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "ANTONIO",
     "lines": [
       {
-        "lineNumber": 105,
+        "lineNumber": 95,
         "text": "And the rarest that e'er came there."
       }
     ]
@@ -4746,7 +4518,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 106,
+        "lineNumber": 96,
         "text": "Bate, I beseech you, widow Dido."
       }
     ]
@@ -4755,7 +4527,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "ANTONIO",
     "lines": [
       {
-        "lineNumber": 107,
+        "lineNumber": 97,
         "text": "O, widow Dido? Ay, widow Dido."
       }
     ]
@@ -4764,11 +4536,11 @@ const the_tempest_2_1: SceneData = {
     "speaker": "ANTONIO",
     "lines": [
       {
-        "lineNumber": 108,
+        "lineNumber": 98,
         "text": "GONZALO, [to Alonso]  Is not, sir, my doublet as fresh as"
       },
       {
-        "lineNumber": 109,
+        "lineNumber": 99,
         "text": "the first day I wore it? I mean, in a sort."
       }
     ]
@@ -4777,7 +4549,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "ANTONIO",
     "lines": [
       {
-        "lineNumber": 110,
+        "lineNumber": 100,
         "text": "That \"sort\" was well fished for."
       }
     ]
@@ -4786,52 +4558,48 @@ const the_tempest_2_1: SceneData = {
     "speaker": "ANTONIO",
     "lines": [
       {
-        "lineNumber": 111,
+        "lineNumber": 101,
         "text": "GONZALO, [to Alonso]  When I wore it at your daughter's"
       },
       {
-        "lineNumber": 112,
+        "lineNumber": 102,
         "text": "marriage."
       }
     ]
   },
   {
-    "speaker": "ANTONIO",
+    "speaker": "ALONSO",
     "lines": [
       {
-        "lineNumber": 113,
-        "text": "ALONSO"
-      },
-      {
-        "lineNumber": 114,
+        "lineNumber": 103,
         "text": "You cram these words into mine ears against"
       },
       {
-        "lineNumber": 115,
+        "lineNumber": 104,
         "text": "The stomach of my sense. Would I had never"
       },
       {
-        "lineNumber": 116,
+        "lineNumber": 105,
         "text": "Married my daughter there, for coming thence"
       },
       {
-        "lineNumber": 117,
+        "lineNumber": 106,
         "text": "My son is lost, and, in my rate, she too,"
       },
       {
-        "lineNumber": 118,
+        "lineNumber": 107,
         "text": "Who is so far from Italy removed"
       },
       {
-        "lineNumber": 119,
+        "lineNumber": 108,
         "text": "I ne'er again shall see her.--O, thou mine heir"
       },
       {
-        "lineNumber": 120,
+        "lineNumber": 109,
         "text": "Of Naples and of Milan, what strange fish"
       },
       {
-        "lineNumber": 121,
+        "lineNumber": 110,
         "text": "Hath made his meal on thee?"
       }
     ]
@@ -4840,43 +4608,43 @@ const the_tempest_2_1: SceneData = {
     "speaker": "FRANCISCO",
     "lines": [
       {
-        "lineNumber": 122,
+        "lineNumber": 111,
         "text": "Sir, he may live."
       },
       {
-        "lineNumber": 123,
+        "lineNumber": 112,
         "text": "I saw him beat the surges under him"
       },
       {
-        "lineNumber": 124,
+        "lineNumber": 113,
         "text": "And ride upon their backs. He trod the water,"
       },
       {
-        "lineNumber": 125,
+        "lineNumber": 114,
         "text": "Whose enmity he flung aside, and breasted"
       },
       {
-        "lineNumber": 126,
+        "lineNumber": 115,
         "text": "The surge most swoll'n that met him. His bold head"
       },
       {
-        "lineNumber": 127,
+        "lineNumber": 116,
         "text": "'Bove the contentious waves he kept, and oared"
       },
       {
-        "lineNumber": 128,
+        "lineNumber": 117,
         "text": "Himself with his good arms in lusty stroke"
       },
       {
-        "lineNumber": 129,
+        "lineNumber": 118,
         "text": "To th' shore, that o'er his wave-worn basis bowed,"
       },
       {
-        "lineNumber": 130,
+        "lineNumber": 119,
         "text": "As stooping to relieve him. I not doubt"
       },
       {
-        "lineNumber": 131,
+        "lineNumber": 120,
         "text": "He came alive to land."
       }
     ]
@@ -4885,36 +4653,32 @@ const the_tempest_2_1: SceneData = {
     "speaker": "ALONSO",
     "lines": [
       {
-        "lineNumber": 132,
+        "lineNumber": 121,
         "text": "No, no, he's gone."
       }
     ]
   },
   {
-    "speaker": "ALONSO",
+    "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 133,
-        "text": "SEBASTIAN"
-      },
-      {
-        "lineNumber": 134,
+        "lineNumber": 122,
         "text": "Sir, you may thank yourself for this great loss,"
       },
       {
-        "lineNumber": 135,
+        "lineNumber": 123,
         "text": "That would not bless our Europe with your daughter,"
       },
       {
-        "lineNumber": 136,
+        "lineNumber": 124,
         "text": "But rather lose her to an African,"
       },
       {
-        "lineNumber": 137,
+        "lineNumber": 125,
         "text": "Where she at least is banished from your eye,"
       },
       {
-        "lineNumber": 138,
+        "lineNumber": 126,
         "text": "Who hath cause to wet the grief on 't."
       }
     ]
@@ -4923,52 +4687,48 @@ const the_tempest_2_1: SceneData = {
     "speaker": "ALONSO",
     "lines": [
       {
-        "lineNumber": 139,
+        "lineNumber": 127,
         "text": "Prithee, peace."
       }
     ]
   },
   {
-    "speaker": "ALONSO",
+    "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 140,
-        "text": "SEBASTIAN"
-      },
-      {
-        "lineNumber": 141,
+        "lineNumber": 128,
         "text": "You were kneeled to and importuned otherwise"
       },
       {
-        "lineNumber": 142,
+        "lineNumber": 129,
         "text": "By all of us; and the fair soul herself"
       },
       {
-        "lineNumber": 143,
+        "lineNumber": 130,
         "text": "Weighed between loathness and obedience at"
       },
       {
-        "lineNumber": 144,
+        "lineNumber": 131,
         "text": "Which end o' th' beam should bow. We have lost"
       },
       {
-        "lineNumber": 145,
+        "lineNumber": 132,
         "text": "your son,"
       },
       {
-        "lineNumber": 146,
+        "lineNumber": 133,
         "text": "I fear, forever. Milan and Naples have"
       },
       {
-        "lineNumber": 147,
+        "lineNumber": 134,
         "text": "More widows in them of this business' making"
       },
       {
-        "lineNumber": 148,
+        "lineNumber": 135,
         "text": "Than we bring men to comfort them."
       },
       {
-        "lineNumber": 149,
+        "lineNumber": 136,
         "text": "The fault's your own."
       }
     ]
@@ -4977,7 +4737,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "ALONSO",
     "lines": [
       {
-        "lineNumber": 150,
+        "lineNumber": 137,
         "text": "So is the dear'st o' th' loss."
       }
     ]
@@ -4986,19 +4746,19 @@ const the_tempest_2_1: SceneData = {
     "speaker": "GONZALO",
     "lines": [
       {
-        "lineNumber": 151,
+        "lineNumber": 138,
         "text": "My lord Sebastian,"
       },
       {
-        "lineNumber": 152,
+        "lineNumber": 139,
         "text": "The truth you speak doth lack some gentleness"
       },
       {
-        "lineNumber": 153,
+        "lineNumber": 140,
         "text": "And time to speak it in. You rub the sore"
       },
       {
-        "lineNumber": 154,
+        "lineNumber": 141,
         "text": "When you should bring the plaster."
       }
     ]
@@ -5007,7 +4767,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 155,
+        "lineNumber": 142,
         "text": "Very well."
       }
     ]
@@ -5016,7 +4776,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "ANTONIO",
     "lines": [
       {
-        "lineNumber": 156,
+        "lineNumber": 143,
         "text": "And most chirurgeonly."
       }
     ]
@@ -5025,11 +4785,11 @@ const the_tempest_2_1: SceneData = {
     "speaker": "ANTONIO",
     "lines": [
       {
-        "lineNumber": 157,
+        "lineNumber": 144,
         "text": "It is foul weather in us all, good sir,"
       },
       {
-        "lineNumber": 158,
+        "lineNumber": 145,
         "text": "When you are cloudy."
       }
     ]
@@ -5038,7 +4798,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 159,
+        "lineNumber": 146,
         "text": "Foul weather?"
       }
     ]
@@ -5047,20 +4807,16 @@ const the_tempest_2_1: SceneData = {
     "speaker": "ANTONIO",
     "lines": [
       {
-        "lineNumber": 160,
+        "lineNumber": 147,
         "text": "Very foul."
       }
     ]
   },
   {
-    "speaker": "ANTONIO",
+    "speaker": "GONZALO",
     "lines": [
       {
-        "lineNumber": 161,
-        "text": "GONZALO"
-      },
-      {
-        "lineNumber": 162,
+        "lineNumber": 148,
         "text": "Had I plantation of this isle, my lord--"
       }
     ]
@@ -5069,11 +4825,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "ANTONIO",
     "lines": [
       {
-        "lineNumber": 163,
-        "text": "ANTONIO"
-      },
-      {
-        "lineNumber": 164,
+        "lineNumber": 149,
         "text": "He'd sow 't with nettle seed."
       }
     ]
@@ -5082,20 +4834,16 @@ const the_tempest_2_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 165,
+        "lineNumber": 150,
         "text": "Or docks, or mallows."
       }
     ]
   },
   {
-    "speaker": "SEBASTIAN",
+    "speaker": "GONZALO",
     "lines": [
       {
-        "lineNumber": 166,
-        "text": "GONZALO"
-      },
-      {
-        "lineNumber": 167,
+        "lineNumber": 151,
         "text": "And were the king on 't, what would I do?"
       }
     ]
@@ -5104,56 +4852,52 @@ const the_tempest_2_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 168,
+        "lineNumber": 152,
         "text": "Scape being drunk, for want of wine."
       }
     ]
   },
   {
-    "speaker": "SEBASTIAN",
+    "speaker": "GONZALO",
     "lines": [
       {
-        "lineNumber": 169,
-        "text": "GONZALO"
-      },
-      {
-        "lineNumber": 170,
+        "lineNumber": 153,
         "text": "I' th' commonwealth I would by contraries"
       },
       {
-        "lineNumber": 171,
+        "lineNumber": 154,
         "text": "Execute all things, for no kind of traffic"
       },
       {
-        "lineNumber": 172,
+        "lineNumber": 155,
         "text": "Would I admit; no name of magistrate;"
       },
       {
-        "lineNumber": 173,
+        "lineNumber": 156,
         "text": "Letters should not be known; riches, poverty,"
       },
       {
-        "lineNumber": 174,
+        "lineNumber": 157,
         "text": "And use of service, none; contract, succession,"
       },
       {
-        "lineNumber": 175,
+        "lineNumber": 158,
         "text": "Bourn, bound of land, tilth, vineyard, none;"
       },
       {
-        "lineNumber": 176,
+        "lineNumber": 159,
         "text": "No use of metal, corn, or wine, or oil;"
       },
       {
-        "lineNumber": 177,
+        "lineNumber": 160,
         "text": "No occupation; all men idle, all,"
       },
       {
-        "lineNumber": 178,
+        "lineNumber": 161,
         "text": "And women too, but innocent and pure;"
       },
       {
-        "lineNumber": 179,
+        "lineNumber": 162,
         "text": "No sovereignty--"
       }
     ]
@@ -5162,7 +4906,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 180,
+        "lineNumber": 163,
         "text": "Yet he would be king on 't."
       }
     ]
@@ -5171,44 +4915,40 @@ const the_tempest_2_1: SceneData = {
     "speaker": "ANTONIO",
     "lines": [
       {
-        "lineNumber": 181,
+        "lineNumber": 164,
         "text": "The latter end of his commonwealth forgets"
       },
       {
-        "lineNumber": 182,
+        "lineNumber": 165,
         "text": "the beginning."
       }
     ]
   },
   {
-    "speaker": "ANTONIO",
+    "speaker": "GONZALO",
     "lines": [
       {
-        "lineNumber": 183,
-        "text": "GONZALO"
-      },
-      {
-        "lineNumber": 184,
+        "lineNumber": 166,
         "text": "All things in common nature should produce"
       },
       {
-        "lineNumber": 185,
+        "lineNumber": 167,
         "text": "Without sweat or endeavor; treason, felony,"
       },
       {
-        "lineNumber": 186,
+        "lineNumber": 168,
         "text": "Sword, pike, knife, gun, or need of any engine"
       },
       {
-        "lineNumber": 187,
+        "lineNumber": 169,
         "text": "Would I not have; but nature should bring forth"
       },
       {
-        "lineNumber": 188,
+        "lineNumber": 170,
         "text": "Of its own kind all foison, all abundance,"
       },
       {
-        "lineNumber": 189,
+        "lineNumber": 171,
         "text": "To feed my innocent people."
       }
     ]
@@ -5217,7 +4957,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 190,
+        "lineNumber": 172,
         "text": "No marrying 'mong his subjects?"
       }
     ]
@@ -5226,24 +4966,20 @@ const the_tempest_2_1: SceneData = {
     "speaker": "ANTONIO",
     "lines": [
       {
-        "lineNumber": 191,
+        "lineNumber": 173,
         "text": "None, man, all idle: whores and knaves."
       }
     ]
   },
   {
-    "speaker": "ANTONIO",
+    "speaker": "GONZALO",
     "lines": [
       {
-        "lineNumber": 192,
-        "text": "GONZALO"
-      },
-      {
-        "lineNumber": 193,
+        "lineNumber": 174,
         "text": "I would with such perfection govern, sir,"
       },
       {
-        "lineNumber": 194,
+        "lineNumber": 175,
         "text": "T' excel the Golden Age."
       }
     ]
@@ -5252,20 +4988,16 @@ const the_tempest_2_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 195,
+        "lineNumber": 176,
         "text": "'Save his Majesty!"
       }
     ]
   },
   {
-    "speaker": "SEBASTIAN",
+    "speaker": "ANTONIO",
     "lines": [
       {
-        "lineNumber": 196,
-        "text": "ANTONIO"
-      },
-      {
-        "lineNumber": 197,
+        "lineNumber": 177,
         "text": "Long live Gonzalo!"
       }
     ]
@@ -5274,20 +5006,16 @@ const the_tempest_2_1: SceneData = {
     "speaker": "GONZALO",
     "lines": [
       {
-        "lineNumber": 198,
+        "lineNumber": 178,
         "text": "And do you mark me, sir?"
       }
     ]
   },
   {
-    "speaker": "GONZALO",
+    "speaker": "ALONSO",
     "lines": [
       {
-        "lineNumber": 199,
-        "text": "ALONSO"
-      },
-      {
-        "lineNumber": 200,
+        "lineNumber": 179,
         "text": "Prithee, no more. Thou dost talk nothing to me."
       }
     ]
@@ -5296,19 +5024,19 @@ const the_tempest_2_1: SceneData = {
     "speaker": "GONZALO",
     "lines": [
       {
-        "lineNumber": 201,
+        "lineNumber": 180,
         "text": "I do well believe your Highness, and did it to"
       },
       {
-        "lineNumber": 202,
+        "lineNumber": 181,
         "text": "minister occasion to these gentlemen, who are of"
       },
       {
-        "lineNumber": 203,
+        "lineNumber": 182,
         "text": "such sensible and nimble lungs that they always use"
       },
       {
-        "lineNumber": 204,
+        "lineNumber": 183,
         "text": "to laugh at nothing."
       }
     ]
@@ -5317,7 +5045,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "ANTONIO",
     "lines": [
       {
-        "lineNumber": 205,
+        "lineNumber": 184,
         "text": "'Twas you we laughed at."
       }
     ]
@@ -5326,15 +5054,15 @@ const the_tempest_2_1: SceneData = {
     "speaker": "GONZALO",
     "lines": [
       {
-        "lineNumber": 206,
+        "lineNumber": 185,
         "text": "Who in this kind of merry fooling am"
       },
       {
-        "lineNumber": 207,
+        "lineNumber": 186,
         "text": "nothing to you. So you may continue, and laugh at"
       },
       {
-        "lineNumber": 208,
+        "lineNumber": 187,
         "text": "nothing still."
       }
     ]
@@ -5343,7 +5071,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "ANTONIO",
     "lines": [
       {
-        "lineNumber": 209,
+        "lineNumber": 188,
         "text": "What a blow was there given!"
       }
     ]
@@ -5352,7 +5080,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 210,
+        "lineNumber": 189,
         "text": "An it had not fallen flatlong."
       }
     ]
@@ -5361,15 +5089,15 @@ const the_tempest_2_1: SceneData = {
     "speaker": "GONZALO",
     "lines": [
       {
-        "lineNumber": 211,
+        "lineNumber": 190,
         "text": "You are gentlemen of brave mettle. You"
       },
       {
-        "lineNumber": 212,
+        "lineNumber": 191,
         "text": "would lift the moon out of her sphere if she would"
       },
       {
-        "lineNumber": 213,
+        "lineNumber": 192,
         "text": "continue in it five weeks without changing."
       }
     ]
@@ -5378,7 +5106,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 214,
+        "lineNumber": 193,
         "text": "We would so, and then go a-batfowling."
       }
     ]
@@ -5387,7 +5115,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 215,
+        "lineNumber": 194,
         "text": "ANTONIO, [to Gonzalo]  Nay, good my lord, be not angry."
       }
     ]
@@ -5396,15 +5124,15 @@ const the_tempest_2_1: SceneData = {
     "speaker": "GONZALO",
     "lines": [
       {
-        "lineNumber": 216,
+        "lineNumber": 195,
         "text": "No, I warrant you, I will not adventure my"
       },
       {
-        "lineNumber": 217,
+        "lineNumber": 196,
         "text": "discretion so weakly. Will you laugh me asleep?"
       },
       {
-        "lineNumber": 218,
+        "lineNumber": 197,
         "text": "For I am very heavy."
       }
     ]
@@ -5413,28 +5141,24 @@ const the_tempest_2_1: SceneData = {
     "speaker": "ANTONIO",
     "lines": [
       {
-        "lineNumber": 219,
+        "lineNumber": 198,
         "text": "Go sleep, and hear us."
       }
     ]
   },
   {
-    "speaker": "ANTONIO",
+    "speaker": "ALONSO",
     "lines": [
       {
-        "lineNumber": 220,
-        "text": "ALONSO"
-      },
-      {
-        "lineNumber": 221,
+        "lineNumber": 199,
         "text": "What, all so soon asleep? I wish mine eyes"
       },
       {
-        "lineNumber": 222,
+        "lineNumber": 200,
         "text": "Would, with themselves, shut up my thoughts. I find"
       },
       {
-        "lineNumber": 223,
+        "lineNumber": 201,
         "text": "They are inclined to do so."
       }
     ]
@@ -5443,19 +5167,19 @@ const the_tempest_2_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 224,
+        "lineNumber": 202,
         "text": "Please you, sir,"
       },
       {
-        "lineNumber": 225,
+        "lineNumber": 203,
         "text": "Do not omit the heavy offer of it."
       },
       {
-        "lineNumber": 226,
+        "lineNumber": 204,
         "text": "It seldom visits sorrow; when it doth,"
       },
       {
-        "lineNumber": 227,
+        "lineNumber": 205,
         "text": "It is a comforter."
       }
     ]
@@ -5464,15 +5188,15 @@ const the_tempest_2_1: SceneData = {
     "speaker": "ANTONIO",
     "lines": [
       {
-        "lineNumber": 228,
+        "lineNumber": 206,
         "text": "We two, my lord,"
       },
       {
-        "lineNumber": 229,
+        "lineNumber": 207,
         "text": "Will guard your person while you take your rest,"
       },
       {
-        "lineNumber": 230,
+        "lineNumber": 208,
         "text": "And watch your safety."
       }
     ]
@@ -5481,33 +5205,25 @@ const the_tempest_2_1: SceneData = {
     "speaker": "ALONSO",
     "lines": [
       {
-        "lineNumber": 231,
+        "lineNumber": 209,
         "text": "Thank you. Wondrous heavy."
       }
     ]
   },
   {
-    "speaker": "ALONSO",
+    "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 232,
-        "text": "SEBASTIAN"
-      },
-      {
-        "lineNumber": 233,
+        "lineNumber": 210,
         "text": "What a strange drowsiness possesses them!"
       }
     ]
   },
   {
-    "speaker": "ALONSO",
+    "speaker": "ANTONIO",
     "lines": [
       {
-        "lineNumber": 234,
-        "text": "ANTONIO"
-      },
-      {
-        "lineNumber": 235,
+        "lineNumber": 211,
         "text": "It is the quality o' th' climate."
       }
     ]
@@ -5516,15 +5232,15 @@ const the_tempest_2_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 236,
+        "lineNumber": 212,
         "text": "Why"
       },
       {
-        "lineNumber": 237,
+        "lineNumber": 213,
         "text": "Doth it not then our eyelids sink? I find"
       },
       {
-        "lineNumber": 238,
+        "lineNumber": 214,
         "text": "Not myself disposed to sleep."
       }
     ]
@@ -5533,35 +5249,35 @@ const the_tempest_2_1: SceneData = {
     "speaker": "ANTONIO",
     "lines": [
       {
-        "lineNumber": 239,
+        "lineNumber": 215,
         "text": "Nor I. My spirits are nimble."
       },
       {
-        "lineNumber": 240,
+        "lineNumber": 216,
         "text": "They fell together all, as by consent."
       },
       {
-        "lineNumber": 241,
+        "lineNumber": 217,
         "text": "They dropped as by a thunderstroke. What might,"
       },
       {
-        "lineNumber": 242,
+        "lineNumber": 218,
         "text": "Worthy Sebastian, O, what might--? No more."
       },
       {
-        "lineNumber": 243,
+        "lineNumber": 219,
         "text": "And yet methinks I see it in thy face"
       },
       {
-        "lineNumber": 244,
+        "lineNumber": 220,
         "text": "What thou shouldst be. Th' occasion speaks thee, and"
       },
       {
-        "lineNumber": 245,
+        "lineNumber": 221,
         "text": "My strong imagination sees a crown"
       },
       {
-        "lineNumber": 246,
+        "lineNumber": 222,
         "text": "Dropping upon thy head."
       }
     ]
@@ -5570,20 +5286,16 @@ const the_tempest_2_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 247,
+        "lineNumber": 223,
         "text": "What, art thou waking?"
       }
     ]
   },
   {
-    "speaker": "SEBASTIAN",
+    "speaker": "ANTONIO",
     "lines": [
       {
-        "lineNumber": 248,
-        "text": "ANTONIO"
-      },
-      {
-        "lineNumber": 249,
+        "lineNumber": 224,
         "text": "Do you not hear me speak?"
       }
     ]
@@ -5592,27 +5304,27 @@ const the_tempest_2_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 250,
+        "lineNumber": 225,
         "text": "I do, and surely"
       },
       {
-        "lineNumber": 251,
+        "lineNumber": 226,
         "text": "It is a sleepy language, and thou speak'st"
       },
       {
-        "lineNumber": 252,
+        "lineNumber": 227,
         "text": "Out of thy sleep. What is it thou didst say?"
       },
       {
-        "lineNumber": 253,
+        "lineNumber": 228,
         "text": "This is a strange repose, to be asleep"
       },
       {
-        "lineNumber": 254,
+        "lineNumber": 229,
         "text": "With eyes wide open--standing, speaking, moving--"
       },
       {
-        "lineNumber": 255,
+        "lineNumber": 230,
         "text": "And yet so fast asleep."
       }
     ]
@@ -5621,15 +5333,15 @@ const the_tempest_2_1: SceneData = {
     "speaker": "ANTONIO",
     "lines": [
       {
-        "lineNumber": 256,
+        "lineNumber": 231,
         "text": "Noble Sebastian,"
       },
       {
-        "lineNumber": 257,
+        "lineNumber": 232,
         "text": "Thou let'st thy fortune sleep, die rather, wink'st"
       },
       {
-        "lineNumber": 258,
+        "lineNumber": 233,
         "text": "Whiles thou art waking."
       }
     ]
@@ -5638,32 +5350,28 @@ const the_tempest_2_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 259,
+        "lineNumber": 234,
         "text": "Thou dost snore distinctly."
       },
       {
-        "lineNumber": 260,
+        "lineNumber": 235,
         "text": "There's meaning in thy snores."
       }
     ]
   },
   {
-    "speaker": "SEBASTIAN",
+    "speaker": "ANTONIO",
     "lines": [
       {
-        "lineNumber": 261,
-        "text": "ANTONIO"
-      },
-      {
-        "lineNumber": 262,
+        "lineNumber": 236,
         "text": "I am more serious than my custom. You"
       },
       {
-        "lineNumber": 263,
+        "lineNumber": 237,
         "text": "Must be so too, if heed me; which to do"
       },
       {
-        "lineNumber": 264,
+        "lineNumber": 238,
         "text": "Trebles thee o'er."
       }
     ]
@@ -5672,20 +5380,16 @@ const the_tempest_2_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 265,
+        "lineNumber": 239,
         "text": "Well, I am standing water."
       }
     ]
   },
   {
-    "speaker": "SEBASTIAN",
+    "speaker": "ANTONIO",
     "lines": [
       {
-        "lineNumber": 266,
-        "text": "ANTONIO"
-      },
-      {
-        "lineNumber": 267,
+        "lineNumber": 240,
         "text": "I'll teach you how to flow."
       }
     ]
@@ -5694,40 +5398,36 @@ const the_tempest_2_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 268,
+        "lineNumber": 241,
         "text": "Do so. To ebb"
       },
       {
-        "lineNumber": 269,
+        "lineNumber": 242,
         "text": "Hereditary sloth instructs me."
       }
     ]
   },
   {
-    "speaker": "ANTONIO",
+    "speaker": "ANTONIO  O,",
     "lines": [
       {
-        "lineNumber": 270,
-        "text": "O,"
-      },
-      {
-        "lineNumber": 271,
+        "lineNumber": 243,
         "text": "If you but knew how you the purpose cherish"
       },
       {
-        "lineNumber": 272,
+        "lineNumber": 244,
         "text": "Whiles thus you mock it, how in stripping it"
       },
       {
-        "lineNumber": 273,
+        "lineNumber": 245,
         "text": "You more invest it. Ebbing men indeed"
       },
       {
-        "lineNumber": 274,
+        "lineNumber": 246,
         "text": "Most often do so near the bottom run"
       },
       {
-        "lineNumber": 275,
+        "lineNumber": 247,
         "text": "By their own fear or sloth."
       }
     ]
@@ -5736,19 +5436,19 @@ const the_tempest_2_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 276,
+        "lineNumber": 248,
         "text": "Prithee, say on."
       },
       {
-        "lineNumber": 277,
+        "lineNumber": 249,
         "text": "The setting of thine eye and cheek proclaim"
       },
       {
-        "lineNumber": 278,
+        "lineNumber": 250,
         "text": "A matter from thee, and a birth indeed"
       },
       {
-        "lineNumber": 279,
+        "lineNumber": 251,
         "text": "Which throes thee much to yield."
       }
     ]
@@ -5757,35 +5457,35 @@ const the_tempest_2_1: SceneData = {
     "speaker": "ANTONIO",
     "lines": [
       {
-        "lineNumber": 280,
+        "lineNumber": 252,
         "text": "Thus, sir:"
       },
       {
-        "lineNumber": 281,
+        "lineNumber": 253,
         "text": "Although this lord of weak remembrance--this,"
       },
       {
-        "lineNumber": 282,
+        "lineNumber": 254,
         "text": "Who shall be of as little memory"
       },
       {
-        "lineNumber": 283,
+        "lineNumber": 255,
         "text": "When he is earthed--hath here almost persuaded--"
       },
       {
-        "lineNumber": 284,
+        "lineNumber": 256,
         "text": "For he's a spirit of persuasion, only"
       },
       {
-        "lineNumber": 285,
+        "lineNumber": 257,
         "text": "Professes to persuade--the King his son's alive,"
       },
       {
-        "lineNumber": 286,
+        "lineNumber": 258,
         "text": "'Tis as impossible that he's undrowned"
       },
       {
-        "lineNumber": 287,
+        "lineNumber": 259,
         "text": "As he that sleeps here swims."
       }
     ]
@@ -5794,11 +5494,11 @@ const the_tempest_2_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 288,
+        "lineNumber": 260,
         "text": "I have no hope"
       },
       {
-        "lineNumber": 289,
+        "lineNumber": 261,
         "text": "That he's undrowned."
       }
     ]
@@ -5807,27 +5507,27 @@ const the_tempest_2_1: SceneData = {
     "speaker": "ANTONIO",
     "lines": [
       {
-        "lineNumber": 290,
+        "lineNumber": 262,
         "text": "O, out of that no hope"
       },
       {
-        "lineNumber": 291,
+        "lineNumber": 263,
         "text": "What great hope have you! No hope that way is"
       },
       {
-        "lineNumber": 292,
+        "lineNumber": 264,
         "text": "Another way so high a hope that even"
       },
       {
-        "lineNumber": 293,
+        "lineNumber": 265,
         "text": "Ambition cannot pierce a wink beyond,"
       },
       {
-        "lineNumber": 294,
+        "lineNumber": 266,
         "text": "But doubt discovery there. Will you grant with me"
       },
       {
-        "lineNumber": 295,
+        "lineNumber": 267,
         "text": "That Ferdinand is drowned?"
       }
     ]
@@ -5836,7 +5536,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 296,
+        "lineNumber": 268,
         "text": "He's gone."
       }
     ]
@@ -5845,11 +5545,11 @@ const the_tempest_2_1: SceneData = {
     "speaker": "ANTONIO",
     "lines": [
       {
-        "lineNumber": 297,
+        "lineNumber": 269,
         "text": "Then tell me,"
       },
       {
-        "lineNumber": 298,
+        "lineNumber": 270,
         "text": "Who's the next heir of Naples?"
       }
     ]
@@ -5858,52 +5558,48 @@ const the_tempest_2_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 299,
+        "lineNumber": 271,
         "text": "Claribel."
       }
     ]
   },
   {
-    "speaker": "SEBASTIAN",
+    "speaker": "ANTONIO",
     "lines": [
       {
-        "lineNumber": 300,
-        "text": "ANTONIO"
-      },
-      {
-        "lineNumber": 301,
+        "lineNumber": 272,
         "text": "She that is Queen of Tunis; she that dwells"
       },
       {
-        "lineNumber": 302,
+        "lineNumber": 273,
         "text": "Ten leagues beyond man's life; she that from Naples"
       },
       {
-        "lineNumber": 303,
+        "lineNumber": 274,
         "text": "Can have no note, unless the sun were post--"
       },
       {
-        "lineNumber": 304,
+        "lineNumber": 275,
         "text": "The man i' th' moon's too slow--till newborn chins"
       },
       {
-        "lineNumber": 305,
+        "lineNumber": 276,
         "text": "Be rough and razorable; she that from whom"
       },
       {
-        "lineNumber": 306,
+        "lineNumber": 277,
         "text": "We all were sea-swallowed, though some cast again,"
       },
       {
-        "lineNumber": 307,
+        "lineNumber": 278,
         "text": "And by that destiny to perform an act"
       },
       {
-        "lineNumber": 308,
+        "lineNumber": 279,
         "text": "Whereof what's past is prologue, what to come"
       },
       {
-        "lineNumber": 309,
+        "lineNumber": 280,
         "text": "In yours and my discharge."
       }
     ]
@@ -5912,19 +5608,19 @@ const the_tempest_2_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 310,
+        "lineNumber": 281,
         "text": "What stuff is this? How say you?"
       },
       {
-        "lineNumber": 311,
+        "lineNumber": 282,
         "text": "'Tis true my brother's daughter's Queen of Tunis,"
       },
       {
-        "lineNumber": 312,
+        "lineNumber": 283,
         "text": "So is she heir of Naples, 'twixt which regions"
       },
       {
-        "lineNumber": 313,
+        "lineNumber": 284,
         "text": "There is some space."
       }
     ]
@@ -5933,64 +5629,60 @@ const the_tempest_2_1: SceneData = {
     "speaker": "ANTONIO",
     "lines": [
       {
-        "lineNumber": 314,
+        "lineNumber": 285,
         "text": "A space whose ev'ry cubit"
       },
       {
-        "lineNumber": 315,
+        "lineNumber": 286,
         "text": "Seems to cry out \"How shall that Claribel"
       },
       {
-        "lineNumber": 316,
+        "lineNumber": 287,
         "text": "Measure us back to Naples? Keep in Tunis"
       },
       {
-        "lineNumber": 317,
+        "lineNumber": 288,
         "text": "And let Sebastian wake.\" Say this were death"
       },
       {
-        "lineNumber": 318,
+        "lineNumber": 289,
         "text": "That now hath seized them, why, they were no worse"
       },
       {
-        "lineNumber": 319,
+        "lineNumber": 290,
         "text": "Than now they are. There be that can rule Naples"
       },
       {
-        "lineNumber": 320,
+        "lineNumber": 291,
         "text": "As well as he that sleeps, lords that can prate"
       },
       {
-        "lineNumber": 321,
+        "lineNumber": 292,
         "text": "As amply and unnecessarily"
       },
       {
-        "lineNumber": 322,
+        "lineNumber": 293,
         "text": "As this Gonzalo. I myself could make"
       },
       {
-        "lineNumber": 323,
+        "lineNumber": 294,
         "text": "A chough of as deep chat. O, that you bore"
       },
       {
-        "lineNumber": 324,
+        "lineNumber": 295,
         "text": "The mind that I do, what a sleep were this"
       },
       {
-        "lineNumber": 325,
+        "lineNumber": 296,
         "text": "For your advancement! Do you understand me?"
       }
     ]
   },
   {
-    "speaker": "ANTONIO",
+    "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 326,
-        "text": "SEBASTIAN"
-      },
-      {
-        "lineNumber": 327,
+        "lineNumber": 297,
         "text": "Methinks I do."
       }
     ]
@@ -5999,11 +5691,11 @@ const the_tempest_2_1: SceneData = {
     "speaker": "ANTONIO",
     "lines": [
       {
-        "lineNumber": 328,
+        "lineNumber": 298,
         "text": "And how does your content"
       },
       {
-        "lineNumber": 329,
+        "lineNumber": 299,
         "text": "Tender your own good fortune?"
       }
     ]
@@ -6012,11 +5704,11 @@ const the_tempest_2_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 330,
+        "lineNumber": 300,
         "text": "I remember"
       },
       {
-        "lineNumber": 331,
+        "lineNumber": 301,
         "text": "You did supplant your brother Prospero."
       }
     ]
@@ -6025,19 +5717,19 @@ const the_tempest_2_1: SceneData = {
     "speaker": "ANTONIO",
     "lines": [
       {
-        "lineNumber": 332,
+        "lineNumber": 302,
         "text": "True,"
       },
       {
-        "lineNumber": 333,
+        "lineNumber": 303,
         "text": "And look how well my garments sit upon me,"
       },
       {
-        "lineNumber": 334,
+        "lineNumber": 304,
         "text": "Much feater than before. My brother's servants"
       },
       {
-        "lineNumber": 335,
+        "lineNumber": 305,
         "text": "Were then my fellows; now they are my men."
       }
     ]
@@ -6046,76 +5738,72 @@ const the_tempest_2_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 336,
+        "lineNumber": 306,
         "text": "But, for your conscience?"
       }
     ]
   },
   {
-    "speaker": "SEBASTIAN",
+    "speaker": "ANTONIO",
     "lines": [
       {
-        "lineNumber": 337,
-        "text": "ANTONIO"
-      },
-      {
-        "lineNumber": 338,
+        "lineNumber": 307,
         "text": "Ay, sir, where lies that? If 'twere a kibe,"
       },
       {
-        "lineNumber": 339,
+        "lineNumber": 308,
         "text": "'Twould put me to my slipper, but I feel not"
       },
       {
-        "lineNumber": 340,
+        "lineNumber": 309,
         "text": "This deity in my bosom. Twenty consciences"
       },
       {
-        "lineNumber": 341,
+        "lineNumber": 310,
         "text": "That stand 'twixt me and Milan, candied be they"
       },
       {
-        "lineNumber": 342,
+        "lineNumber": 311,
         "text": "And melt ere they molest! Here lies your brother,"
       },
       {
-        "lineNumber": 343,
+        "lineNumber": 312,
         "text": "No better than the earth he lies upon."
       },
       {
-        "lineNumber": 344,
+        "lineNumber": 313,
         "text": "If he were that which now he's like--that's dead--"
       },
       {
-        "lineNumber": 345,
+        "lineNumber": 314,
         "text": "Whom I with this obedient steel, three inches of it,"
       },
       {
-        "lineNumber": 346,
+        "lineNumber": 315,
         "text": "Can lay to bed forever; whiles you, doing thus,"
       },
       {
-        "lineNumber": 347,
+        "lineNumber": 316,
         "text": "To the perpetual wink for aye might put"
       },
       {
-        "lineNumber": 348,
+        "lineNumber": 317,
         "text": "This ancient morsel, this Sir Prudence, who"
       },
       {
-        "lineNumber": 349,
+        "lineNumber": 318,
         "text": "Should not upbraid our course. For all the rest,"
       },
       {
-        "lineNumber": 350,
+        "lineNumber": 319,
         "text": "They'll take suggestion as a cat laps milk."
       },
       {
-        "lineNumber": 351,
+        "lineNumber": 320,
         "text": "They'll tell the clock to any business that"
       },
       {
-        "lineNumber": 352,
+        "lineNumber": 321,
         "text": "We say befits the hour."
       }
     ]
@@ -6124,23 +5812,23 @@ const the_tempest_2_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 353,
+        "lineNumber": 322,
         "text": "Thy case, dear friend,"
       },
       {
-        "lineNumber": 354,
+        "lineNumber": 323,
         "text": "Shall be my precedent: as thou got'st Milan,"
       },
       {
-        "lineNumber": 355,
+        "lineNumber": 324,
         "text": "I'll come by Naples. Draw thy sword. One stroke"
       },
       {
-        "lineNumber": 356,
+        "lineNumber": 325,
         "text": "Shall free thee from the tribute which thou payest,"
       },
       {
-        "lineNumber": 357,
+        "lineNumber": 326,
         "text": "And I the King shall love thee."
       }
     ]
@@ -6149,11 +5837,11 @@ const the_tempest_2_1: SceneData = {
     "speaker": "ANTONIO",
     "lines": [
       {
-        "lineNumber": 358,
+        "lineNumber": 327,
         "text": "Draw together,"
       },
       {
-        "lineNumber": 359,
+        "lineNumber": 328,
         "text": "And when I rear my hand, do you the like"
       }
     ]
@@ -6162,7 +5850,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 360,
+        "lineNumber": 329,
         "text": "O, but one word."
       }
     ]
@@ -6171,15 +5859,15 @@ const the_tempest_2_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 361,
+        "lineNumber": 330,
         "text": "My master through his art foresees the danger"
       },
       {
-        "lineNumber": 362,
+        "lineNumber": 331,
         "text": "That you, his friend, are in, and sends me forth--"
       },
       {
-        "lineNumber": 363,
+        "lineNumber": 332,
         "text": "For else his project dies--to keep them living."
       }
     ]
@@ -6188,27 +5876,27 @@ const the_tempest_2_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 364,
+        "lineNumber": 333,
         "text": "While you here do snoring lie,"
       },
       {
-        "lineNumber": 365,
+        "lineNumber": 334,
         "text": "Open-eyed conspiracy"
       },
       {
-        "lineNumber": 366,
+        "lineNumber": 335,
         "text": "His time doth take."
       },
       {
-        "lineNumber": 367,
+        "lineNumber": 336,
         "text": "If of life you keep a care,"
       },
       {
-        "lineNumber": 368,
+        "lineNumber": 337,
         "text": "Shake off slumber and beware."
       },
       {
-        "lineNumber": 369,
+        "lineNumber": 338,
         "text": "Awake, awake!"
       }
     ]
@@ -6217,7 +5905,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 370,
+        "lineNumber": 339,
         "text": "ANTONIO, [to Sebastian]  Then let us both be sudden."
       }
     ]
@@ -6226,7 +5914,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 371,
+        "lineNumber": 340,
         "text": "GONZALO, [waking]  Now, good angels preserve the"
       }
     ]
@@ -6235,11 +5923,11 @@ const the_tempest_2_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 372,
+        "lineNumber": 341,
         "text": "Why, how now, ho! Awake? Why are you drawn?"
       },
       {
-        "lineNumber": 373,
+        "lineNumber": 342,
         "text": "Wherefore this ghastly looking?"
       }
     ]
@@ -6248,7 +5936,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 374,
+        "lineNumber": 343,
         "text": "GONZALO, [to Sebastian]  What's the matter?"
       }
     ]
@@ -6257,23 +5945,19 @@ const the_tempest_2_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 375,
-        "text": "SEBASTIAN"
-      },
-      {
-        "lineNumber": 376,
+        "lineNumber": 344,
         "text": "Whiles we stood here securing your repose,"
       },
       {
-        "lineNumber": 377,
+        "lineNumber": 345,
         "text": "Even now, we heard a hollow burst of bellowing"
       },
       {
-        "lineNumber": 378,
+        "lineNumber": 346,
         "text": "Like bulls, or rather lions. Did 't not wake you?"
       },
       {
-        "lineNumber": 379,
+        "lineNumber": 347,
         "text": "It struck mine ear most terribly."
       }
     ]
@@ -6282,28 +5966,24 @@ const the_tempest_2_1: SceneData = {
     "speaker": "ALONSO",
     "lines": [
       {
-        "lineNumber": 380,
+        "lineNumber": 348,
         "text": "I heard nothing."
       }
     ]
   },
   {
-    "speaker": "ALONSO",
+    "speaker": "ANTONIO",
     "lines": [
       {
-        "lineNumber": 381,
-        "text": "ANTONIO"
-      },
-      {
-        "lineNumber": 382,
+        "lineNumber": 349,
         "text": "O, 'twas a din to fright a monster's ear,"
       },
       {
-        "lineNumber": 383,
+        "lineNumber": 350,
         "text": "To make an earthquake. Sure, it was the roar"
       },
       {
-        "lineNumber": 384,
+        "lineNumber": 351,
         "text": "Of a whole herd of lions."
       }
     ]
@@ -6312,40 +5992,36 @@ const the_tempest_2_1: SceneData = {
     "speaker": "ALONSO",
     "lines": [
       {
-        "lineNumber": 385,
+        "lineNumber": 352,
         "text": "Heard you this, Gonzalo?"
       }
     ]
   },
   {
-    "speaker": "ALONSO",
+    "speaker": "GONZALO",
     "lines": [
       {
-        "lineNumber": 386,
-        "text": "GONZALO"
-      },
-      {
-        "lineNumber": 387,
+        "lineNumber": 353,
         "text": "Upon mine honor, sir, I heard a humming,"
       },
       {
-        "lineNumber": 388,
+        "lineNumber": 354,
         "text": "And that a strange one too, which did awake me."
       },
       {
-        "lineNumber": 389,
+        "lineNumber": 355,
         "text": "I shaked you, sir, and cried. As mine eyes opened,"
       },
       {
-        "lineNumber": 390,
+        "lineNumber": 356,
         "text": "I saw their weapons drawn. There was a noise,"
       },
       {
-        "lineNumber": 391,
+        "lineNumber": 357,
         "text": "That's verily. 'Tis best we stand upon our guard,"
       },
       {
-        "lineNumber": 392,
+        "lineNumber": 358,
         "text": "Or that we quit this place. Let's draw our weapons."
       }
     ]
@@ -6354,15 +6030,11 @@ const the_tempest_2_1: SceneData = {
     "speaker": "ALONSO",
     "lines": [
       {
-        "lineNumber": 393,
-        "text": "ALONSO"
-      },
-      {
-        "lineNumber": 394,
+        "lineNumber": 359,
         "text": "Lead off this ground, and let's make further search"
       },
       {
-        "lineNumber": 395,
+        "lineNumber": 360,
         "text": "For my poor son."
       }
     ]
@@ -6371,11 +6043,11 @@ const the_tempest_2_1: SceneData = {
     "speaker": "GONZALO",
     "lines": [
       {
-        "lineNumber": 396,
+        "lineNumber": 361,
         "text": "Heavens keep him from these beasts,"
       },
       {
-        "lineNumber": 397,
+        "lineNumber": 362,
         "text": "For he is, sure, i' th' island."
       }
     ]
@@ -6384,7 +6056,7 @@ const the_tempest_2_1: SceneData = {
     "speaker": "ALONSO",
     "lines": [
       {
-        "lineNumber": 398,
+        "lineNumber": 363,
         "text": "Lead away."
       }
     ]
@@ -6393,11 +6065,11 @@ const the_tempest_2_1: SceneData = {
     "speaker": "ALONSO",
     "lines": [
       {
-        "lineNumber": 399,
+        "lineNumber": 364,
         "text": "Prospero my lord shall know what I have done."
       },
       {
-        "lineNumber": 400,
+        "lineNumber": 365,
         "text": "So, king, go safely on to seek thy son."
       }
     ]
@@ -6405,71 +6077,71 @@ const the_tempest_2_1: SceneData = {
 ],
   stageDirections: [
   {
-    "position": 1,
+    "position": 0,
     "text": "Enter Alonso, Sebastian, Antonio, Gonzalo, Adrian"
   },
   {
-    "position": 1,
+    "position": 0,
     "text": "rancisco, and others."
   },
   {
-    "position": 1,
+    "position": 0,
     "text": "ONZALO, [to Alonso"
   },
   {
-    "position": 83,
+    "position": 81,
     "text": "ONZALO, [to Alonso"
   },
   {
-    "position": 108,
+    "position": 106,
     "text": "Enter Ariel invisible, playing solemn music."
   },
   {
-    "position": 112,
+    "position": 110,
     "text": "All sink down asleep except Alonso"
   },
   {
-    "position": 112,
+    "position": 110,
     "text": "ntonio, and Sebastian."
   },
   {
-    "position": 116,
+    "position": 114,
     "text": "Alonso sleeps. Ariel exits."
   },
   {
-    "position": 148,
+    "position": 146,
     "text": "o fall it on Gonzalo.\t[They draw their swords."
   },
   {
-    "position": 149,
+    "position": 147,
     "text": "They talk apart."
   },
   {
-    "position": 149,
+    "position": 147,
     "text": "Enter Ariel, invisible, with music and song."
   },
   {
-    "position": 149,
+    "position": 147,
     "text": "RIEL, [to the sleeping Gonzalo"
   },
   {
-    "position": 150,
+    "position": 148,
     "text": "Sings in Gonzalo's ear:"
   },
   {
-    "position": 153,
+    "position": 151,
     "text": "ing!\t[He wakes Alonso."
   },
   {
-    "position": 153,
+    "position": 151,
     "text": "LONSO, [to Sebastian"
   },
   {
-    "position": 163,
+    "position": 161,
     "text": "RIEL, [aside"
   },
   {
-    "position": 164,
+    "position": 162,
     "text": "They exit."
   }
 ],
@@ -6482,87 +6154,74 @@ const the_tempest_2_2: SceneData = {
   scene: 2,
   speeches: [
   {
-    "speaker": "ALONSO",
+    "speaker": "CALIBAN",
     "lines": [
       {
         "lineNumber": 1,
-        "text": "======="
-      }
-    ]
-  },
-  {
-    "speaker": "ALONSO",
-    "lines": [
-      {
-        "lineNumber": 2,
-        "text": "CALIBAN"
-      },
-      {
-        "lineNumber": 3,
         "text": "All the infections that the sun sucks up"
       },
       {
-        "lineNumber": 4,
+        "lineNumber": 2,
         "text": "From bogs, fens, flats, on Prosper fall and make him"
       },
       {
-        "lineNumber": 5,
+        "lineNumber": 3,
         "text": "By inchmeal a disease! His spirits hear me,"
       },
       {
-        "lineNumber": 6,
+        "lineNumber": 4,
         "text": "And yet I needs must curse. But they'll nor pinch,"
       },
       {
-        "lineNumber": 7,
+        "lineNumber": 5,
         "text": "Fright me with urchin-shows, pitch me i' th' mire,"
       },
       {
-        "lineNumber": 8,
+        "lineNumber": 6,
         "text": "Nor lead me like a firebrand in the dark"
       },
       {
-        "lineNumber": 9,
+        "lineNumber": 7,
         "text": "Out of my way, unless he bid 'em. But"
       },
       {
-        "lineNumber": 10,
+        "lineNumber": 8,
         "text": "For every trifle are they set upon me,"
       },
       {
-        "lineNumber": 11,
+        "lineNumber": 9,
         "text": "Sometimes like apes, that mow and chatter at me"
       },
       {
-        "lineNumber": 12,
+        "lineNumber": 10,
         "text": "And after bite me; then like hedgehogs, which"
       },
       {
-        "lineNumber": 13,
+        "lineNumber": 11,
         "text": "Lie tumbling in my barefoot way and mount"
       },
       {
-        "lineNumber": 14,
+        "lineNumber": 12,
         "text": "Their pricks at my footfall. Sometime am I"
       },
       {
-        "lineNumber": 15,
+        "lineNumber": 13,
         "text": "All wound with adders, who with cloven tongues"
       },
       {
-        "lineNumber": 16,
+        "lineNumber": 14,
         "text": "Do hiss me into madness. Lo, now, lo!"
       },
       {
-        "lineNumber": 17,
+        "lineNumber": 15,
         "text": "Here comes a spirit of his, and to torment me"
       },
       {
-        "lineNumber": 18,
+        "lineNumber": 16,
         "text": "For bringing wood in slowly. I'll fall flat."
       },
       {
-        "lineNumber": 19,
+        "lineNumber": 17,
         "text": "Perchance he will not mind me."
       }
     ]
@@ -6571,27 +6230,27 @@ const the_tempest_2_2: SceneData = {
     "speaker": "TRINCULO",
     "lines": [
       {
-        "lineNumber": 20,
+        "lineNumber": 18,
         "text": "Here's neither bush nor shrub to bear off"
       },
       {
-        "lineNumber": 21,
+        "lineNumber": 19,
         "text": "any weather at all. And another storm brewing; I"
       },
       {
-        "lineNumber": 22,
+        "lineNumber": 20,
         "text": "hear it sing i' th' wind. Yond same black cloud, yond"
       },
       {
-        "lineNumber": 23,
+        "lineNumber": 21,
         "text": "huge one, looks like a foul bombard that would shed"
       },
       {
-        "lineNumber": 24,
+        "lineNumber": 22,
         "text": "his liquor. If it should thunder as it did before, I"
       },
       {
-        "lineNumber": 25,
+        "lineNumber": 23,
         "text": "know not where to hide my head. Yond same cloud"
       }
     ]
@@ -6600,55 +6259,55 @@ const the_tempest_2_2: SceneData = {
     "speaker": "TRINCULO",
     "lines": [
       {
-        "lineNumber": 26,
+        "lineNumber": 24,
         "text": "What have we here, a man or a fish? Dead or"
       },
       {
-        "lineNumber": 27,
+        "lineNumber": 25,
         "text": "alive? A fish, he smells like a fish--a very ancient"
       },
       {
-        "lineNumber": 28,
+        "lineNumber": 26,
         "text": "and fishlike smell, a kind of not-of-the-newest poor-John."
       },
       {
-        "lineNumber": 29,
+        "lineNumber": 27,
         "text": "A strange fish. Were I in England now, as once"
       },
       {
-        "lineNumber": 30,
+        "lineNumber": 28,
         "text": "I was, and had but this fish painted, not a holiday"
       },
       {
-        "lineNumber": 31,
+        "lineNumber": 29,
         "text": "fool there but would give a piece of silver. There"
       },
       {
-        "lineNumber": 32,
+        "lineNumber": 30,
         "text": "would this monster make a man. Any strange beast"
       },
       {
-        "lineNumber": 33,
+        "lineNumber": 31,
         "text": "there makes a man. When they will not give a doit to"
       },
       {
-        "lineNumber": 34,
+        "lineNumber": 32,
         "text": "relieve a lame beggar, they will lay out ten to see a"
       },
       {
-        "lineNumber": 35,
+        "lineNumber": 33,
         "text": "dead Indian. Legged like a man, and his fins like"
       },
       {
-        "lineNumber": 36,
+        "lineNumber": 34,
         "text": "arms! Warm, o' my troth! I do now let loose my"
       },
       {
-        "lineNumber": 37,
+        "lineNumber": 35,
         "text": "opinion, hold it no longer: this is no fish, but an"
       },
       {
-        "lineNumber": 38,
+        "lineNumber": 36,
         "text": "islander that hath lately suffered by a thunderbolt."
       }
     ]
@@ -6657,85 +6316,81 @@ const the_tempest_2_2: SceneData = {
     "speaker": "TRINCULO",
     "lines": [
       {
-        "lineNumber": 39,
+        "lineNumber": 37,
         "text": "way is to creep under his gaberdine. There is no"
       },
       {
-        "lineNumber": 40,
+        "lineNumber": 38,
         "text": "other shelter hereabout. Misery acquaints a man"
       },
       {
-        "lineNumber": 41,
+        "lineNumber": 39,
         "text": "with strange bedfellows. I will here shroud till the"
       },
       {
-        "lineNumber": 42,
+        "lineNumber": 40,
         "text": "dregs of the storm be past."
       }
     ]
   },
   {
-    "speaker": "TRINCULO",
+    "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 43,
-        "text": "STEPHANO"
-      },
-      {
-        "lineNumber": 44,
+        "lineNumber": 41,
         "text": "I shall no more to sea, to sea."
       },
       {
-        "lineNumber": 45,
+        "lineNumber": 42,
         "text": "Here shall I die ashore--"
       },
       {
-        "lineNumber": 46,
+        "lineNumber": 43,
         "text": "This is a very scurvy tune to sing at a man's funeral."
       }
     ]
   },
   {
-    "speaker": "TRINCULO",
+    "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 47,
+        "lineNumber": 44,
         "text": "The master, the swabber, the boatswain, and I,"
       },
       {
-        "lineNumber": 48,
+        "lineNumber": 45,
         "text": "The gunner and his mate,"
       },
       {
-        "lineNumber": 49,
+        "lineNumber": 46,
         "text": "Loved Mall, Meg, and Marian, and Margery,"
       },
       {
-        "lineNumber": 50,
+        "lineNumber": 47,
         "text": "But none of us cared for Kate."
       },
       {
-        "lineNumber": 51,
+        "lineNumber": 48,
         "text": "For she had a tongue with a tang,"
       },
       {
-        "lineNumber": 52,
+        "lineNumber": 49,
         "text": "Would cry to a sailor \"Go hang!\""
       },
       {
-        "lineNumber": 53,
+        "lineNumber": 50,
         "text": "She loved not the savor of tar nor of pitch,"
       },
       {
-        "lineNumber": 54,
+        "lineNumber": 51,
         "text": "Yet a tailor might scratch her where'er she did itch."
       },
       {
-        "lineNumber": 55,
+        "lineNumber": 52,
         "text": "Then to sea, boys, and let her go hang!"
       },
       {
-        "lineNumber": 56,
+        "lineNumber": 53,
         "text": "This is a scurvy tune too. But here's my comfort."
       }
     ]
@@ -6744,7 +6399,7 @@ const the_tempest_2_2: SceneData = {
     "speaker": "CALIBAN",
     "lines": [
       {
-        "lineNumber": 57,
+        "lineNumber": 54,
         "text": "Do not torment me! O!"
       }
     ]
@@ -6753,31 +6408,31 @@ const the_tempest_2_2: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 58,
+        "lineNumber": 55,
         "text": "What's the matter? Have we devils here? Do"
       },
       {
-        "lineNumber": 59,
+        "lineNumber": 56,
         "text": "you put tricks upon 's with savages and men of Ind?"
       },
       {
-        "lineNumber": 60,
+        "lineNumber": 57,
         "text": "Ha? I have not scaped drowning to be afeard now"
       },
       {
-        "lineNumber": 61,
+        "lineNumber": 58,
         "text": "of your four legs, for it hath been said \"As proper a"
       },
       {
-        "lineNumber": 62,
+        "lineNumber": 59,
         "text": "man as ever went on four legs cannot make him"
       },
       {
-        "lineNumber": 63,
+        "lineNumber": 60,
         "text": "give ground,\" and it shall be said so again while"
       },
       {
-        "lineNumber": 64,
+        "lineNumber": 61,
         "text": "Stephano breathes at' nostrils."
       }
     ]
@@ -6786,7 +6441,7 @@ const the_tempest_2_2: SceneData = {
     "speaker": "CALIBAN",
     "lines": [
       {
-        "lineNumber": 65,
+        "lineNumber": 62,
         "text": "The spirit torments me. O!"
       }
     ]
@@ -6795,31 +6450,31 @@ const the_tempest_2_2: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 66,
+        "lineNumber": 63,
         "text": "This is some monster of the isle with four"
       },
       {
-        "lineNumber": 67,
+        "lineNumber": 64,
         "text": "legs, who hath got, as I take it, an ague. Where the"
       },
       {
-        "lineNumber": 68,
+        "lineNumber": 65,
         "text": "devil should he learn our language? I will give him"
       },
       {
-        "lineNumber": 69,
+        "lineNumber": 66,
         "text": "some relief, if it be but for that. If I can recover him"
       },
       {
-        "lineNumber": 70,
+        "lineNumber": 67,
         "text": "and keep him tame and get to Naples with him,"
       },
       {
-        "lineNumber": 71,
+        "lineNumber": 68,
         "text": "he's a present for any emperor that ever trod on"
       },
       {
-        "lineNumber": 72,
+        "lineNumber": 69,
         "text": "neat's leather."
       }
     ]
@@ -6828,11 +6483,11 @@ const the_tempest_2_2: SceneData = {
     "speaker": "CALIBAN",
     "lines": [
       {
-        "lineNumber": 73,
+        "lineNumber": 70,
         "text": "Do not torment me, prithee. I'll bring my"
       },
       {
-        "lineNumber": 74,
+        "lineNumber": 71,
         "text": "wood home faster."
       }
     ]
@@ -6841,27 +6496,27 @@ const the_tempest_2_2: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 75,
+        "lineNumber": 72,
         "text": "He's in his fit now, and does not talk after"
       },
       {
-        "lineNumber": 76,
+        "lineNumber": 73,
         "text": "the wisest. He shall taste of my bottle. If he have"
       },
       {
-        "lineNumber": 77,
+        "lineNumber": 74,
         "text": "never drunk wine afore, it will go near to remove"
       },
       {
-        "lineNumber": 78,
+        "lineNumber": 75,
         "text": "his fit. If I can recover him and keep him tame, I will"
       },
       {
-        "lineNumber": 79,
+        "lineNumber": 76,
         "text": "not take too much for him. He shall pay for him that"
       },
       {
-        "lineNumber": 80,
+        "lineNumber": 77,
         "text": "hath him, and that soundly."
       }
     ]
@@ -6870,15 +6525,15 @@ const the_tempest_2_2: SceneData = {
     "speaker": "CALIBAN",
     "lines": [
       {
-        "lineNumber": 81,
+        "lineNumber": 78,
         "text": "Thou dost me yet but little hurt. Thou wilt"
       },
       {
-        "lineNumber": 82,
+        "lineNumber": 79,
         "text": "anon; I know it by thy trembling. Now Prosper"
       },
       {
-        "lineNumber": 83,
+        "lineNumber": 80,
         "text": "works upon thee."
       }
     ]
@@ -6887,27 +6542,27 @@ const the_tempest_2_2: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 84,
+        "lineNumber": 81,
         "text": "Come on your ways. Open your mouth."
       },
       {
-        "lineNumber": 85,
+        "lineNumber": 82,
         "text": "Here is that which will give language to you, cat."
       },
       {
-        "lineNumber": 86,
+        "lineNumber": 83,
         "text": "Open your mouth. This will shake your shaking, I"
       },
       {
-        "lineNumber": 87,
+        "lineNumber": 84,
         "text": "can tell you, and that soundly. [Caliban drinks.] You"
       },
       {
-        "lineNumber": 88,
+        "lineNumber": 85,
         "text": "cannot tell who's your friend. Open your chaps"
       },
       {
-        "lineNumber": 89,
+        "lineNumber": 86,
         "text": "again."
       }
     ]
@@ -6916,11 +6571,11 @@ const the_tempest_2_2: SceneData = {
     "speaker": "TRINCULO",
     "lines": [
       {
-        "lineNumber": 90,
+        "lineNumber": 87,
         "text": "I should know that voice. It should be--but"
       },
       {
-        "lineNumber": 91,
+        "lineNumber": 88,
         "text": "he is drowned, and these are devils. O, defend me!"
       }
     ]
@@ -6929,23 +6584,23 @@ const the_tempest_2_2: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 92,
+        "lineNumber": 89,
         "text": "Four legs and two voices--a most delicate"
       },
       {
-        "lineNumber": 93,
+        "lineNumber": 90,
         "text": "monster! His forward voice now is to speak well of"
       },
       {
-        "lineNumber": 94,
+        "lineNumber": 91,
         "text": "his friend. His backward voice is to utter foul"
       },
       {
-        "lineNumber": 95,
+        "lineNumber": 92,
         "text": "speeches and to detract. If all the wine in my bottle"
       },
       {
-        "lineNumber": 96,
+        "lineNumber": 93,
         "text": "will recover him, I will help his ague. Come."
       }
     ]
@@ -6954,7 +6609,7 @@ const the_tempest_2_2: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 97,
+        "lineNumber": 94,
         "text": "other mouth."
       }
     ]
@@ -6963,7 +6618,7 @@ const the_tempest_2_2: SceneData = {
     "speaker": "TRINCULO",
     "lines": [
       {
-        "lineNumber": 98,
+        "lineNumber": 95,
         "text": "Stephano!"
       }
     ]
@@ -6972,15 +6627,15 @@ const the_tempest_2_2: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 99,
+        "lineNumber": 96,
         "text": "Doth thy other mouth call me? Mercy, mercy,"
       },
       {
-        "lineNumber": 100,
+        "lineNumber": 97,
         "text": "this is a devil, and no monster! I will leave him; I"
       },
       {
-        "lineNumber": 101,
+        "lineNumber": 98,
         "text": "have no long spoon."
       }
     ]
@@ -6989,15 +6644,15 @@ const the_tempest_2_2: SceneData = {
     "speaker": "TRINCULO",
     "lines": [
       {
-        "lineNumber": 102,
+        "lineNumber": 99,
         "text": "Stephano! If thou be'st Stephano, touch me"
       },
       {
-        "lineNumber": 103,
+        "lineNumber": 100,
         "text": "and speak to me, for I am Trinculo--be not"
       },
       {
-        "lineNumber": 104,
+        "lineNumber": 101,
         "text": "afeard--thy good friend Trinculo."
       }
     ]
@@ -7006,27 +6661,27 @@ const the_tempest_2_2: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 105,
+        "lineNumber": 102,
         "text": "If thou be'st Trinculo, come forth. I'll pull"
       },
       {
-        "lineNumber": 106,
+        "lineNumber": 103,
         "text": "thee by the lesser legs. If any be Trinculo's legs,"
       },
       {
-        "lineNumber": 107,
+        "lineNumber": 104,
         "text": "these are they. [He pulls him out from under Caliban's"
       },
       {
-        "lineNumber": 108,
+        "lineNumber": 105,
         "text": "cloak.] Thou art very Trinculo indeed. How"
       },
       {
-        "lineNumber": 109,
+        "lineNumber": 106,
         "text": "cam'st thou to be the siege of this mooncalf? Can"
       },
       {
-        "lineNumber": 110,
+        "lineNumber": 107,
         "text": "he vent Trinculos?"
       }
     ]
@@ -7035,27 +6690,27 @@ const the_tempest_2_2: SceneData = {
     "speaker": "TRINCULO",
     "lines": [
       {
-        "lineNumber": 111,
+        "lineNumber": 108,
         "text": "I took him to be killed with a thunderstroke."
       },
       {
-        "lineNumber": 112,
+        "lineNumber": 109,
         "text": "But art thou not drowned, Stephano? I"
       },
       {
-        "lineNumber": 113,
+        "lineNumber": 110,
         "text": "hope now thou art not drowned. Is the storm"
       },
       {
-        "lineNumber": 114,
+        "lineNumber": 111,
         "text": "overblown? I hid me under the dead mooncalf's"
       },
       {
-        "lineNumber": 115,
+        "lineNumber": 112,
         "text": "gaberdine for fear of the storm. And art thou living,"
       },
       {
-        "lineNumber": 116,
+        "lineNumber": 113,
         "text": "Stephano? O Stephano, two Neapolitans scaped!"
       }
     ]
@@ -7064,11 +6719,11 @@ const the_tempest_2_2: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 117,
+        "lineNumber": 114,
         "text": "Prithee, do not turn me about. My stomach"
       },
       {
-        "lineNumber": 118,
+        "lineNumber": 115,
         "text": "is not constant."
       }
     ]
@@ -7077,15 +6732,15 @@ const the_tempest_2_2: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 119,
+        "lineNumber": 116,
         "text": "CALIBAN, [aside]  These be fine things, an if they be not"
       },
       {
-        "lineNumber": 120,
+        "lineNumber": 117,
         "text": "sprites. That's a brave god and bears celestial liquor."
       },
       {
-        "lineNumber": 121,
+        "lineNumber": 118,
         "text": "I will kneel to him."
       }
     ]
@@ -7094,27 +6749,27 @@ const the_tempest_2_2: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 122,
+        "lineNumber": 119,
         "text": "STEPHANO, [to Trinculo]  How didst thou scape? How"
       },
       {
-        "lineNumber": 123,
+        "lineNumber": 120,
         "text": "cam'st thou hither? Swear by this bottle how thou"
       },
       {
-        "lineNumber": 124,
+        "lineNumber": 121,
         "text": "cam'st hither--I escaped upon a butt of sack, which"
       },
       {
-        "lineNumber": 125,
+        "lineNumber": 122,
         "text": "the sailors heaved o'erboard--by this bottle, which"
       },
       {
-        "lineNumber": 126,
+        "lineNumber": 123,
         "text": "I made of the bark of a tree with mine own hands,"
       },
       {
-        "lineNumber": 127,
+        "lineNumber": 124,
         "text": "since I was cast ashore."
       }
     ]
@@ -7123,11 +6778,11 @@ const the_tempest_2_2: SceneData = {
     "speaker": "CALIBAN",
     "lines": [
       {
-        "lineNumber": 128,
+        "lineNumber": 125,
         "text": "I'll swear upon that bottle to be thy true"
       },
       {
-        "lineNumber": 129,
+        "lineNumber": 126,
         "text": "subject, for the liquor is not earthly."
       }
     ]
@@ -7136,11 +6791,11 @@ const the_tempest_2_2: SceneData = {
     "speaker": "CALIBAN",
     "lines": [
       {
-        "lineNumber": 130,
+        "lineNumber": 127,
         "text": "STEPHANO, [to Trinculo]  Here. Swear then how thou"
       },
       {
-        "lineNumber": 131,
+        "lineNumber": 128,
         "text": "escapedst."
       }
     ]
@@ -7149,11 +6804,11 @@ const the_tempest_2_2: SceneData = {
     "speaker": "TRINCULO",
     "lines": [
       {
-        "lineNumber": 132,
+        "lineNumber": 129,
         "text": "Swum ashore, man, like a duck. I can swim"
       },
       {
-        "lineNumber": 133,
+        "lineNumber": 130,
         "text": "like a duck, I'll be sworn."
       }
     ]
@@ -7162,11 +6817,11 @@ const the_tempest_2_2: SceneData = {
     "speaker": "TRINCULO",
     "lines": [
       {
-        "lineNumber": 134,
+        "lineNumber": 131,
         "text": "Though thou canst swim like a duck, thou art made"
       },
       {
-        "lineNumber": 135,
+        "lineNumber": 132,
         "text": "like a goose."
       }
     ]
@@ -7175,7 +6830,7 @@ const the_tempest_2_2: SceneData = {
     "speaker": "TRINCULO",
     "lines": [
       {
-        "lineNumber": 136,
+        "lineNumber": 133,
         "text": "O Stephano, hast any more of this?"
       }
     ]
@@ -7184,15 +6839,15 @@ const the_tempest_2_2: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 137,
+        "lineNumber": 134,
         "text": "The whole butt, man. My cellar is in a rock"
       },
       {
-        "lineNumber": 138,
+        "lineNumber": 135,
         "text": "by th' seaside, where my wine is hid.--How now,"
       },
       {
-        "lineNumber": 139,
+        "lineNumber": 136,
         "text": "mooncalf, how does thine ague?"
       }
     ]
@@ -7201,7 +6856,7 @@ const the_tempest_2_2: SceneData = {
     "speaker": "CALIBAN",
     "lines": [
       {
-        "lineNumber": 140,
+        "lineNumber": 137,
         "text": "Hast thou not dropped from heaven?"
       }
     ]
@@ -7210,11 +6865,11 @@ const the_tempest_2_2: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 141,
+        "lineNumber": 138,
         "text": "Out o' th' moon, I do assure thee. I was the"
       },
       {
-        "lineNumber": 142,
+        "lineNumber": 139,
         "text": "man i' th' moon when time was."
       }
     ]
@@ -7223,15 +6878,15 @@ const the_tempest_2_2: SceneData = {
     "speaker": "CALIBAN",
     "lines": [
       {
-        "lineNumber": 143,
+        "lineNumber": 140,
         "text": "I have seen thee in her, and I do adore thee."
       },
       {
-        "lineNumber": 144,
+        "lineNumber": 141,
         "text": "My mistress showed me thee, and thy dog, and thy"
       },
       {
-        "lineNumber": 145,
+        "lineNumber": 142,
         "text": "bush."
       }
     ]
@@ -7240,11 +6895,11 @@ const the_tempest_2_2: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 146,
+        "lineNumber": 143,
         "text": "Come, swear to that. Kiss the book. I will"
       },
       {
-        "lineNumber": 147,
+        "lineNumber": 144,
         "text": "furnish it anon with new contents. Swear."
       }
     ]
@@ -7253,19 +6908,19 @@ const the_tempest_2_2: SceneData = {
     "speaker": "TRINCULO",
     "lines": [
       {
-        "lineNumber": 148,
+        "lineNumber": 145,
         "text": "By this good light, this is a very shallow"
       },
       {
-        "lineNumber": 149,
+        "lineNumber": 146,
         "text": "monster. I afeard of him? A very weak monster. The"
       },
       {
-        "lineNumber": 150,
+        "lineNumber": 147,
         "text": "man i' th' moon? A most poor, credulous monster!"
       },
       {
-        "lineNumber": 151,
+        "lineNumber": 148,
         "text": "--Well drawn, monster, in good sooth!"
       }
     ]
@@ -7274,11 +6929,11 @@ const the_tempest_2_2: SceneData = {
     "speaker": "CALIBAN",
     "lines": [
       {
-        "lineNumber": 152,
+        "lineNumber": 149,
         "text": "I'll show thee every fertile inch o' th' island,"
       },
       {
-        "lineNumber": 153,
+        "lineNumber": 150,
         "text": "and I will kiss thy foot. I prithee, be my god."
       }
     ]
@@ -7287,11 +6942,11 @@ const the_tempest_2_2: SceneData = {
     "speaker": "TRINCULO",
     "lines": [
       {
-        "lineNumber": 154,
+        "lineNumber": 151,
         "text": "By this light, a most perfidious and drunken"
       },
       {
-        "lineNumber": 155,
+        "lineNumber": 152,
         "text": "monster. When 's god's asleep, he'll rob his bottle."
       }
     ]
@@ -7300,7 +6955,7 @@ const the_tempest_2_2: SceneData = {
     "speaker": "CALIBAN",
     "lines": [
       {
-        "lineNumber": 156,
+        "lineNumber": 153,
         "text": "I'll kiss thy foot. I'll swear myself thy subject."
       }
     ]
@@ -7309,7 +6964,7 @@ const the_tempest_2_2: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 157,
+        "lineNumber": 154,
         "text": "Come on, then. Down, and swear."
       }
     ]
@@ -7318,15 +6973,15 @@ const the_tempest_2_2: SceneData = {
     "speaker": "TRINCULO",
     "lines": [
       {
-        "lineNumber": 158,
+        "lineNumber": 155,
         "text": "I shall laugh myself to death at this puppy-headed"
       },
       {
-        "lineNumber": 159,
+        "lineNumber": 156,
         "text": "monster. A most scurvy monster. I could"
       },
       {
-        "lineNumber": 160,
+        "lineNumber": 157,
         "text": "find in my heart to beat him--"
       }
     ]
@@ -7335,7 +6990,7 @@ const the_tempest_2_2: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 161,
+        "lineNumber": 158,
         "text": "Come, kiss."
       }
     ]
@@ -7344,40 +6999,36 @@ const the_tempest_2_2: SceneData = {
     "speaker": "TRINCULO",
     "lines": [
       {
-        "lineNumber": 162,
+        "lineNumber": 159,
         "text": "--but that the poor monster's in drink. An"
       },
       {
-        "lineNumber": 163,
+        "lineNumber": 160,
         "text": "abominable monster."
       }
     ]
   },
   {
-    "speaker": "TRINCULO",
+    "speaker": "CALIBAN",
     "lines": [
       {
-        "lineNumber": 164,
-        "text": "CALIBAN"
-      },
-      {
-        "lineNumber": 165,
+        "lineNumber": 161,
         "text": "I'll show thee the best springs. I'll pluck thee berries."
       },
       {
-        "lineNumber": 166,
+        "lineNumber": 162,
         "text": "I'll fish for thee and get thee wood enough."
       },
       {
-        "lineNumber": 167,
+        "lineNumber": 163,
         "text": "A plague upon the tyrant that I serve."
       },
       {
-        "lineNumber": 168,
+        "lineNumber": 164,
         "text": "I'll bear him no more sticks, but follow thee,"
       },
       {
-        "lineNumber": 169,
+        "lineNumber": 165,
         "text": "Thou wondrous man."
       }
     ]
@@ -7386,11 +7037,11 @@ const the_tempest_2_2: SceneData = {
     "speaker": "TRINCULO",
     "lines": [
       {
-        "lineNumber": 170,
+        "lineNumber": 166,
         "text": "A most ridiculous monster, to make a wonder"
       },
       {
-        "lineNumber": 171,
+        "lineNumber": 167,
         "text": "of a poor drunkard."
       }
     ]
@@ -7399,27 +7050,27 @@ const the_tempest_2_2: SceneData = {
     "speaker": "TRINCULO",
     "lines": [
       {
-        "lineNumber": 172,
+        "lineNumber": 168,
         "text": "I prithee, let me bring thee where crabs grow,"
       },
       {
-        "lineNumber": 173,
+        "lineNumber": 169,
         "text": "And I with my long nails will dig thee pignuts,"
       },
       {
-        "lineNumber": 174,
+        "lineNumber": 170,
         "text": "Show thee a jay's nest, and instruct thee how"
       },
       {
-        "lineNumber": 175,
+        "lineNumber": 171,
         "text": "To snare the nimble marmoset. I'll bring thee"
       },
       {
-        "lineNumber": 176,
+        "lineNumber": 172,
         "text": "To clustering filberts, and sometimes I'll get thee"
       },
       {
-        "lineNumber": 177,
+        "lineNumber": 173,
         "text": "Young scamels from the rock. Wilt thou go with me?"
       }
     ]
@@ -7428,23 +7079,23 @@ const the_tempest_2_2: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 178,
+        "lineNumber": 174,
         "text": "I prithee now, lead the way without any"
       },
       {
-        "lineNumber": 179,
+        "lineNumber": 175,
         "text": "more talking.--Trinculo, the King and all our"
       },
       {
-        "lineNumber": 180,
+        "lineNumber": 176,
         "text": "company else being drowned, we will inherit here."
       },
       {
-        "lineNumber": 181,
+        "lineNumber": 177,
         "text": "--Here, bear my bottle.--Fellow Trinculo, we'll"
       },
       {
-        "lineNumber": 182,
+        "lineNumber": 178,
         "text": "fill him by and by again."
       }
     ]
@@ -7453,7 +7104,7 @@ const the_tempest_2_2: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 183,
+        "lineNumber": 179,
         "text": "Farewell, master, farewell, farewell."
       }
     ]
@@ -7462,7 +7113,7 @@ const the_tempest_2_2: SceneData = {
     "speaker": "TRINCULO",
     "lines": [
       {
-        "lineNumber": 184,
+        "lineNumber": 180,
         "text": "A howling monster, a drunken monster."
       }
     ]
@@ -7471,35 +7122,35 @@ const the_tempest_2_2: SceneData = {
     "speaker": "TRINCULO",
     "lines": [
       {
-        "lineNumber": 185,
+        "lineNumber": 181,
         "text": "No more dams I'll make for fish,"
       },
       {
-        "lineNumber": 186,
+        "lineNumber": 182,
         "text": "Nor fetch in firing"
       },
       {
-        "lineNumber": 187,
+        "lineNumber": 183,
         "text": "At requiring,"
       },
       {
-        "lineNumber": 188,
+        "lineNumber": 184,
         "text": "Nor scrape trenchering, nor wash dish."
       },
       {
-        "lineNumber": 189,
+        "lineNumber": 185,
         "text": "'Ban, 'ban, Ca-caliban"
       },
       {
-        "lineNumber": 190,
+        "lineNumber": 186,
         "text": "Has a new master. Get a new man."
       },
       {
-        "lineNumber": 191,
+        "lineNumber": 187,
         "text": "Freedom, high-day! High-day, freedom! Freedom,"
       },
       {
-        "lineNumber": 192,
+        "lineNumber": 188,
         "text": "high-day, freedom!"
       }
     ]
@@ -7508,100 +7159,91 @@ const the_tempest_2_2: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 193,
+        "lineNumber": 189,
         "text": "O brave monster! Lead the way."
-      }
-    ]
-  },
-  {
-    "speaker": "STEPHANO",
-    "lines": [
-      {
-        "lineNumber": 194,
-        "text": "====="
       }
     ]
   }
 ],
   stageDirections: [
   {
-    "position": 1,
+    "position": 0,
     "text": "Enter Caliban with a burden of wood. A noise o"
   },
   {
-    "position": 1,
+    "position": 0,
     "text": "hunder heard."
   },
   {
-    "position": 2,
+    "position": 1,
     "text": "He lies down and covers himself with a cloak."
   },
   {
-    "position": 2,
+    "position": 1,
     "text": "Enter Trinculo."
   },
   {
-    "position": 3,
+    "position": 2,
     "text": "annot choose but fall by pailfuls. [Noticing Caliban."
   },
   {
-    "position": 4,
+    "position": 3,
     "text": "Thunder.] Alas, the storm is come again. My bes"
   },
   {
-    "position": 5,
+    "position": 4,
     "text": "He crawls under Caliban's cloak."
   },
   {
-    "position": 5,
+    "position": 4,
     "text": "Enter Stephano singing."
   },
   {
-    "position": 6,
+    "position": 5,
     "text": "ell, here's my comfort.\t[Drinks."
   },
   {
-    "position": 6,
+    "position": 5,
     "text": "Sings."
   },
   {
-    "position": 7,
+    "position": 6,
     "text": "Drinks."
   },
   {
-    "position": 17,
+    "position": 16,
     "text": "Caliban drinks.] Amen! I will pour some in th"
   },
   {
-    "position": 25,
+    "position": 24,
     "text": "He crawls out from under the cloak."
   },
   {
-    "position": 29,
+    "position": 28,
     "text": "TEPHANO  Here, kiss the book.\t[Trinculo drinks."
   },
   {
-    "position": 36,
+    "position": 35,
     "text": "Caliban drinks."
   },
   {
-    "position": 41,
+    "position": 40,
     "text": "Caliban kneels."
   },
   {
-    "position": 46,
+    "position": 45,
     "text": "ALIBAN, [standing"
   },
   {
-    "position": 48,
+    "position": 47,
     "text": "ALIBAN [sings drunkenly"
   },
   {
-    "position": 50,
+    "position": 49,
     "text": "ALIBAN [sings"
   },
   {
-    "position": 52,
+    "position": 51,
     "text": "They exit."
   }
 ],
@@ -7614,83 +7256,70 @@ const the_tempest_3_1: SceneData = {
   scene: 1,
   speeches: [
   {
-    "speaker": "STEPHANO",
+    "speaker": "FERDINAND",
     "lines": [
       {
         "lineNumber": 1,
-        "text": "======="
-      }
-    ]
-  },
-  {
-    "speaker": "STEPHANO",
-    "lines": [
-      {
-        "lineNumber": 2,
-        "text": "FERDINAND"
-      },
-      {
-        "lineNumber": 3,
         "text": "There be some sports are painful, and their labor"
       },
       {
-        "lineNumber": 4,
+        "lineNumber": 2,
         "text": "Delight in them sets off; some kinds of baseness"
       },
       {
-        "lineNumber": 5,
+        "lineNumber": 3,
         "text": "Are nobly undergone; and most poor matters"
       },
       {
-        "lineNumber": 6,
+        "lineNumber": 4,
         "text": "Point to rich ends. This my mean task"
       },
       {
-        "lineNumber": 7,
+        "lineNumber": 5,
         "text": "Would be as heavy to me as odious, but"
       },
       {
-        "lineNumber": 8,
+        "lineNumber": 6,
         "text": "The mistress which I serve quickens what's dead"
       },
       {
-        "lineNumber": 9,
+        "lineNumber": 7,
         "text": "And makes my labors pleasures. O, she is"
       },
       {
-        "lineNumber": 10,
+        "lineNumber": 8,
         "text": "Ten times more gentle than her father's crabbed,"
       },
       {
-        "lineNumber": 11,
+        "lineNumber": 9,
         "text": "And he's composed of harshness. I must remove"
       },
       {
-        "lineNumber": 12,
+        "lineNumber": 10,
         "text": "Some thousands of these logs and pile them up,"
       },
       {
-        "lineNumber": 13,
+        "lineNumber": 11,
         "text": "Upon a sore injunction. My sweet mistress"
       },
       {
-        "lineNumber": 14,
+        "lineNumber": 12,
         "text": "Weeps when she sees me work, and says such"
       },
       {
-        "lineNumber": 15,
+        "lineNumber": 13,
         "text": "baseness"
       },
       {
-        "lineNumber": 16,
+        "lineNumber": 14,
         "text": "Had never like executor. I forget;"
       },
       {
-        "lineNumber": 17,
+        "lineNumber": 15,
         "text": "But these sweet thoughts do even refresh my labors,"
       },
       {
-        "lineNumber": 18,
+        "lineNumber": 16,
         "text": "Most busiest when I do it."
       }
     ]
@@ -7699,31 +7328,31 @@ const the_tempest_3_1: SceneData = {
     "speaker": "MIRANDA",
     "lines": [
       {
-        "lineNumber": 19,
+        "lineNumber": 17,
         "text": "Alas now, pray you,"
       },
       {
-        "lineNumber": 20,
+        "lineNumber": 18,
         "text": "Work not so hard. I would the lightning had"
       },
       {
-        "lineNumber": 21,
+        "lineNumber": 19,
         "text": "Burnt up those logs that you are enjoined to pile."
       },
       {
-        "lineNumber": 22,
+        "lineNumber": 20,
         "text": "Pray, set it down and rest you. When this burns"
       },
       {
-        "lineNumber": 23,
+        "lineNumber": 21,
         "text": "'Twill weep for having wearied you. My father"
       },
       {
-        "lineNumber": 24,
+        "lineNumber": 22,
         "text": "Is hard at study. Pray now, rest yourself."
       },
       {
-        "lineNumber": 25,
+        "lineNumber": 23,
         "text": "He's safe for these three hours."
       }
     ]
@@ -7732,15 +7361,15 @@ const the_tempest_3_1: SceneData = {
     "speaker": "FERDINAND",
     "lines": [
       {
-        "lineNumber": 26,
+        "lineNumber": 24,
         "text": "O most dear mistress,"
       },
       {
-        "lineNumber": 27,
+        "lineNumber": 25,
         "text": "The sun will set before I shall discharge"
       },
       {
-        "lineNumber": 28,
+        "lineNumber": 26,
         "text": "What I must strive to do."
       }
     ]
@@ -7749,15 +7378,15 @@ const the_tempest_3_1: SceneData = {
     "speaker": "MIRANDA",
     "lines": [
       {
-        "lineNumber": 29,
+        "lineNumber": 27,
         "text": "If you'll sit down,"
       },
       {
-        "lineNumber": 30,
+        "lineNumber": 28,
         "text": "I'll bear your logs the while. Pray, give me that."
       },
       {
-        "lineNumber": 31,
+        "lineNumber": 29,
         "text": "I'll carry it to the pile."
       }
     ]
@@ -7766,19 +7395,19 @@ const the_tempest_3_1: SceneData = {
     "speaker": "FERDINAND",
     "lines": [
       {
-        "lineNumber": 32,
+        "lineNumber": 30,
         "text": "No, precious creature,"
       },
       {
-        "lineNumber": 33,
+        "lineNumber": 31,
         "text": "I had rather crack my sinews, break my back,"
       },
       {
-        "lineNumber": 34,
+        "lineNumber": 32,
         "text": "Than you should such dishonor undergo"
       },
       {
-        "lineNumber": 35,
+        "lineNumber": 33,
         "text": "While I sit lazy by."
       }
     ]
@@ -7787,19 +7416,19 @@ const the_tempest_3_1: SceneData = {
     "speaker": "MIRANDA",
     "lines": [
       {
-        "lineNumber": 36,
+        "lineNumber": 34,
         "text": "It would become me"
       },
       {
-        "lineNumber": 37,
+        "lineNumber": 35,
         "text": "As well as it does you, and I should do it"
       },
       {
-        "lineNumber": 38,
+        "lineNumber": 36,
         "text": "With much more ease, for my good will is to it,"
       },
       {
-        "lineNumber": 39,
+        "lineNumber": 37,
         "text": "And yours it is against."
       }
     ]
@@ -7808,11 +7437,11 @@ const the_tempest_3_1: SceneData = {
     "speaker": "MIRANDA",
     "lines": [
       {
-        "lineNumber": 40,
+        "lineNumber": 38,
         "text": "PROSPERO, [aside]  Poor worm, thou art infected."
       },
       {
-        "lineNumber": 41,
+        "lineNumber": 39,
         "text": "This visitation shows it."
       }
     ]
@@ -7821,27 +7450,28 @@ const the_tempest_3_1: SceneData = {
     "speaker": "MIRANDA",
     "lines": [
       {
-        "lineNumber": 42,
+        "lineNumber": 40,
         "text": "You look wearily."
-      },
+      }
+    ]
+  },
+  {
+    "speaker": "FERDINAND",
+    "lines": [
       {
-        "lineNumber": 43,
-        "text": "FERDINAND"
-      },
-      {
-        "lineNumber": 44,
+        "lineNumber": 41,
         "text": "No, noble mistress, 'tis fresh morning with me"
       },
       {
-        "lineNumber": 45,
+        "lineNumber": 42,
         "text": "When you are by at night. I do beseech you,"
       },
       {
-        "lineNumber": 46,
+        "lineNumber": 43,
         "text": "Chiefly that I might set it in my prayers,"
       },
       {
-        "lineNumber": 47,
+        "lineNumber": 44,
         "text": "What is your name?"
       }
     ]
@@ -7850,11 +7480,11 @@ const the_tempest_3_1: SceneData = {
     "speaker": "MIRANDA",
     "lines": [
       {
-        "lineNumber": 48,
+        "lineNumber": 45,
         "text": "Miranda.--O my father,"
       },
       {
-        "lineNumber": 49,
+        "lineNumber": 46,
         "text": "I have broke your hest to say so!"
       }
     ]
@@ -7863,51 +7493,51 @@ const the_tempest_3_1: SceneData = {
     "speaker": "FERDINAND",
     "lines": [
       {
-        "lineNumber": 50,
+        "lineNumber": 47,
         "text": "Admired Miranda!"
       },
       {
-        "lineNumber": 51,
+        "lineNumber": 48,
         "text": "Indeed the top of admiration, worth"
       },
       {
-        "lineNumber": 52,
+        "lineNumber": 49,
         "text": "What's dearest to the world! Full many a lady"
       },
       {
-        "lineNumber": 53,
+        "lineNumber": 50,
         "text": "I have eyed with best regard, and many a time"
       },
       {
-        "lineNumber": 54,
+        "lineNumber": 51,
         "text": "Th' harmony of their tongues hath into bondage"
       },
       {
-        "lineNumber": 55,
+        "lineNumber": 52,
         "text": "Brought my too diligent ear. For several virtues"
       },
       {
-        "lineNumber": 56,
+        "lineNumber": 53,
         "text": "Have I liked several women, never any"
       },
       {
-        "lineNumber": 57,
+        "lineNumber": 54,
         "text": "With so full soul but some defect in her"
       },
       {
-        "lineNumber": 58,
+        "lineNumber": 55,
         "text": "Did quarrel with the noblest grace she owed,"
       },
       {
-        "lineNumber": 59,
+        "lineNumber": 56,
         "text": "And put it to the foil. But you, O you,"
       },
       {
-        "lineNumber": 60,
+        "lineNumber": 57,
         "text": "So perfect and so peerless, are created"
       },
       {
-        "lineNumber": 61,
+        "lineNumber": 58,
         "text": "Of every creature's best."
       }
     ]
@@ -7916,51 +7546,51 @@ const the_tempest_3_1: SceneData = {
     "speaker": "MIRANDA",
     "lines": [
       {
-        "lineNumber": 62,
+        "lineNumber": 59,
         "text": "I do not know"
       },
       {
-        "lineNumber": 63,
+        "lineNumber": 60,
         "text": "One of my sex, no woman's face remember,"
       },
       {
-        "lineNumber": 64,
+        "lineNumber": 61,
         "text": "Save, from my glass, mine own. Nor have I seen"
       },
       {
-        "lineNumber": 65,
+        "lineNumber": 62,
         "text": "More that I may call men than you, good friend,"
       },
       {
-        "lineNumber": 66,
+        "lineNumber": 63,
         "text": "And my dear father. How features are abroad"
       },
       {
-        "lineNumber": 67,
+        "lineNumber": 64,
         "text": "I am skilless of, but by my modesty,"
       },
       {
-        "lineNumber": 68,
+        "lineNumber": 65,
         "text": "The jewel in my dower, I would not wish"
       },
       {
-        "lineNumber": 69,
+        "lineNumber": 66,
         "text": "Any companion in the world but you,"
       },
       {
-        "lineNumber": 70,
+        "lineNumber": 67,
         "text": "Nor can imagination form a shape"
       },
       {
-        "lineNumber": 71,
+        "lineNumber": 68,
         "text": "Besides yourself to like of. But I prattle"
       },
       {
-        "lineNumber": 72,
+        "lineNumber": 69,
         "text": "Something too wildly, and my father's precepts"
       },
       {
-        "lineNumber": 73,
+        "lineNumber": 70,
         "text": "I therein do forget."
       }
     ]
@@ -7969,39 +7599,39 @@ const the_tempest_3_1: SceneData = {
     "speaker": "FERDINAND",
     "lines": [
       {
-        "lineNumber": 74,
+        "lineNumber": 71,
         "text": "I am in my condition"
       },
       {
-        "lineNumber": 75,
+        "lineNumber": 72,
         "text": "A prince, Miranda; I do think a king--"
       },
       {
-        "lineNumber": 76,
+        "lineNumber": 73,
         "text": "I would, not so!--and would no more endure"
       },
       {
-        "lineNumber": 77,
+        "lineNumber": 74,
         "text": "This wooden slavery than to suffer"
       },
       {
-        "lineNumber": 78,
+        "lineNumber": 75,
         "text": "The flesh-fly blow my mouth. Hear my soul speak:"
       },
       {
-        "lineNumber": 79,
+        "lineNumber": 76,
         "text": "The very instant that I saw you did"
       },
       {
-        "lineNumber": 80,
+        "lineNumber": 77,
         "text": "My heart fly to your service, there resides"
       },
       {
-        "lineNumber": 81,
+        "lineNumber": 78,
         "text": "To make me slave to it, and for your sake"
       },
       {
-        "lineNumber": 82,
+        "lineNumber": 79,
         "text": "Am I this patient log-man."
       }
     ]
@@ -8010,40 +7640,36 @@ const the_tempest_3_1: SceneData = {
     "speaker": "MIRANDA",
     "lines": [
       {
-        "lineNumber": 83,
+        "lineNumber": 80,
         "text": "Do you love me?"
       }
     ]
   },
   {
-    "speaker": "MIRANDA",
+    "speaker": "FERDINAND",
     "lines": [
       {
-        "lineNumber": 84,
-        "text": "FERDINAND"
-      },
-      {
-        "lineNumber": 85,
+        "lineNumber": 81,
         "text": "O heaven, O Earth, bear witness to this sound,"
       },
       {
-        "lineNumber": 86,
+        "lineNumber": 82,
         "text": "And crown what I profess with kind event"
       },
       {
-        "lineNumber": 87,
+        "lineNumber": 83,
         "text": "If I speak true; if hollowly, invert"
       },
       {
-        "lineNumber": 88,
+        "lineNumber": 84,
         "text": "What best is boded me to mischief. I,"
       },
       {
-        "lineNumber": 89,
+        "lineNumber": 85,
         "text": "Beyond all limit of what else i' th' world,"
       },
       {
-        "lineNumber": 90,
+        "lineNumber": 86,
         "text": "Do love, prize, honor you."
       }
     ]
@@ -8052,11 +7678,11 @@ const the_tempest_3_1: SceneData = {
     "speaker": "MIRANDA",
     "lines": [
       {
-        "lineNumber": 91,
+        "lineNumber": 87,
         "text": "I am a fool"
       },
       {
-        "lineNumber": 92,
+        "lineNumber": 88,
         "text": "To weep at what I am glad of."
       }
     ]
@@ -8065,15 +7691,15 @@ const the_tempest_3_1: SceneData = {
     "speaker": "MIRANDA",
     "lines": [
       {
-        "lineNumber": 93,
+        "lineNumber": 89,
         "text": "PROSPERO, [aside]  Fair encounter"
       },
       {
-        "lineNumber": 94,
+        "lineNumber": 90,
         "text": "Of two most rare affections. Heavens rain grace"
       },
       {
-        "lineNumber": 95,
+        "lineNumber": 91,
         "text": "On that which breeds between 'em!"
       }
     ]
@@ -8082,60 +7708,56 @@ const the_tempest_3_1: SceneData = {
     "speaker": "FERDINAND",
     "lines": [
       {
-        "lineNumber": 96,
+        "lineNumber": 92,
         "text": "Wherefore"
       },
       {
-        "lineNumber": 97,
+        "lineNumber": 93,
         "text": "weep you?"
       }
     ]
   },
   {
-    "speaker": "FERDINAND",
+    "speaker": "MIRANDA",
     "lines": [
       {
-        "lineNumber": 98,
-        "text": "MIRANDA"
-      },
-      {
-        "lineNumber": 99,
+        "lineNumber": 94,
         "text": "At mine unworthiness, that dare not offer"
       },
       {
-        "lineNumber": 100,
+        "lineNumber": 95,
         "text": "What I desire to give, and much less take"
       },
       {
-        "lineNumber": 101,
+        "lineNumber": 96,
         "text": "What I shall die to want. But this is trifling,"
       },
       {
-        "lineNumber": 102,
+        "lineNumber": 97,
         "text": "And all the more it seeks to hide itself,"
       },
       {
-        "lineNumber": 103,
+        "lineNumber": 98,
         "text": "The bigger bulk it shows. Hence, bashful cunning,"
       },
       {
-        "lineNumber": 104,
+        "lineNumber": 99,
         "text": "And prompt me, plain and holy innocence."
       },
       {
-        "lineNumber": 105,
+        "lineNumber": 100,
         "text": "I am your wife if you will marry me."
       },
       {
-        "lineNumber": 106,
+        "lineNumber": 101,
         "text": "If not, I'll die your maid. To be your fellow"
       },
       {
-        "lineNumber": 107,
+        "lineNumber": 102,
         "text": "You may deny me, but I'll be your servant"
       },
       {
-        "lineNumber": 108,
+        "lineNumber": 103,
         "text": "Whether you will or no."
       }
     ]
@@ -8144,24 +7766,16 @@ const the_tempest_3_1: SceneData = {
     "speaker": "FERDINAND",
     "lines": [
       {
-        "lineNumber": 109,
-        "text": "FERDINAND"
-      },
-      {
-        "lineNumber": 110,
+        "lineNumber": 104,
         "text": "My mistress, dearest, and I thus humble ever."
       }
     ]
   },
   {
-    "speaker": "FERDINAND",
+    "speaker": "MIRANDA",
     "lines": [
       {
-        "lineNumber": 111,
-        "text": "MIRANDA"
-      },
-      {
-        "lineNumber": 112,
+        "lineNumber": 105,
         "text": "My husband, then?"
       }
     ]
@@ -8170,11 +7784,11 @@ const the_tempest_3_1: SceneData = {
     "speaker": "FERDINAND",
     "lines": [
       {
-        "lineNumber": 113,
+        "lineNumber": 106,
         "text": "Ay, with a heart as willing"
       },
       {
-        "lineNumber": 114,
+        "lineNumber": 107,
         "text": "As bondage e'er of freedom. Here's my hand."
       }
     ]
@@ -8183,11 +7797,11 @@ const the_tempest_3_1: SceneData = {
     "speaker": "FERDINAND",
     "lines": [
       {
-        "lineNumber": 115,
+        "lineNumber": 108,
         "text": "And mine, with my heart in 't. And now farewell"
       },
       {
-        "lineNumber": 116,
+        "lineNumber": 109,
         "text": "Till half an hour hence."
       }
     ]
@@ -8196,36 +7810,32 @@ const the_tempest_3_1: SceneData = {
     "speaker": "FERDINAND",
     "lines": [
       {
-        "lineNumber": 117,
+        "lineNumber": 110,
         "text": "A thousand thousand."
       }
     ]
   },
   {
-    "speaker": "FERDINAND",
+    "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 118,
-        "text": "PROSPERO"
-      },
-      {
-        "lineNumber": 119,
+        "lineNumber": 111,
         "text": "So glad of this as they I cannot be,"
       },
       {
-        "lineNumber": 120,
+        "lineNumber": 112,
         "text": "Who are surprised withal; but my rejoicing"
       },
       {
-        "lineNumber": 121,
+        "lineNumber": 113,
         "text": "At nothing can be more. I'll to my book,"
       },
       {
-        "lineNumber": 122,
+        "lineNumber": 114,
         "text": "For yet ere suppertime must I perform"
       },
       {
-        "lineNumber": 123,
+        "lineNumber": 115,
         "text": "Much business appertaining."
       }
     ]
@@ -8233,11 +7843,11 @@ const the_tempest_3_1: SceneData = {
 ],
   stageDirections: [
   {
-    "position": 1,
+    "position": 0,
     "text": "Enter Ferdinand bearing a log."
   },
   {
-    "position": 2,
+    "position": 1,
     "text": "Enter Miranda; and Prospero at a distance, unobserved."
   },
   {
@@ -8262,52 +7872,22 @@ const the_tempest_3_2: SceneData = {
   scene: 2,
   speeches: [
   {
-    "speaker": "FERDINAND",
-    "lines": [
-      {
-        "lineNumber": 1,
-        "text": "======="
-      }
-    ]
-  },
-  {
-    "speaker": "FERDINAND",
-    "lines": [
-      {
-        "lineNumber": 2,
-        "text": "STEPHANO, [to Trinculo]  Tell not me. When the butt is"
-      },
-      {
-        "lineNumber": 3,
-        "text": "out, we will drink water; not a drop before. Therefore"
-      },
-      {
-        "lineNumber": 4,
-        "text": "bear up and board 'em.--Servant monster,"
-      },
-      {
-        "lineNumber": 5,
-        "text": "drink to me."
-      }
-    ]
-  },
-  {
     "speaker": "TRINCULO",
     "lines": [
       {
-        "lineNumber": 6,
+        "lineNumber": 1,
         "text": "Servant monster? The folly of this island!"
       },
       {
-        "lineNumber": 7,
+        "lineNumber": 2,
         "text": "They say there's but five upon this isle; we are three"
       },
       {
-        "lineNumber": 8,
+        "lineNumber": 3,
         "text": "of them. If th' other two be brained like us, the state"
       },
       {
-        "lineNumber": 9,
+        "lineNumber": 4,
         "text": "totters."
       }
     ]
@@ -8316,11 +7896,11 @@ const the_tempest_3_2: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 10,
+        "lineNumber": 5,
         "text": "Drink, servant monster, when I bid thee."
       },
       {
-        "lineNumber": 11,
+        "lineNumber": 6,
         "text": "Thy eyes are almost set in thy head."
       }
     ]
@@ -8329,11 +7909,11 @@ const the_tempest_3_2: SceneData = {
     "speaker": "TRINCULO",
     "lines": [
       {
-        "lineNumber": 12,
+        "lineNumber": 7,
         "text": "Where should they be set else? He were a"
       },
       {
-        "lineNumber": 13,
+        "lineNumber": 8,
         "text": "brave monster indeed if they were set in his tail."
       }
     ]
@@ -8342,23 +7922,23 @@ const the_tempest_3_2: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 14,
+        "lineNumber": 9,
         "text": "My man-monster hath drowned his tongue"
       },
       {
-        "lineNumber": 15,
+        "lineNumber": 10,
         "text": "in sack. For my part, the sea cannot drown me. I"
       },
       {
-        "lineNumber": 16,
+        "lineNumber": 11,
         "text": "swam, ere I could recover the shore, five-and-thirty"
       },
       {
-        "lineNumber": 17,
+        "lineNumber": 12,
         "text": "leagues off and on, by this light.--Thou shalt be my"
       },
       {
-        "lineNumber": 18,
+        "lineNumber": 13,
         "text": "lieutenant, monster, or my standard."
       }
     ]
@@ -8367,11 +7947,11 @@ const the_tempest_3_2: SceneData = {
     "speaker": "TRINCULO",
     "lines": [
       {
-        "lineNumber": 19,
+        "lineNumber": 14,
         "text": "Your lieutenant, if you list. He's no"
       },
       {
-        "lineNumber": 20,
+        "lineNumber": 15,
         "text": "standard."
       }
     ]
@@ -8380,7 +7960,7 @@ const the_tempest_3_2: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 21,
+        "lineNumber": 16,
         "text": "We'll not run, Monsieur Monster."
       }
     ]
@@ -8389,11 +7969,11 @@ const the_tempest_3_2: SceneData = {
     "speaker": "TRINCULO",
     "lines": [
       {
-        "lineNumber": 22,
+        "lineNumber": 17,
         "text": "Nor go neither. But you'll lie like dogs, and"
       },
       {
-        "lineNumber": 23,
+        "lineNumber": 18,
         "text": "yet say nothing neither."
       }
     ]
@@ -8402,11 +7982,11 @@ const the_tempest_3_2: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 24,
+        "lineNumber": 19,
         "text": "Mooncalf, speak once in thy life, if thou"
       },
       {
-        "lineNumber": 25,
+        "lineNumber": 20,
         "text": "be'st a good mooncalf."
       }
     ]
@@ -8415,11 +7995,11 @@ const the_tempest_3_2: SceneData = {
     "speaker": "CALIBAN",
     "lines": [
       {
-        "lineNumber": 26,
+        "lineNumber": 21,
         "text": "How does thy Honor? Let me lick thy shoe. I'll"
       },
       {
-        "lineNumber": 27,
+        "lineNumber": 22,
         "text": "not serve him; he is not valiant."
       }
     ]
@@ -8428,27 +8008,27 @@ const the_tempest_3_2: SceneData = {
     "speaker": "TRINCULO",
     "lines": [
       {
-        "lineNumber": 28,
+        "lineNumber": 23,
         "text": "Thou liest, most ignorant monster. I am in"
       },
       {
-        "lineNumber": 29,
+        "lineNumber": 24,
         "text": "case to justle a constable. Why, thou debauched"
       },
       {
-        "lineNumber": 30,
+        "lineNumber": 25,
         "text": "fish, thou! Was there ever man a coward that hath"
       },
       {
-        "lineNumber": 31,
+        "lineNumber": 26,
         "text": "drunk so much sack as I today? Wilt thou tell a"
       },
       {
-        "lineNumber": 32,
+        "lineNumber": 27,
         "text": "monstrous lie, being but half a fish and half a"
       },
       {
-        "lineNumber": 33,
+        "lineNumber": 28,
         "text": "monster?"
       }
     ]
@@ -8457,11 +8037,11 @@ const the_tempest_3_2: SceneData = {
     "speaker": "CALIBAN",
     "lines": [
       {
-        "lineNumber": 34,
+        "lineNumber": 29,
         "text": "Lo, how he mocks me! Wilt thou let him, my"
       },
       {
-        "lineNumber": 35,
+        "lineNumber": 30,
         "text": "lord?"
       }
     ]
@@ -8470,11 +8050,11 @@ const the_tempest_3_2: SceneData = {
     "speaker": "TRINCULO",
     "lines": [
       {
-        "lineNumber": 36,
+        "lineNumber": 31,
         "text": "\"Lord,\" quoth he? That a monster should be"
       },
       {
-        "lineNumber": 37,
+        "lineNumber": 32,
         "text": "such a natural!"
       }
     ]
@@ -8483,7 +8063,7 @@ const the_tempest_3_2: SceneData = {
     "speaker": "CALIBAN",
     "lines": [
       {
-        "lineNumber": 38,
+        "lineNumber": 33,
         "text": "Lo, lo again! Bite him to death, I prithee."
       }
     ]
@@ -8492,19 +8072,19 @@ const the_tempest_3_2: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 39,
+        "lineNumber": 34,
         "text": "Trinculo, keep a good tongue in your head."
       },
       {
-        "lineNumber": 40,
+        "lineNumber": 35,
         "text": "If you prove a mutineer, the next tree. The poor"
       },
       {
-        "lineNumber": 41,
+        "lineNumber": 36,
         "text": "monster's my subject, and he shall not suffer"
       },
       {
-        "lineNumber": 42,
+        "lineNumber": 37,
         "text": "indignity."
       }
     ]
@@ -8513,11 +8093,11 @@ const the_tempest_3_2: SceneData = {
     "speaker": "CALIBAN",
     "lines": [
       {
-        "lineNumber": 43,
+        "lineNumber": 38,
         "text": "I thank my noble lord. Wilt thou be pleased"
       },
       {
-        "lineNumber": 44,
+        "lineNumber": 39,
         "text": "to harken once again to the suit I made to thee?"
       }
     ]
@@ -8526,11 +8106,11 @@ const the_tempest_3_2: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 45,
+        "lineNumber": 40,
         "text": "Marry, will I. Kneel and repeat it. I will"
       },
       {
-        "lineNumber": 46,
+        "lineNumber": 41,
         "text": "stand, and so shall Trinculo."
       }
     ]
@@ -8539,15 +8119,15 @@ const the_tempest_3_2: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 47,
+        "lineNumber": 42,
         "text": "CALIBAN, [kneeling]  As I told thee before, I am subject"
       },
       {
-        "lineNumber": 48,
+        "lineNumber": 43,
         "text": "to a tyrant, a sorcerer, that by his cunning hath"
       },
       {
-        "lineNumber": 49,
+        "lineNumber": 44,
         "text": "cheated me of the island."
       }
     ]
@@ -8556,7 +8136,7 @@ const the_tempest_3_2: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 50,
+        "lineNumber": 45,
         "text": "ARIEL, [in Trinculo's voice]  Thou liest."
       }
     ]
@@ -8565,15 +8145,15 @@ const the_tempest_3_2: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 51,
+        "lineNumber": 46,
         "text": "CALIBAN, [to Trinculo]  Thou liest, thou jesting monkey,"
       },
       {
-        "lineNumber": 52,
+        "lineNumber": 47,
         "text": "thou. [He stands.] I would my valiant master would"
       },
       {
-        "lineNumber": 53,
+        "lineNumber": 48,
         "text": "destroy thee. I do not lie."
       }
     ]
@@ -8582,15 +8162,15 @@ const the_tempest_3_2: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 54,
+        "lineNumber": 49,
         "text": "Trinculo, if you trouble him any more in 's"
       },
       {
-        "lineNumber": 55,
+        "lineNumber": 50,
         "text": "tale, by this hand, I will supplant some of your"
       },
       {
-        "lineNumber": 56,
+        "lineNumber": 51,
         "text": "teeth."
       }
     ]
@@ -8599,7 +8179,7 @@ const the_tempest_3_2: SceneData = {
     "speaker": "TRINCULO",
     "lines": [
       {
-        "lineNumber": 57,
+        "lineNumber": 52,
         "text": "Why, I said nothing."
       }
     ]
@@ -8608,36 +8188,32 @@ const the_tempest_3_2: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 58,
+        "lineNumber": 53,
         "text": "Mum then, and no more. [Trinculo stands"
       },
       {
-        "lineNumber": 59,
+        "lineNumber": 54,
         "text": "aside.] Proceed."
       }
     ]
   },
   {
-    "speaker": "STEPHANO",
+    "speaker": "CALIBAN",
     "lines": [
       {
-        "lineNumber": 60,
-        "text": "CALIBAN"
-      },
-      {
-        "lineNumber": 61,
+        "lineNumber": 55,
         "text": "I say by sorcery he got this isle;"
       },
       {
-        "lineNumber": 62,
+        "lineNumber": 56,
         "text": "From me he got it. If thy Greatness will,"
       },
       {
-        "lineNumber": 63,
+        "lineNumber": 57,
         "text": "Revenge it on him, for I know thou dar'st,"
       },
       {
-        "lineNumber": 64,
+        "lineNumber": 58,
         "text": "But this thing dare not."
       }
     ]
@@ -8646,20 +8222,16 @@ const the_tempest_3_2: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 65,
+        "lineNumber": 59,
         "text": "That's most certain."
       }
     ]
   },
   {
-    "speaker": "STEPHANO",
+    "speaker": "CALIBAN",
     "lines": [
       {
-        "lineNumber": 66,
-        "text": "CALIBAN"
-      },
-      {
-        "lineNumber": 67,
+        "lineNumber": 60,
         "text": "Thou shalt be lord of it, and I'll serve thee."
       }
     ]
@@ -8668,66 +8240,58 @@ const the_tempest_3_2: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 68,
+        "lineNumber": 61,
         "text": "How now shall this be compassed? Canst"
       },
       {
-        "lineNumber": 69,
+        "lineNumber": 62,
         "text": "thou bring me to the party?"
       }
     ]
   },
   {
-    "speaker": "STEPHANO",
+    "speaker": "CALIBAN",
     "lines": [
       {
-        "lineNumber": 70,
-        "text": "CALIBAN"
-      },
-      {
-        "lineNumber": 71,
+        "lineNumber": 63,
         "text": "Yea, yea, my lord. I'll yield him thee asleep,"
       },
       {
-        "lineNumber": 72,
+        "lineNumber": 64,
         "text": "Where thou mayst knock a nail into his head."
       }
     ]
   },
   {
-    "speaker": "STEPHANO",
+    "speaker": "CALIBAN",
     "lines": [
       {
-        "lineNumber": 73,
+        "lineNumber": 65,
         "text": "ARIEL, [in Trinculo's voice]  Thou liest. Thou canst not."
       }
     ]
   },
   {
-    "speaker": "STEPHANO",
+    "speaker": "CALIBAN",
     "lines": [
       {
-        "lineNumber": 74,
-        "text": "CALIBAN"
-      },
-      {
-        "lineNumber": 75,
+        "lineNumber": 66,
         "text": "What a pied ninny's this!--Thou scurvy patch!--"
       },
       {
-        "lineNumber": 76,
+        "lineNumber": 67,
         "text": "I do beseech thy Greatness, give him blows"
       },
       {
-        "lineNumber": 77,
+        "lineNumber": 68,
         "text": "And take his bottle from him. When that's gone,"
       },
       {
-        "lineNumber": 78,
+        "lineNumber": 69,
         "text": "He shall drink naught but brine, for I'll not show him"
       },
       {
-        "lineNumber": 79,
+        "lineNumber": 70,
         "text": "Where the quick freshes are."
       }
     ]
@@ -8736,19 +8300,19 @@ const the_tempest_3_2: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 80,
+        "lineNumber": 71,
         "text": "Trinculo, run into no further danger. Interrupt"
       },
       {
-        "lineNumber": 81,
+        "lineNumber": 72,
         "text": "the monster one word further, and by this"
       },
       {
-        "lineNumber": 82,
+        "lineNumber": 73,
         "text": "hand, I'll turn my mercy out o' doors and make a"
       },
       {
-        "lineNumber": 83,
+        "lineNumber": 74,
         "text": "stockfish of thee."
       }
     ]
@@ -8757,11 +8321,11 @@ const the_tempest_3_2: SceneData = {
     "speaker": "TRINCULO",
     "lines": [
       {
-        "lineNumber": 84,
+        "lineNumber": 75,
         "text": "Why, what did I? I did nothing. I'll go"
       },
       {
-        "lineNumber": 85,
+        "lineNumber": 76,
         "text": "farther off."
       }
     ]
@@ -8770,7 +8334,7 @@ const the_tempest_3_2: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 86,
+        "lineNumber": 77,
         "text": "Didst thou not say he lied?"
       }
     ]
@@ -8779,7 +8343,7 @@ const the_tempest_3_2: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 87,
+        "lineNumber": 78,
         "text": "ARIEL, [in Trinculo's voice]  Thou liest."
       }
     ]
@@ -8788,7 +8352,7 @@ const the_tempest_3_2: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 88,
+        "lineNumber": 79,
         "text": "As you like this, give me the lie another time."
       }
     ]
@@ -8797,19 +8361,19 @@ const the_tempest_3_2: SceneData = {
     "speaker": "TRINCULO",
     "lines": [
       {
-        "lineNumber": 89,
+        "lineNumber": 80,
         "text": "I did not give the lie! Out o' your wits and"
       },
       {
-        "lineNumber": 90,
+        "lineNumber": 81,
         "text": "hearing too? A pox o' your bottle! This can sack and"
       },
       {
-        "lineNumber": 91,
+        "lineNumber": 82,
         "text": "drinking do. A murrain on your monster, and the"
       },
       {
-        "lineNumber": 92,
+        "lineNumber": 83,
         "text": "devil take your fingers!"
       }
     ]
@@ -8818,7 +8382,7 @@ const the_tempest_3_2: SceneData = {
     "speaker": "CALIBAN",
     "lines": [
       {
-        "lineNumber": 93,
+        "lineNumber": 84,
         "text": "Ha, ha, ha!"
       }
     ]
@@ -8827,7 +8391,7 @@ const the_tempest_3_2: SceneData = {
     "speaker": "CALIBAN",
     "lines": [
       {
-        "lineNumber": 94,
+        "lineNumber": 85,
         "text": "Prithee, stand further off."
       }
     ]
@@ -8836,15 +8400,11 @@ const the_tempest_3_2: SceneData = {
     "speaker": "CALIBAN",
     "lines": [
       {
-        "lineNumber": 95,
-        "text": "CALIBAN"
-      },
-      {
-        "lineNumber": 96,
+        "lineNumber": 86,
         "text": "Beat him enough. After a little time"
       },
       {
-        "lineNumber": 97,
+        "lineNumber": 87,
         "text": "I'll beat him too."
       }
     ]
@@ -8853,88 +8413,84 @@ const the_tempest_3_2: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 98,
+        "lineNumber": 88,
         "text": "Stand farther. [Trinculo moves farther"
       },
       {
-        "lineNumber": 99,
+        "lineNumber": 89,
         "text": "away.] Come, proceed."
       }
     ]
   },
   {
-    "speaker": "STEPHANO",
+    "speaker": "CALIBAN",
     "lines": [
       {
-        "lineNumber": 100,
-        "text": "CALIBAN"
-      },
-      {
-        "lineNumber": 101,
+        "lineNumber": 90,
         "text": "Why, as I told thee, 'tis a custom with him"
       },
       {
-        "lineNumber": 102,
+        "lineNumber": 91,
         "text": "I' th' afternoon to sleep. There thou mayst brain him,"
       },
       {
-        "lineNumber": 103,
+        "lineNumber": 92,
         "text": "Having first seized his books, or with a log"
       },
       {
-        "lineNumber": 104,
+        "lineNumber": 93,
         "text": "Batter his skull, or paunch him with a stake,"
       },
       {
-        "lineNumber": 105,
+        "lineNumber": 94,
         "text": "Or cut his weasand with thy knife. Remember"
       },
       {
-        "lineNumber": 106,
+        "lineNumber": 95,
         "text": "First to possess his books, for without them"
       },
       {
-        "lineNumber": 107,
+        "lineNumber": 96,
         "text": "He's but a sot, as I am, nor hath not"
       },
       {
-        "lineNumber": 108,
+        "lineNumber": 97,
         "text": "One spirit to command. They all do hate him"
       },
       {
-        "lineNumber": 109,
+        "lineNumber": 98,
         "text": "As rootedly as I. Burn but his books."
       },
       {
-        "lineNumber": 110,
+        "lineNumber": 99,
         "text": "He has brave utensils--for so he calls them--"
       },
       {
-        "lineNumber": 111,
+        "lineNumber": 100,
         "text": "Which, when he has a house, he'll deck withal."
       },
       {
-        "lineNumber": 112,
+        "lineNumber": 101,
         "text": "And that most deeply to consider is"
       },
       {
-        "lineNumber": 113,
+        "lineNumber": 102,
         "text": "The beauty of his daughter. He himself"
       },
       {
-        "lineNumber": 114,
+        "lineNumber": 103,
         "text": "Calls her a nonpareil. I never saw a woman"
       },
       {
-        "lineNumber": 115,
+        "lineNumber": 104,
         "text": "But only Sycorax my dam and she;"
       },
       {
-        "lineNumber": 116,
+        "lineNumber": 105,
         "text": "But she as far surpasseth Sycorax"
       },
       {
-        "lineNumber": 117,
+        "lineNumber": 106,
         "text": "As great'st does least."
       }
     ]
@@ -8943,24 +8499,20 @@ const the_tempest_3_2: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 118,
+        "lineNumber": 107,
         "text": "Is it so brave a lass?"
       }
     ]
   },
   {
-    "speaker": "STEPHANO",
+    "speaker": "CALIBAN",
     "lines": [
       {
-        "lineNumber": 119,
-        "text": "CALIBAN"
-      },
-      {
-        "lineNumber": 120,
+        "lineNumber": 108,
         "text": "Ay, lord, she will become thy bed, I warrant,"
       },
       {
-        "lineNumber": 121,
+        "lineNumber": 109,
         "text": "And bring thee forth brave brood."
       }
     ]
@@ -8969,19 +8521,19 @@ const the_tempest_3_2: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 122,
+        "lineNumber": 110,
         "text": "Monster, I will kill this man. His daughter"
       },
       {
-        "lineNumber": 123,
+        "lineNumber": 111,
         "text": "and I will be king and queen--save our Graces!--"
       },
       {
-        "lineNumber": 124,
+        "lineNumber": 112,
         "text": "and Trinculo and thyself shall be viceroys.--Dost"
       },
       {
-        "lineNumber": 125,
+        "lineNumber": 113,
         "text": "thou like the plot, Trinculo?"
       }
     ]
@@ -8990,7 +8542,7 @@ const the_tempest_3_2: SceneData = {
     "speaker": "TRINCULO",
     "lines": [
       {
-        "lineNumber": 126,
+        "lineNumber": 114,
         "text": "Excellent."
       }
     ]
@@ -8999,32 +8551,28 @@ const the_tempest_3_2: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 127,
+        "lineNumber": 115,
         "text": "Give me thy hand. I am sorry I beat thee."
       },
       {
-        "lineNumber": 128,
+        "lineNumber": 116,
         "text": "But while thou liv'st, keep a good tongue in thy"
       },
       {
-        "lineNumber": 129,
+        "lineNumber": 117,
         "text": "head."
       }
     ]
   },
   {
-    "speaker": "STEPHANO",
+    "speaker": "CALIBAN",
     "lines": [
       {
-        "lineNumber": 130,
-        "text": "CALIBAN"
-      },
-      {
-        "lineNumber": 131,
+        "lineNumber": 118,
         "text": "Within this half hour will he be asleep."
       },
       {
-        "lineNumber": 132,
+        "lineNumber": 119,
         "text": "Wilt thou destroy him then?"
       }
     ]
@@ -9033,7 +8581,7 @@ const the_tempest_3_2: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 133,
+        "lineNumber": 120,
         "text": "Ay, on mine honor."
       }
     ]
@@ -9042,28 +8590,24 @@ const the_tempest_3_2: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 134,
+        "lineNumber": 121,
         "text": "ARIEL, [aside]  This will I tell my master."
       }
     ]
   },
   {
-    "speaker": "STEPHANO",
+    "speaker": "CALIBAN",
     "lines": [
       {
-        "lineNumber": 135,
-        "text": "CALIBAN"
-      },
-      {
-        "lineNumber": 136,
+        "lineNumber": 122,
         "text": "Thou mak'st me merry. I am full of pleasure."
       },
       {
-        "lineNumber": 137,
+        "lineNumber": 123,
         "text": "Let us be jocund. Will you troll the catch"
       },
       {
-        "lineNumber": 138,
+        "lineNumber": 124,
         "text": "You taught me but whilere?"
       }
     ]
@@ -9072,11 +8616,11 @@ const the_tempest_3_2: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 139,
+        "lineNumber": 125,
         "text": "At thy request, monster, I will do reason,"
       },
       {
-        "lineNumber": 140,
+        "lineNumber": 126,
         "text": "any reason.--Come on, Trinculo, let us sing."
       }
     ]
@@ -9085,15 +8629,15 @@ const the_tempest_3_2: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 141,
+        "lineNumber": 127,
         "text": "Flout 'em and cout 'em"
       },
       {
-        "lineNumber": 142,
+        "lineNumber": 128,
         "text": "And scout 'em and flout 'em!"
       },
       {
-        "lineNumber": 143,
+        "lineNumber": 129,
         "text": "Thought is free."
       }
     ]
@@ -9102,7 +8646,7 @@ const the_tempest_3_2: SceneData = {
     "speaker": "CALIBAN",
     "lines": [
       {
-        "lineNumber": 144,
+        "lineNumber": 130,
         "text": "That's not the tune."
       }
     ]
@@ -9111,7 +8655,7 @@ const the_tempest_3_2: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 145,
+        "lineNumber": 131,
         "text": "What is this same?"
       }
     ]
@@ -9120,11 +8664,11 @@ const the_tempest_3_2: SceneData = {
     "speaker": "TRINCULO",
     "lines": [
       {
-        "lineNumber": 146,
+        "lineNumber": 132,
         "text": "This is the tune of our catch played by the"
       },
       {
-        "lineNumber": 147,
+        "lineNumber": 133,
         "text": "picture of Nobody."
       }
     ]
@@ -9133,15 +8677,15 @@ const the_tempest_3_2: SceneData = {
     "speaker": "TRINCULO",
     "lines": [
       {
-        "lineNumber": 148,
+        "lineNumber": 134,
         "text": "STEPHANO, [to the invisible musician]  If thou be'st a"
       },
       {
-        "lineNumber": 149,
+        "lineNumber": 135,
         "text": "man, show thyself in thy likeness. If thou be'st a"
       },
       {
-        "lineNumber": 150,
+        "lineNumber": 136,
         "text": "devil, take 't as thou list."
       }
     ]
@@ -9150,7 +8694,7 @@ const the_tempest_3_2: SceneData = {
     "speaker": "TRINCULO",
     "lines": [
       {
-        "lineNumber": 151,
+        "lineNumber": 137,
         "text": "O, forgive me my sins!"
       }
     ]
@@ -9159,11 +8703,11 @@ const the_tempest_3_2: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 152,
+        "lineNumber": 138,
         "text": "He that dies pays all debts.--I defy thee!--"
       },
       {
-        "lineNumber": 153,
+        "lineNumber": 139,
         "text": "Mercy upon us!"
       }
     ]
@@ -9172,7 +8716,7 @@ const the_tempest_3_2: SceneData = {
     "speaker": "CALIBAN",
     "lines": [
       {
-        "lineNumber": 154,
+        "lineNumber": 140,
         "text": "Art thou afeard?"
       }
     ]
@@ -9181,52 +8725,48 @@ const the_tempest_3_2: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 155,
+        "lineNumber": 141,
         "text": "No, monster, not I."
       }
     ]
   },
   {
-    "speaker": "STEPHANO",
+    "speaker": "CALIBAN",
     "lines": [
       {
-        "lineNumber": 156,
-        "text": "CALIBAN"
-      },
-      {
-        "lineNumber": 157,
+        "lineNumber": 142,
         "text": "Be not afeard. The isle is full of noises,"
       },
       {
-        "lineNumber": 158,
+        "lineNumber": 143,
         "text": "Sounds and sweet airs that give delight and hurt not."
       },
       {
-        "lineNumber": 159,
+        "lineNumber": 144,
         "text": "Sometimes a thousand twangling instruments"
       },
       {
-        "lineNumber": 160,
+        "lineNumber": 145,
         "text": "Will hum about mine ears, and sometimes voices"
       },
       {
-        "lineNumber": 161,
+        "lineNumber": 146,
         "text": "That, if I then had waked after long sleep,"
       },
       {
-        "lineNumber": 162,
+        "lineNumber": 147,
         "text": "Will make me sleep again; and then, in dreaming,"
       },
       {
-        "lineNumber": 163,
+        "lineNumber": 148,
         "text": "The clouds methought would open, and show riches"
       },
       {
-        "lineNumber": 164,
+        "lineNumber": 149,
         "text": "Ready to drop upon me, that when I waked"
       },
       {
-        "lineNumber": 165,
+        "lineNumber": 150,
         "text": "I cried to dream again."
       }
     ]
@@ -9235,11 +8775,11 @@ const the_tempest_3_2: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 166,
+        "lineNumber": 151,
         "text": "This will prove a brave kingdom to me,"
       },
       {
-        "lineNumber": 167,
+        "lineNumber": 152,
         "text": "where I shall have my music for nothing."
       }
     ]
@@ -9248,7 +8788,7 @@ const the_tempest_3_2: SceneData = {
     "speaker": "CALIBAN",
     "lines": [
       {
-        "lineNumber": 168,
+        "lineNumber": 153,
         "text": "When Prospero is destroyed."
       }
     ]
@@ -9257,11 +8797,11 @@ const the_tempest_3_2: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 169,
+        "lineNumber": 154,
         "text": "That shall be by and by. I remember the"
       },
       {
-        "lineNumber": 170,
+        "lineNumber": 155,
         "text": "story."
       }
     ]
@@ -9270,11 +8810,11 @@ const the_tempest_3_2: SceneData = {
     "speaker": "TRINCULO",
     "lines": [
       {
-        "lineNumber": 171,
+        "lineNumber": 156,
         "text": "The sound is going away. Let's follow it, and"
       },
       {
-        "lineNumber": 172,
+        "lineNumber": 157,
         "text": "after do our work."
       }
     ]
@@ -9283,11 +8823,11 @@ const the_tempest_3_2: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 173,
+        "lineNumber": 158,
         "text": "Lead, monster. We'll follow.--I would I"
       },
       {
-        "lineNumber": 174,
+        "lineNumber": 159,
         "text": "could see this taborer. He lays it on. Wilt come?"
       }
     ]
@@ -9296,7 +8836,7 @@ const the_tempest_3_2: SceneData = {
     "speaker": "TRINCULO",
     "lines": [
       {
-        "lineNumber": 175,
+        "lineNumber": 160,
         "text": "I'll follow, Stephano."
       }
     ]
@@ -9304,35 +8844,35 @@ const the_tempest_3_2: SceneData = {
 ],
   stageDirections: [
   {
-    "position": 1,
+    "position": 0,
     "text": "Enter Caliban, Stephano, and Trinculo."
   },
   {
-    "position": 4,
+    "position": 2,
     "text": "Caliban drinks."
   },
   {
-    "position": 18,
+    "position": 16,
     "text": "Enter Ariel, invisible."
   },
   {
-    "position": 35,
+    "position": 33,
     "text": "TEPHANO  Do I so? Take thou that.\t[He beats Trinculo."
   },
   {
-    "position": 38,
+    "position": 36,
     "text": "TEPHANO  Now forward with your tale. [To Trinculo."
   },
   {
-    "position": 52,
+    "position": 50,
     "text": "Sings."
   },
   {
-    "position": 54,
+    "position": 52,
     "text": "Ariel plays the tune on a tabor and pipe."
   },
   {
-    "position": 68,
+    "position": 66,
     "text": "They exit."
   }
 ],
@@ -9345,39 +8885,26 @@ const the_tempest_3_3: SceneData = {
   scene: 3,
   speeches: [
   {
-    "speaker": "TRINCULO",
+    "speaker": "GONZALO",
     "lines": [
       {
         "lineNumber": 1,
-        "text": "======="
-      }
-    ]
-  },
-  {
-    "speaker": "TRINCULO",
-    "lines": [
-      {
-        "lineNumber": 2,
-        "text": "GONZALO"
-      },
-      {
-        "lineNumber": 3,
         "text": "By 'r lakin, I can go no further, sir."
       },
       {
-        "lineNumber": 4,
+        "lineNumber": 2,
         "text": "My old bones aches. Here's a maze trod indeed"
       },
       {
-        "lineNumber": 5,
+        "lineNumber": 3,
         "text": "Through forthrights and meanders. By your"
       },
       {
-        "lineNumber": 6,
+        "lineNumber": 4,
         "text": "patience,"
       },
       {
-        "lineNumber": 7,
+        "lineNumber": 5,
         "text": "I needs must rest me."
       }
     ]
@@ -9386,31 +8913,31 @@ const the_tempest_3_3: SceneData = {
     "speaker": "ALONSO",
     "lines": [
       {
-        "lineNumber": 8,
+        "lineNumber": 6,
         "text": "Old lord, I cannot blame thee."
       },
       {
-        "lineNumber": 9,
+        "lineNumber": 7,
         "text": "Who am myself attached with weariness"
       },
       {
-        "lineNumber": 10,
+        "lineNumber": 8,
         "text": "To th' dulling of my spirits. Sit down and rest."
       },
       {
-        "lineNumber": 11,
+        "lineNumber": 9,
         "text": "Even here I will put off my hope and keep it"
       },
       {
-        "lineNumber": 12,
+        "lineNumber": 10,
         "text": "No longer for my flatterer. He is drowned"
       },
       {
-        "lineNumber": 13,
+        "lineNumber": 11,
         "text": "Whom thus we stray to find, and the sea mocks"
       },
       {
-        "lineNumber": 14,
+        "lineNumber": 12,
         "text": "Our frustrate search on land. Well, let him go."
       }
     ]
@@ -9419,15 +8946,15 @@ const the_tempest_3_3: SceneData = {
     "speaker": "ALONSO",
     "lines": [
       {
-        "lineNumber": 15,
+        "lineNumber": 13,
         "text": "I am right glad that he's so out of hope."
       },
       {
-        "lineNumber": 16,
+        "lineNumber": 14,
         "text": "Do not, for one repulse, forgo the purpose"
       },
       {
-        "lineNumber": 17,
+        "lineNumber": 15,
         "text": "That you resolved t' effect."
       }
     ]
@@ -9436,11 +8963,11 @@ const the_tempest_3_3: SceneData = {
     "speaker": "ALONSO",
     "lines": [
       {
-        "lineNumber": 18,
+        "lineNumber": 16,
         "text": "SEBASTIAN, [aside to Antonio]  The next advantage"
       },
       {
-        "lineNumber": 19,
+        "lineNumber": 17,
         "text": "Will we take throughly."
       }
     ]
@@ -9449,19 +8976,19 @@ const the_tempest_3_3: SceneData = {
     "speaker": "ALONSO",
     "lines": [
       {
-        "lineNumber": 20,
+        "lineNumber": 18,
         "text": "ANTONIO, [aside to Sebastian]  Let it be tonight;"
       },
       {
-        "lineNumber": 21,
+        "lineNumber": 19,
         "text": "For now they are oppressed with travel, they"
       },
       {
-        "lineNumber": 22,
+        "lineNumber": 20,
         "text": "Will not nor cannot use such vigilance"
       },
       {
-        "lineNumber": 23,
+        "lineNumber": 21,
         "text": "As when they are fresh."
       }
     ]
@@ -9470,7 +8997,7 @@ const the_tempest_3_3: SceneData = {
     "speaker": "ALONSO",
     "lines": [
       {
-        "lineNumber": 24,
+        "lineNumber": 22,
         "text": "SEBASTIAN, [aside to Antonio]  I say tonight. No more."
       }
     ]
@@ -9479,11 +9006,7 @@ const the_tempest_3_3: SceneData = {
     "speaker": "ALONSO",
     "lines": [
       {
-        "lineNumber": 25,
-        "text": "ALONSO"
-      },
-      {
-        "lineNumber": 26,
+        "lineNumber": 23,
         "text": "What harmony is this? My good friends, hark."
       }
     ]
@@ -9492,45 +9015,37 @@ const the_tempest_3_3: SceneData = {
     "speaker": "GONZALO",
     "lines": [
       {
-        "lineNumber": 27,
+        "lineNumber": 24,
         "text": "Marvelous sweet music!"
       }
     ]
   },
   {
-    "speaker": "GONZALO",
+    "speaker": "ALONSO",
     "lines": [
       {
-        "lineNumber": 28,
-        "text": "ALONSO"
-      },
-      {
-        "lineNumber": 29,
+        "lineNumber": 25,
         "text": "Give us kind keepers, heavens! What were these?"
       }
     ]
   },
   {
-    "speaker": "GONZALO",
+    "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 30,
-        "text": "SEBASTIAN"
-      },
-      {
-        "lineNumber": 31,
+        "lineNumber": 26,
         "text": "A living drollery! Now I will believe"
       },
       {
-        "lineNumber": 32,
+        "lineNumber": 27,
         "text": "That there are unicorns, that in Arabia"
       },
       {
-        "lineNumber": 33,
+        "lineNumber": 28,
         "text": "There is one tree, the phoenix' throne, one phoenix"
       },
       {
-        "lineNumber": 34,
+        "lineNumber": 29,
         "text": "At this hour reigning there."
       }
     ]
@@ -9539,19 +9054,19 @@ const the_tempest_3_3: SceneData = {
     "speaker": "ANTONIO",
     "lines": [
       {
-        "lineNumber": 35,
+        "lineNumber": 30,
         "text": "I'll believe both;"
       },
       {
-        "lineNumber": 36,
+        "lineNumber": 31,
         "text": "And what does else want credit, come to me"
       },
       {
-        "lineNumber": 37,
+        "lineNumber": 32,
         "text": "And I'll be sworn 'tis true. Travelers ne'er did lie,"
       },
       {
-        "lineNumber": 38,
+        "lineNumber": 33,
         "text": "Though fools at home condemn 'em."
       }
     ]
@@ -9560,35 +9075,35 @@ const the_tempest_3_3: SceneData = {
     "speaker": "GONZALO",
     "lines": [
       {
-        "lineNumber": 39,
+        "lineNumber": 34,
         "text": "If in Naples"
       },
       {
-        "lineNumber": 40,
+        "lineNumber": 35,
         "text": "I should report this now, would they believe me?"
       },
       {
-        "lineNumber": 41,
+        "lineNumber": 36,
         "text": "If I should say I saw such islanders--"
       },
       {
-        "lineNumber": 42,
+        "lineNumber": 37,
         "text": "For, certes, these are people of the island--"
       },
       {
-        "lineNumber": 43,
+        "lineNumber": 38,
         "text": "Who, though they are of monstrous shape, yet note"
       },
       {
-        "lineNumber": 44,
+        "lineNumber": 39,
         "text": "Their manners are more gentle, kind, than of"
       },
       {
-        "lineNumber": 45,
+        "lineNumber": 40,
         "text": "Our human generation you shall find"
       },
       {
-        "lineNumber": 46,
+        "lineNumber": 41,
         "text": "Many, nay, almost any."
       }
     ]
@@ -9597,15 +9112,15 @@ const the_tempest_3_3: SceneData = {
     "speaker": "GONZALO",
     "lines": [
       {
-        "lineNumber": 47,
+        "lineNumber": 42,
         "text": "PROSPERO, [aside]  Honest lord,"
       },
       {
-        "lineNumber": 48,
+        "lineNumber": 43,
         "text": "Thou hast said well, for some of you there present"
       },
       {
-        "lineNumber": 49,
+        "lineNumber": 44,
         "text": "Are worse than devils."
       }
     ]
@@ -9614,23 +9129,23 @@ const the_tempest_3_3: SceneData = {
     "speaker": "ALONSO",
     "lines": [
       {
-        "lineNumber": 50,
+        "lineNumber": 45,
         "text": "I cannot too much muse"
       },
       {
-        "lineNumber": 51,
+        "lineNumber": 46,
         "text": "Such shapes, such gesture, and such sound,"
       },
       {
-        "lineNumber": 52,
+        "lineNumber": 47,
         "text": "expressing--"
       },
       {
-        "lineNumber": 53,
+        "lineNumber": 48,
         "text": "Although they want the use of tongue--a kind"
       },
       {
-        "lineNumber": 54,
+        "lineNumber": 49,
         "text": "Of excellent dumb discourse."
       }
     ]
@@ -9639,7 +9154,7 @@ const the_tempest_3_3: SceneData = {
     "speaker": "ALONSO",
     "lines": [
       {
-        "lineNumber": 55,
+        "lineNumber": 50,
         "text": "PROSPERO, [aside]  Praise in departing."
       }
     ]
@@ -9648,7 +9163,7 @@ const the_tempest_3_3: SceneData = {
     "speaker": "FRANCISCO",
     "lines": [
       {
-        "lineNumber": 56,
+        "lineNumber": 51,
         "text": "They vanished strangely."
       }
     ]
@@ -9657,19 +9172,19 @@ const the_tempest_3_3: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 57,
+        "lineNumber": 52,
         "text": "No matter, since"
       },
       {
-        "lineNumber": 58,
+        "lineNumber": 53,
         "text": "They have left their viands behind, for we have"
       },
       {
-        "lineNumber": 59,
+        "lineNumber": 54,
         "text": "stomachs."
       },
       {
-        "lineNumber": 60,
+        "lineNumber": 55,
         "text": "Will 't please you taste of what is here?"
       }
     ]
@@ -9678,52 +9193,48 @@ const the_tempest_3_3: SceneData = {
     "speaker": "ALONSO",
     "lines": [
       {
-        "lineNumber": 61,
+        "lineNumber": 56,
         "text": "Not I."
       }
     ]
   },
   {
-    "speaker": "ALONSO",
+    "speaker": "GONZALO",
     "lines": [
       {
-        "lineNumber": 62,
-        "text": "GONZALO"
-      },
-      {
-        "lineNumber": 63,
+        "lineNumber": 57,
         "text": "Faith, sir, you need not fear. When we were boys,"
       },
       {
-        "lineNumber": 64,
+        "lineNumber": 58,
         "text": "Who would believe that there were mountaineers"
       },
       {
-        "lineNumber": 65,
+        "lineNumber": 59,
         "text": "Dewlapped like bulls, whose throats had hanging at"
       },
       {
-        "lineNumber": 66,
+        "lineNumber": 60,
         "text": "'em"
       },
       {
-        "lineNumber": 67,
+        "lineNumber": 61,
         "text": "Wallets of flesh? Or that there were such men"
       },
       {
-        "lineNumber": 68,
+        "lineNumber": 62,
         "text": "Whose heads stood in their breasts? Which now we"
       },
       {
-        "lineNumber": 69,
+        "lineNumber": 63,
         "text": "find"
       },
       {
-        "lineNumber": 70,
+        "lineNumber": 64,
         "text": "Each putter-out of five for one will bring us"
       },
       {
-        "lineNumber": 71,
+        "lineNumber": 65,
         "text": "Good warrant of."
       }
     ]
@@ -9732,19 +9243,19 @@ const the_tempest_3_3: SceneData = {
     "speaker": "ALONSO",
     "lines": [
       {
-        "lineNumber": 72,
+        "lineNumber": 66,
         "text": "I will stand to and feed."
       },
       {
-        "lineNumber": 73,
+        "lineNumber": 67,
         "text": "Although my last, no matter, since I feel"
       },
       {
-        "lineNumber": 74,
+        "lineNumber": 68,
         "text": "The best is past. Brother, my lord the Duke,"
       },
       {
-        "lineNumber": 75,
+        "lineNumber": 69,
         "text": "Stand to, and do as we."
       }
     ]
@@ -9753,7 +9264,7 @@ const the_tempest_3_3: SceneData = {
     "speaker": "ALONSO",
     "lines": [
       {
-        "lineNumber": 76,
+        "lineNumber": 70,
         "text": "his wings upon the table, and with a quaint device the"
       }
     ]
@@ -9762,35 +9273,35 @@ const the_tempest_3_3: SceneData = {
     "speaker": "ALONSO",
     "lines": [
       {
-        "lineNumber": 77,
+        "lineNumber": 71,
         "text": "You are three men of sin, whom Destiny,"
       },
       {
-        "lineNumber": 78,
+        "lineNumber": 72,
         "text": "That hath to instrument this lower world"
       },
       {
-        "lineNumber": 79,
+        "lineNumber": 73,
         "text": "And what is in 't, the never-surfeited sea"
       },
       {
-        "lineNumber": 80,
+        "lineNumber": 74,
         "text": "Hath caused to belch up you, and on this island,"
       },
       {
-        "lineNumber": 81,
+        "lineNumber": 75,
         "text": "Where man doth not inhabit, you 'mongst men"
       },
       {
-        "lineNumber": 82,
+        "lineNumber": 76,
         "text": "Being most unfit to live. I have made you mad;"
       },
       {
-        "lineNumber": 83,
+        "lineNumber": 77,
         "text": "And even with such-like valor, men hang and drown"
       },
       {
-        "lineNumber": 84,
+        "lineNumber": 78,
         "text": "Their proper selves."
       }
     ]
@@ -9799,95 +9310,95 @@ const the_tempest_3_3: SceneData = {
     "speaker": "ALONSO",
     "lines": [
       {
-        "lineNumber": 85,
+        "lineNumber": 79,
         "text": "You fools, I and my fellows"
       },
       {
-        "lineNumber": 86,
+        "lineNumber": 80,
         "text": "Are ministers of Fate. The elements"
       },
       {
-        "lineNumber": 87,
+        "lineNumber": 81,
         "text": "Of whom your swords are tempered may as well"
       },
       {
-        "lineNumber": 88,
+        "lineNumber": 82,
         "text": "Wound the loud winds or with bemocked-at stabs"
       },
       {
-        "lineNumber": 89,
+        "lineNumber": 83,
         "text": "Kill the still-closing waters as diminish"
       },
       {
-        "lineNumber": 90,
+        "lineNumber": 84,
         "text": "One dowl that's in my plume. My fellow ministers"
       },
       {
-        "lineNumber": 91,
+        "lineNumber": 85,
         "text": "Are like invulnerable. If you could hurt,"
       },
       {
-        "lineNumber": 92,
+        "lineNumber": 86,
         "text": "Your swords are now too massy for your strengths"
       },
       {
-        "lineNumber": 93,
+        "lineNumber": 87,
         "text": "And will not be uplifted. But remember--"
       },
       {
-        "lineNumber": 94,
+        "lineNumber": 88,
         "text": "For that's my business to you--that you three"
       },
       {
-        "lineNumber": 95,
+        "lineNumber": 89,
         "text": "From Milan did supplant good Prospero,"
       },
       {
-        "lineNumber": 96,
+        "lineNumber": 90,
         "text": "Exposed unto the sea, which hath requit it,"
       },
       {
-        "lineNumber": 97,
+        "lineNumber": 91,
         "text": "Him and his innocent child, for which foul deed,"
       },
       {
-        "lineNumber": 98,
+        "lineNumber": 92,
         "text": "The powers--delaying, not forgetting--have"
       },
       {
-        "lineNumber": 99,
+        "lineNumber": 93,
         "text": "Incensed the seas and shores, yea, all the creatures"
       },
       {
-        "lineNumber": 100,
+        "lineNumber": 94,
         "text": "Against your peace. Thee of thy son, Alonso,"
       },
       {
-        "lineNumber": 101,
+        "lineNumber": 95,
         "text": "They have bereft; and do pronounce by me"
       },
       {
-        "lineNumber": 102,
+        "lineNumber": 96,
         "text": "Ling'ring perdition, worse than any death"
       },
       {
-        "lineNumber": 103,
+        "lineNumber": 97,
         "text": "Can be at once, shall step by step attend"
       },
       {
-        "lineNumber": 104,
+        "lineNumber": 98,
         "text": "You and your ways, whose wraths to guard you"
       },
       {
-        "lineNumber": 105,
+        "lineNumber": 99,
         "text": "from--"
       },
       {
-        "lineNumber": 106,
+        "lineNumber": 100,
         "text": "Which here, in this most desolate isle, else falls"
       },
       {
-        "lineNumber": 107,
+        "lineNumber": 101,
         "text": "Upon your heads--is nothing but heart's sorrow"
       }
     ]
@@ -9896,47 +9407,47 @@ const the_tempest_3_3: SceneData = {
     "speaker": "ALONSO",
     "lines": [
       {
-        "lineNumber": 108,
+        "lineNumber": 102,
         "text": "Bravely the figure of this Harpy hast thou"
       },
       {
-        "lineNumber": 109,
+        "lineNumber": 103,
         "text": "Performed, my Ariel. A grace it had, devouring."
       },
       {
-        "lineNumber": 110,
+        "lineNumber": 104,
         "text": "Of my instruction hast thou nothing bated"
       },
       {
-        "lineNumber": 111,
+        "lineNumber": 105,
         "text": "In what thou hadst to say. So, with good life"
       },
       {
-        "lineNumber": 112,
+        "lineNumber": 106,
         "text": "And observation strange, my meaner ministers"
       },
       {
-        "lineNumber": 113,
+        "lineNumber": 107,
         "text": "Their several kinds have done. My high charms"
       },
       {
-        "lineNumber": 114,
+        "lineNumber": 108,
         "text": "work,"
       },
       {
-        "lineNumber": 115,
+        "lineNumber": 109,
         "text": "And these mine enemies are all knit up"
       },
       {
-        "lineNumber": 116,
+        "lineNumber": 110,
         "text": "In their distractions. They now are in my power;"
       },
       {
-        "lineNumber": 117,
+        "lineNumber": 111,
         "text": "And in these fits I leave them while I visit"
       },
       {
-        "lineNumber": 118,
+        "lineNumber": 112,
         "text": "Young Ferdinand, whom they suppose is drowned,"
       }
     ]
@@ -9945,11 +9456,11 @@ const the_tempest_3_3: SceneData = {
     "speaker": "ALONSO",
     "lines": [
       {
-        "lineNumber": 119,
+        "lineNumber": 113,
         "text": "I' th' name of something holy, sir, why stand you"
       },
       {
-        "lineNumber": 120,
+        "lineNumber": 114,
         "text": "In this strange stare?"
       }
     ]
@@ -9958,31 +9469,31 @@ const the_tempest_3_3: SceneData = {
     "speaker": "ALONSO",
     "lines": [
       {
-        "lineNumber": 121,
+        "lineNumber": 115,
         "text": "O, it is monstrous, monstrous!"
       },
       {
-        "lineNumber": 122,
+        "lineNumber": 116,
         "text": "Methought the billows spoke and told me of it;"
       },
       {
-        "lineNumber": 123,
+        "lineNumber": 117,
         "text": "The winds did sing it to me, and the thunder,"
       },
       {
-        "lineNumber": 124,
+        "lineNumber": 118,
         "text": "That deep and dreadful organ pipe, pronounced"
       },
       {
-        "lineNumber": 125,
+        "lineNumber": 119,
         "text": "The name of Prosper. It did bass my trespass."
       },
       {
-        "lineNumber": 126,
+        "lineNumber": 120,
         "text": "Therefor my son i' th' ooze is bedded, and"
       },
       {
-        "lineNumber": 127,
+        "lineNumber": 121,
         "text": "I'll seek him deeper than e'er plummet sounded,"
       }
     ]
@@ -9991,11 +9502,11 @@ const the_tempest_3_3: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 128,
+        "lineNumber": 122,
         "text": "But one fiend at a time,"
       },
       {
-        "lineNumber": 129,
+        "lineNumber": 123,
         "text": "I'll fight their legions o'er."
       }
     ]
@@ -10004,40 +9515,36 @@ const the_tempest_3_3: SceneData = {
     "speaker": "ANTONIO",
     "lines": [
       {
-        "lineNumber": 130,
+        "lineNumber": 124,
         "text": "I'll be thy second."
       }
     ]
   },
   {
-    "speaker": "ANTONIO",
+    "speaker": "GONZALO",
     "lines": [
       {
-        "lineNumber": 131,
-        "text": "GONZALO"
-      },
-      {
-        "lineNumber": 132,
+        "lineNumber": 125,
         "text": "All three of them are desperate. Their great guilt,"
       },
       {
-        "lineNumber": 133,
+        "lineNumber": 126,
         "text": "Like poison given to work a great time after,"
       },
       {
-        "lineNumber": 134,
+        "lineNumber": 127,
         "text": "Now 'gins to bite the spirits. I do beseech you"
       },
       {
-        "lineNumber": 135,
+        "lineNumber": 128,
         "text": "That are of suppler joints, follow them swiftly"
       },
       {
-        "lineNumber": 136,
+        "lineNumber": 129,
         "text": "And hinder them from what this ecstasy"
       },
       {
-        "lineNumber": 137,
+        "lineNumber": 130,
         "text": "May now provoke them to."
       }
     ]
@@ -10046,112 +9553,103 @@ const the_tempest_3_3: SceneData = {
     "speaker": "ADRIAN",
     "lines": [
       {
-        "lineNumber": 138,
+        "lineNumber": 131,
         "text": "Follow, I pray you."
-      }
-    ]
-  },
-  {
-    "speaker": "ADRIAN",
-    "lines": [
-      {
-        "lineNumber": 139,
-        "text": "====="
       }
     ]
   }
 ],
   stageDirections: [
   {
-    "position": 1,
+    "position": 0,
     "text": "Enter Alonso, Sebastian, Antonio, Gonzalo, Adrian"
   },
   {
-    "position": 1,
+    "position": 0,
     "text": "rancisco, etc."
   },
   {
-    "position": 3,
+    "position": 2,
     "text": "NTONIO, [aside to Sebastian"
   },
   {
-    "position": 7,
+    "position": 6,
     "text": "Solemn and strange music, and enter Prospero on th"
   },
   {
-    "position": 7,
+    "position": 6,
     "text": "op invisible."
   },
   {
-    "position": 9,
+    "position": 8,
     "text": "Enter several strange shapes, bringing in a banquet, an"
   },
   {
-    "position": 9,
+    "position": 8,
     "text": "ance about it with gentle actions of salutations."
   },
   {
-    "position": 16,
+    "position": 15,
     "text": "Inviting the King, etc., to eat, the shapes depart."
   },
   {
-    "position": 21,
+    "position": 20,
     "text": "Alonso, Sebastian, and Antoni"
   },
   {
-    "position": 21,
+    "position": 20,
     "text": "ove toward the table."
   },
   {
-    "position": 21,
+    "position": 20,
     "text": "Thunder and lightning. Enter Ariel, like a Harpy, clap"
   },
   {
-    "position": 22,
+    "position": 21,
     "text": "anquet vanishes."
   },
   {
-    "position": 22,
+    "position": 21,
     "text": "RIEL [as Harpy"
   },
   {
-    "position": 23,
+    "position": 22,
     "text": "Alonso, Sebastian, and Antonio draw their swords."
   },
   {
-    "position": 24,
+    "position": 23,
     "text": "nd a clear life ensuing.\t[He vanishes in thunder."
   },
   {
-    "position": 24,
+    "position": 23,
     "text": "Then, to soft music, enter the shapes again, and dance"
   },
   {
-    "position": 24,
+    "position": 23,
     "text": "ith mocks and mows, and carrying out the table."
   },
   {
-    "position": 24,
+    "position": 23,
     "text": "ROSPERO, [aside"
   },
   {
-    "position": 25,
+    "position": 24,
     "text": "nd his and mine loved darling.\t[He exits, above."
   },
   {
-    "position": 25,
+    "position": 24,
     "text": "ONZALO, [to Alonso"
   },
   {
-    "position": 27,
+    "position": 26,
     "text": "nd with him there lie mudded.\t[He exits."
   },
   {
-    "position": 29,
+    "position": 28,
     "text": "They exit."
   },
   {
-    "position": 31,
+    "position": 30,
     "text": "They all exit."
   }
 ],
@@ -10164,125 +9662,63 @@ const the_tempest_4_1: SceneData = {
   scene: 1,
   speeches: [
   {
-    "speaker": "ADRIAN",
-    "lines": [
-      {
-        "lineNumber": 1,
-        "text": "======="
-      }
-    ]
-  },
-  {
-    "speaker": "ADRIAN",
-    "lines": [
-      {
-        "lineNumber": 2,
-        "text": "If I have too austerely punished you,"
-      },
-      {
-        "lineNumber": 3,
-        "text": "Your compensation makes amends, for I"
-      },
-      {
-        "lineNumber": 4,
-        "text": "Have given you here a third of mine own life,"
-      },
-      {
-        "lineNumber": 5,
-        "text": "Or that for which I live; who once again"
-      },
-      {
-        "lineNumber": 6,
-        "text": "I tender to thy hand. All thy vexations"
-      },
-      {
-        "lineNumber": 7,
-        "text": "Were but my trials of thy love, and thou"
-      },
-      {
-        "lineNumber": 8,
-        "text": "Hast strangely stood the test. Here afore heaven"
-      },
-      {
-        "lineNumber": 9,
-        "text": "I ratify this my rich gift. O Ferdinand,"
-      },
-      {
-        "lineNumber": 10,
-        "text": "Do not smile at me that I boast of her,"
-      },
-      {
-        "lineNumber": 11,
-        "text": "For thou shalt find she will outstrip all praise"
-      },
-      {
-        "lineNumber": 12,
-        "text": "And make it halt behind her."
-      }
-    ]
-  },
-  {
     "speaker": "FERDINAND",
     "lines": [
       {
-        "lineNumber": 13,
+        "lineNumber": 1,
         "text": "I do believe it"
       },
       {
-        "lineNumber": 14,
+        "lineNumber": 2,
         "text": "Against an oracle."
       }
     ]
   },
   {
-    "speaker": "FERDINAND",
+    "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 15,
-        "text": "PROSPERO"
-      },
-      {
-        "lineNumber": 16,
+        "lineNumber": 3,
         "text": "Then, as my gift and thine own acquisition"
       },
       {
-        "lineNumber": 17,
+        "lineNumber": 4,
         "text": "Worthily purchased, take my daughter. But"
       },
       {
-        "lineNumber": 18,
+        "lineNumber": 5,
         "text": "If thou dost break her virgin-knot before"
       },
       {
-        "lineNumber": 19,
+        "lineNumber": 6,
         "text": "All sanctimonious ceremonies may"
       },
       {
-        "lineNumber": 20,
+        "lineNumber": 7,
         "text": "With full and holy rite be ministered,"
       },
       {
-        "lineNumber": 21,
+        "lineNumber": 8,
         "text": "No sweet aspersion shall the heavens let fall"
       },
       {
-        "lineNumber": 22,
+        "lineNumber": 9,
         "text": "To make this contract grow; but barren hate,"
       },
       {
-        "lineNumber": 23,
+        "lineNumber": 10,
         "text": "Sour-eyed disdain, and discord shall bestrew"
       },
       {
-        "lineNumber": 24,
+        "lineNumber": 11,
         "text": "The union of your bed with weeds so loathly"
       },
       {
-        "lineNumber": 25,
+        "lineNumber": 12,
         "text": "That you shall hate it both. Therefore take heed,"
       },
       {
-        "lineNumber": 26,
+        "lineNumber": 13,
         "text": "As Hymen's lamps shall light you."
       }
     ]
@@ -10291,39 +9727,39 @@ const the_tempest_4_1: SceneData = {
     "speaker": "FERDINAND",
     "lines": [
       {
-        "lineNumber": 27,
+        "lineNumber": 14,
         "text": "As I hope"
       },
       {
-        "lineNumber": 28,
+        "lineNumber": 15,
         "text": "For quiet days, fair issue, and long life,"
       },
       {
-        "lineNumber": 29,
+        "lineNumber": 16,
         "text": "With such love as 'tis now, the murkiest den,"
       },
       {
-        "lineNumber": 30,
+        "lineNumber": 17,
         "text": "The most opportune place, the strong'st suggestion"
       },
       {
-        "lineNumber": 31,
+        "lineNumber": 18,
         "text": "Our worser genius can shall never melt"
       },
       {
-        "lineNumber": 32,
+        "lineNumber": 19,
         "text": "Mine honor into lust to take away"
       },
       {
-        "lineNumber": 33,
+        "lineNumber": 20,
         "text": "The edge of that day's celebration"
       },
       {
-        "lineNumber": 34,
+        "lineNumber": 21,
         "text": "When I shall think or Phoebus' steeds are foundered"
       },
       {
-        "lineNumber": 35,
+        "lineNumber": 22,
         "text": "Or night kept chained below."
       }
     ]
@@ -10332,11 +9768,11 @@ const the_tempest_4_1: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 36,
+        "lineNumber": 23,
         "text": "Fairly spoke."
       },
       {
-        "lineNumber": 37,
+        "lineNumber": 24,
         "text": "Sit then and talk with her. She is thine own."
       }
     ]
@@ -10345,20 +9781,16 @@ const the_tempest_4_1: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 38,
+        "lineNumber": 25,
         "text": "What, Ariel, my industrious servant, Ariel!"
       }
     ]
   },
   {
-    "speaker": "PROSPERO",
+    "speaker": "ARIEL",
     "lines": [
       {
-        "lineNumber": 39,
-        "text": "ARIEL"
-      },
-      {
-        "lineNumber": 40,
+        "lineNumber": 26,
         "text": "What would my potent master? Here I am."
       }
     ]
@@ -10367,39 +9799,35 @@ const the_tempest_4_1: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 41,
-        "text": "PROSPERO"
-      },
-      {
-        "lineNumber": 42,
+        "lineNumber": 27,
         "text": "Thou and thy meaner fellows your last service"
       },
       {
-        "lineNumber": 43,
+        "lineNumber": 28,
         "text": "Did worthily perform, and I must use you"
       },
       {
-        "lineNumber": 44,
+        "lineNumber": 29,
         "text": "In such another trick. Go bring the rabble,"
       },
       {
-        "lineNumber": 45,
+        "lineNumber": 30,
         "text": "O'er whom I give thee power, here to this place."
       },
       {
-        "lineNumber": 46,
+        "lineNumber": 31,
         "text": "Incite them to quick motion, for I must"
       },
       {
-        "lineNumber": 47,
+        "lineNumber": 32,
         "text": "Bestow upon the eyes of this young couple"
       },
       {
-        "lineNumber": 48,
+        "lineNumber": 33,
         "text": "Some vanity of mine art. It is my promise,"
       },
       {
-        "lineNumber": 49,
+        "lineNumber": 34,
         "text": "And they expect it from me."
       }
     ]
@@ -10408,7 +9836,7 @@ const the_tempest_4_1: SceneData = {
     "speaker": "ARIEL",
     "lines": [
       {
-        "lineNumber": 50,
+        "lineNumber": 35,
         "text": "Presently?"
       }
     ]
@@ -10417,36 +9845,32 @@ const the_tempest_4_1: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 51,
+        "lineNumber": 36,
         "text": "Ay, with a twink."
       }
     ]
   },
   {
-    "speaker": "PROSPERO",
+    "speaker": "ARIEL",
     "lines": [
       {
-        "lineNumber": 52,
-        "text": "ARIEL"
-      },
-      {
-        "lineNumber": 53,
+        "lineNumber": 37,
         "text": "Before you can say \"Come\" and \"Go,\""
       },
       {
-        "lineNumber": 54,
+        "lineNumber": 38,
         "text": "And breathe twice, and cry \"So, so,\""
       },
       {
-        "lineNumber": 55,
+        "lineNumber": 39,
         "text": "Each one, tripping on his toe,"
       },
       {
-        "lineNumber": 56,
+        "lineNumber": 40,
         "text": "Will be here with mop and mow."
       },
       {
-        "lineNumber": 57,
+        "lineNumber": 41,
         "text": "Do you love me, master? No?"
       }
     ]
@@ -10455,15 +9879,11 @@ const the_tempest_4_1: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 58,
-        "text": "PROSPERO"
-      },
-      {
-        "lineNumber": 59,
+        "lineNumber": 42,
         "text": "Dearly, my delicate Ariel. Do not approach"
       },
       {
-        "lineNumber": 60,
+        "lineNumber": 43,
         "text": "Till thou dost hear me call."
       }
     ]
@@ -10472,7 +9892,7 @@ const the_tempest_4_1: SceneData = {
     "speaker": "ARIEL",
     "lines": [
       {
-        "lineNumber": 61,
+        "lineNumber": 44,
         "text": "Well; I conceive."
       }
     ]
@@ -10481,19 +9901,19 @@ const the_tempest_4_1: SceneData = {
     "speaker": "ARIEL",
     "lines": [
       {
-        "lineNumber": 62,
+        "lineNumber": 45,
         "text": "Look thou be true; do not give dalliance"
       },
       {
-        "lineNumber": 63,
+        "lineNumber": 46,
         "text": "Too much the rein. The strongest oaths are straw"
       },
       {
-        "lineNumber": 64,
+        "lineNumber": 47,
         "text": "To th' fire i' th' blood. Be more abstemious,"
       },
       {
-        "lineNumber": 65,
+        "lineNumber": 48,
         "text": "Or else goodnight your vow."
       }
     ]
@@ -10502,15 +9922,15 @@ const the_tempest_4_1: SceneData = {
     "speaker": "FERDINAND",
     "lines": [
       {
-        "lineNumber": 66,
+        "lineNumber": 49,
         "text": "I warrant you, sir,"
       },
       {
-        "lineNumber": 67,
+        "lineNumber": 50,
         "text": "The white cold virgin snow upon my heart"
       },
       {
-        "lineNumber": 68,
+        "lineNumber": 51,
         "text": "Abates the ardor of my liver."
       }
     ]
@@ -10519,15 +9939,15 @@ const the_tempest_4_1: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 69,
+        "lineNumber": 52,
         "text": "Well.--"
       },
       {
-        "lineNumber": 70,
+        "lineNumber": 53,
         "text": "Now come, my Ariel. Bring a corollary"
       },
       {
-        "lineNumber": 71,
+        "lineNumber": 54,
         "text": "Rather than want a spirit. Appear, and pertly."
       }
     ]
@@ -10536,146 +9956,134 @@ const the_tempest_4_1: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 72,
+        "lineNumber": 55,
         "text": "No tongue. All eyes. Be silent."
       }
     ]
   },
   {
-    "speaker": "PROSPERO",
+    "speaker": "IRIS",
     "lines": [
       {
-        "lineNumber": 73,
-        "text": "IRIS"
-      },
-      {
-        "lineNumber": 74,
+        "lineNumber": 56,
         "text": "Ceres, most bounteous lady, thy rich leas"
       },
       {
-        "lineNumber": 75,
+        "lineNumber": 57,
         "text": "Of wheat, rye, barley, vetches, oats, and peas;"
       },
       {
-        "lineNumber": 76,
+        "lineNumber": 58,
         "text": "Thy turfy mountains, where live nibbling sheep,"
       },
       {
-        "lineNumber": 77,
+        "lineNumber": 59,
         "text": "And flat meads thatched with stover, them to keep;"
       },
       {
-        "lineNumber": 78,
+        "lineNumber": 60,
         "text": "Thy banks with pioned and twilled brims,"
       },
       {
-        "lineNumber": 79,
+        "lineNumber": 61,
         "text": "Which spongy April at thy hest betrims"
       },
       {
-        "lineNumber": 80,
+        "lineNumber": 62,
         "text": "To make cold nymphs chaste crowns; and thy"
       },
       {
-        "lineNumber": 81,
+        "lineNumber": 63,
         "text": "broom groves,"
       },
       {
-        "lineNumber": 82,
+        "lineNumber": 64,
         "text": "Whose shadow the dismissed bachelor loves,"
       },
       {
-        "lineNumber": 83,
+        "lineNumber": 65,
         "text": "Being lass-lorn; thy poll-clipped vineyard,"
       },
       {
-        "lineNumber": 84,
+        "lineNumber": 66,
         "text": "And thy sea marge, sterile and rocky hard,"
       },
       {
-        "lineNumber": 85,
+        "lineNumber": 67,
         "text": "Where thou thyself dost air--the Queen o' th' sky,"
       },
       {
-        "lineNumber": 86,
+        "lineNumber": 68,
         "text": "Whose wat'ry arch and messenger am I,"
       },
       {
-        "lineNumber": 87,
+        "lineNumber": 69,
         "text": "Bids thee leave these, and with her sovereign grace,"
       },
       {
-        "lineNumber": 88,
+        "lineNumber": 70,
         "text": "Here on this grass-plot, in this very place,"
       },
       {
-        "lineNumber": 89,
+        "lineNumber": 71,
         "text": "To come and sport. Her peacocks fly amain."
       },
       {
-        "lineNumber": 90,
+        "lineNumber": 72,
         "text": "Approach, rich Ceres, her to entertain."
       }
     ]
   },
   {
-    "speaker": "PROSPERO",
+    "speaker": "CERES",
     "lines": [
       {
-        "lineNumber": 91,
-        "text": "CERES"
-      },
-      {
-        "lineNumber": 92,
+        "lineNumber": 73,
         "text": "Hail, many-colored messenger, that ne'er"
       },
       {
-        "lineNumber": 93,
+        "lineNumber": 74,
         "text": "Dost disobey the wife of Jupiter;"
       },
       {
-        "lineNumber": 94,
+        "lineNumber": 75,
         "text": "Who with thy saffron wings upon my flowers"
       },
       {
-        "lineNumber": 95,
+        "lineNumber": 76,
         "text": "Diffusest honey drops, refreshing showers;"
       },
       {
-        "lineNumber": 96,
+        "lineNumber": 77,
         "text": "And with each end of thy blue bow dost crown"
       },
       {
-        "lineNumber": 97,
+        "lineNumber": 78,
         "text": "My bosky acres and my unshrubbed down,"
       },
       {
-        "lineNumber": 98,
+        "lineNumber": 79,
         "text": "Rich scarf to my proud Earth. Why hath thy queen"
       },
       {
-        "lineNumber": 99,
+        "lineNumber": 80,
         "text": "Summoned me hither to this short-grassed green?"
       }
     ]
   },
   {
-    "speaker": "PROSPERO",
+    "speaker": "IRIS",
     "lines": [
       {
-        "lineNumber": 100,
-        "text": "IRIS"
-      },
-      {
-        "lineNumber": 101,
+        "lineNumber": 81,
         "text": "A contract of true love to celebrate,"
       },
       {
-        "lineNumber": 102,
+        "lineNumber": 82,
         "text": "And some donation freely to estate"
       },
       {
-        "lineNumber": 103,
+        "lineNumber": 83,
         "text": "On the blest lovers."
       }
     ]
@@ -10684,27 +10092,27 @@ const the_tempest_4_1: SceneData = {
     "speaker": "CERES",
     "lines": [
       {
-        "lineNumber": 104,
+        "lineNumber": 84,
         "text": "Tell me, heavenly bow,"
       },
       {
-        "lineNumber": 105,
+        "lineNumber": 85,
         "text": "If Venus or her son, as thou dost know,"
       },
       {
-        "lineNumber": 106,
+        "lineNumber": 86,
         "text": "Do now attend the Queen? Since they did plot"
       },
       {
-        "lineNumber": 107,
+        "lineNumber": 87,
         "text": "The means that dusky Dis my daughter got,"
       },
       {
-        "lineNumber": 108,
+        "lineNumber": 88,
         "text": "Her and her blind boy's scandaled company"
       },
       {
-        "lineNumber": 109,
+        "lineNumber": 89,
         "text": "I have forsworn."
       }
     ]
@@ -10713,55 +10121,55 @@ const the_tempest_4_1: SceneData = {
     "speaker": "IRIS",
     "lines": [
       {
-        "lineNumber": 110,
+        "lineNumber": 90,
         "text": "Of her society"
       },
       {
-        "lineNumber": 111,
+        "lineNumber": 91,
         "text": "Be not afraid. I met her deity"
       },
       {
-        "lineNumber": 112,
+        "lineNumber": 92,
         "text": "Cutting the clouds towards Paphos, and her son"
       },
       {
-        "lineNumber": 113,
+        "lineNumber": 93,
         "text": "Dove-drawn with her. Here thought they to have"
       },
       {
-        "lineNumber": 114,
+        "lineNumber": 94,
         "text": "done"
       },
       {
-        "lineNumber": 115,
+        "lineNumber": 95,
         "text": "Some wanton charm upon this man and maid,"
       },
       {
-        "lineNumber": 116,
+        "lineNumber": 96,
         "text": "Whose vows are that no bed-right shall be paid"
       },
       {
-        "lineNumber": 117,
+        "lineNumber": 97,
         "text": "Till Hymen's torch be lighted--but in vain."
       },
       {
-        "lineNumber": 118,
+        "lineNumber": 98,
         "text": "Mars's hot minion is returned again;"
       },
       {
-        "lineNumber": 119,
+        "lineNumber": 99,
         "text": "Her waspish-headed son has broke his arrows,"
       },
       {
-        "lineNumber": 120,
+        "lineNumber": 100,
         "text": "Swears he will shoot no more, but play with"
       },
       {
-        "lineNumber": 121,
+        "lineNumber": 101,
         "text": "sparrows,"
       },
       {
-        "lineNumber": 122,
+        "lineNumber": 102,
         "text": "And be a boy right out."
       }
     ]
@@ -10770,57 +10178,49 @@ const the_tempest_4_1: SceneData = {
     "speaker": "CERES",
     "lines": [
       {
-        "lineNumber": 123,
+        "lineNumber": 103,
         "text": "Highest queen of state,"
       },
       {
-        "lineNumber": 124,
+        "lineNumber": 104,
         "text": "Great Juno, comes. I know her by her gait."
       }
     ]
   },
   {
-    "speaker": "CERES",
+    "speaker": "JUNO",
     "lines": [
       {
-        "lineNumber": 125,
-        "text": "JUNO"
-      },
-      {
-        "lineNumber": 126,
+        "lineNumber": 105,
         "text": "How does my bounteous sister? Go with me"
       },
       {
-        "lineNumber": 127,
+        "lineNumber": 106,
         "text": "To bless this twain, that they may prosperous be"
       },
       {
-        "lineNumber": 128,
+        "lineNumber": 107,
         "text": "And honored in their issue."
       }
     ]
   },
   {
-    "speaker": "CERES",
+    "speaker": "JUNO",
     "lines": [
       {
-        "lineNumber": 129,
-        "text": "JUNO"
-      },
-      {
-        "lineNumber": 130,
+        "lineNumber": 108,
         "text": "Honor, riches, marriage-blessing,"
       },
       {
-        "lineNumber": 131,
+        "lineNumber": 109,
         "text": "Long continuance and increasing,"
       },
       {
-        "lineNumber": 132,
+        "lineNumber": 110,
         "text": "Hourly joys be still upon you."
       },
       {
-        "lineNumber": 133,
+        "lineNumber": 111,
         "text": "Juno sings her blessings on you."
       }
     ]
@@ -10829,60 +10229,52 @@ const the_tempest_4_1: SceneData = {
     "speaker": "CERES",
     "lines": [
       {
-        "lineNumber": 134,
-        "text": "CERES"
-      },
-      {
-        "lineNumber": 135,
+        "lineNumber": 112,
         "text": "Earth's increase, foison plenty,"
       },
       {
-        "lineNumber": 136,
+        "lineNumber": 113,
         "text": "Barns and garners never empty,"
       },
       {
-        "lineNumber": 137,
+        "lineNumber": 114,
         "text": "Vines with clust'ring bunches growing,"
       },
       {
-        "lineNumber": 138,
+        "lineNumber": 115,
         "text": "Plants with goodly burden bowing;"
       },
       {
-        "lineNumber": 139,
+        "lineNumber": 116,
         "text": "Spring come to you at the farthest"
       },
       {
-        "lineNumber": 140,
+        "lineNumber": 117,
         "text": "In the very end of harvest."
       },
       {
-        "lineNumber": 141,
+        "lineNumber": 118,
         "text": "Scarcity and want shall shun you."
       },
       {
-        "lineNumber": 142,
+        "lineNumber": 119,
         "text": "Ceres' blessing so is on you."
       }
     ]
   },
   {
-    "speaker": "CERES",
+    "speaker": "FERDINAND",
     "lines": [
       {
-        "lineNumber": 143,
-        "text": "FERDINAND"
-      },
-      {
-        "lineNumber": 144,
+        "lineNumber": 120,
         "text": "This is a most majestic vision, and"
       },
       {
-        "lineNumber": 145,
+        "lineNumber": 121,
         "text": "Harmonious charmingly. May I be bold"
       },
       {
-        "lineNumber": 146,
+        "lineNumber": 122,
         "text": "To think these spirits?"
       }
     ]
@@ -10891,15 +10283,15 @@ const the_tempest_4_1: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 147,
+        "lineNumber": 123,
         "text": "Spirits, which by mine art"
       },
       {
-        "lineNumber": 148,
+        "lineNumber": 124,
         "text": "I have from their confines called to enact"
       },
       {
-        "lineNumber": 149,
+        "lineNumber": 125,
         "text": "My present fancies."
       }
     ]
@@ -10908,15 +10300,15 @@ const the_tempest_4_1: SceneData = {
     "speaker": "FERDINAND",
     "lines": [
       {
-        "lineNumber": 150,
+        "lineNumber": 126,
         "text": "Let me live here ever."
       },
       {
-        "lineNumber": 151,
+        "lineNumber": 127,
         "text": "So rare a wondered father and a wise"
       },
       {
-        "lineNumber": 152,
+        "lineNumber": 128,
         "text": "Makes this place paradise."
       }
     ]
@@ -10925,86 +10317,82 @@ const the_tempest_4_1: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 153,
+        "lineNumber": 129,
         "text": "Sweet now, silence."
       },
       {
-        "lineNumber": 154,
+        "lineNumber": 130,
         "text": "Juno and Ceres whisper seriously."
       },
       {
-        "lineNumber": 155,
+        "lineNumber": 131,
         "text": "There's something else to do. Hush, and be mute,"
       },
       {
-        "lineNumber": 156,
+        "lineNumber": 132,
         "text": "Or else our spell is marred."
       }
     ]
   },
   {
-    "speaker": "PROSPERO",
+    "speaker": "IRIS",
     "lines": [
       {
-        "lineNumber": 157,
-        "text": "IRIS"
-      },
-      {
-        "lineNumber": 158,
+        "lineNumber": 133,
         "text": "You nymphs, called naiads of the windring brooks,"
       },
       {
-        "lineNumber": 159,
+        "lineNumber": 134,
         "text": "With your sedged crowns and ever-harmless looks,"
       },
       {
-        "lineNumber": 160,
+        "lineNumber": 135,
         "text": "Leave your crisp channels and on this green land"
       },
       {
-        "lineNumber": 161,
+        "lineNumber": 136,
         "text": "Answer your summons, Juno does command."
       },
       {
-        "lineNumber": 162,
+        "lineNumber": 137,
         "text": "Come, temperate nymphs, and help to celebrate"
       },
       {
-        "lineNumber": 163,
+        "lineNumber": 138,
         "text": "A contract of true love. Be not too late."
       }
     ]
   },
   {
-    "speaker": "PROSPERO",
+    "speaker": "IRIS",
     "lines": [
       {
-        "lineNumber": 164,
+        "lineNumber": 139,
         "text": "You sunburned sicklemen, of August weary,"
       },
       {
-        "lineNumber": 165,
+        "lineNumber": 140,
         "text": "Come hither from the furrow and be merry."
       },
       {
-        "lineNumber": 166,
+        "lineNumber": 141,
         "text": "Make holiday: your rye-straw hats put on,"
       },
       {
-        "lineNumber": 167,
+        "lineNumber": 142,
         "text": "And these fresh nymphs encounter every one"
       },
       {
-        "lineNumber": 168,
+        "lineNumber": 143,
         "text": "In country footing."
       }
     ]
   },
   {
-    "speaker": "PROSPERO",
+    "speaker": "IRIS",
     "lines": [
       {
-        "lineNumber": 169,
+        "lineNumber": 144,
         "text": "the Nymphs in a graceful dance, towards the end"
       }
     ]
@@ -11013,23 +10401,19 @@ const the_tempest_4_1: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 170,
-        "text": "PROSPERO"
-      },
-      {
-        "lineNumber": 171,
+        "lineNumber": 145,
         "text": "I had forgot that foul conspiracy"
       },
       {
-        "lineNumber": 172,
+        "lineNumber": 146,
         "text": "Of the beast Caliban and his confederates"
       },
       {
-        "lineNumber": 173,
+        "lineNumber": 147,
         "text": "Against my life. The minute of their plot"
       },
       {
-        "lineNumber": 174,
+        "lineNumber": 148,
         "text": "Is almost come.--Well done. Avoid. No more."
       }
     ]
@@ -11038,11 +10422,11 @@ const the_tempest_4_1: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 175,
+        "lineNumber": 149,
         "text": "This is strange. Your father's in some passion"
       },
       {
-        "lineNumber": 176,
+        "lineNumber": 150,
         "text": "That works him strongly."
       }
     ]
@@ -11051,11 +10435,11 @@ const the_tempest_4_1: SceneData = {
     "speaker": "MIRANDA",
     "lines": [
       {
-        "lineNumber": 177,
+        "lineNumber": 151,
         "text": "Never till this day"
       },
       {
-        "lineNumber": 178,
+        "lineNumber": 152,
         "text": "Saw I him touched with anger, so distempered."
       }
     ]
@@ -11064,75 +10448,75 @@ const the_tempest_4_1: SceneData = {
     "speaker": "MIRANDA",
     "lines": [
       {
-        "lineNumber": 179,
+        "lineNumber": 153,
         "text": "You do look, my son, in a moved sort,"
       },
       {
-        "lineNumber": 180,
+        "lineNumber": 154,
         "text": "As if you were dismayed. Be cheerful, sir."
       },
       {
-        "lineNumber": 181,
+        "lineNumber": 155,
         "text": "Our revels now are ended. These our actors,"
       },
       {
-        "lineNumber": 182,
+        "lineNumber": 156,
         "text": "As I foretold you, were all spirits and"
       },
       {
-        "lineNumber": 183,
+        "lineNumber": 157,
         "text": "Are melted into air, into thin air;"
       },
       {
-        "lineNumber": 184,
+        "lineNumber": 158,
         "text": "And like the baseless fabric of this vision,"
       },
       {
-        "lineNumber": 185,
+        "lineNumber": 159,
         "text": "The cloud-capped towers, the gorgeous palaces,"
       },
       {
-        "lineNumber": 186,
+        "lineNumber": 160,
         "text": "The solemn temples, the great globe itself,"
       },
       {
-        "lineNumber": 187,
+        "lineNumber": 161,
         "text": "Yea, all which it inherit, shall dissolve,"
       },
       {
-        "lineNumber": 188,
+        "lineNumber": 162,
         "text": "And, like this insubstantial pageant faded,"
       },
       {
-        "lineNumber": 189,
+        "lineNumber": 163,
         "text": "Leave not a rack behind. We are such stuff"
       },
       {
-        "lineNumber": 190,
+        "lineNumber": 164,
         "text": "As dreams are made on, and our little life"
       },
       {
-        "lineNumber": 191,
+        "lineNumber": 165,
         "text": "Is rounded with a sleep. Sir, I am vexed."
       },
       {
-        "lineNumber": 192,
+        "lineNumber": 166,
         "text": "Bear with my weakness. My old brain is troubled."
       },
       {
-        "lineNumber": 193,
+        "lineNumber": 167,
         "text": "Be not disturbed with my infirmity."
       },
       {
-        "lineNumber": 194,
+        "lineNumber": 168,
         "text": "If you be pleased, retire into my cell"
       },
       {
-        "lineNumber": 195,
+        "lineNumber": 169,
         "text": "And there repose. A turn or two I'll walk"
       },
       {
-        "lineNumber": 196,
+        "lineNumber": 170,
         "text": "To still my beating mind."
       }
     ]
@@ -11141,33 +10525,25 @@ const the_tempest_4_1: SceneData = {
     "speaker": "MIRANDA",
     "lines": [
       {
-        "lineNumber": 197,
+        "lineNumber": 171,
         "text": "FERDINAND/MIRANDA  We wish your peace."
       }
     ]
   },
   {
-    "speaker": "MIRANDA",
+    "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 198,
-        "text": "PROSPERO"
-      },
-      {
-        "lineNumber": 199,
+        "lineNumber": 172,
         "text": "Come with a thought. I thank thee, Ariel. Come."
       }
     ]
   },
   {
-    "speaker": "MIRANDA",
+    "speaker": "ARIEL",
     "lines": [
       {
-        "lineNumber": 200,
-        "text": "ARIEL"
-      },
-      {
-        "lineNumber": 201,
+        "lineNumber": 173,
         "text": "Thy thoughts I cleave to. What's thy pleasure?"
       }
     ]
@@ -11176,32 +10552,28 @@ const the_tempest_4_1: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 202,
+        "lineNumber": 174,
         "text": "Spirit,"
       },
       {
-        "lineNumber": 203,
+        "lineNumber": 175,
         "text": "We must prepare to meet with Caliban."
       }
     ]
   },
   {
-    "speaker": "PROSPERO",
+    "speaker": "ARIEL",
     "lines": [
       {
-        "lineNumber": 204,
-        "text": "ARIEL"
-      },
-      {
-        "lineNumber": 205,
+        "lineNumber": 176,
         "text": "Ay, my commander. When I presented Ceres,"
       },
       {
-        "lineNumber": 206,
+        "lineNumber": 177,
         "text": "I thought to have told thee of it, but I feared"
       },
       {
-        "lineNumber": 207,
+        "lineNumber": 178,
         "text": "Lest I might anger thee."
       }
     ]
@@ -11210,84 +10582,76 @@ const the_tempest_4_1: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 208,
-        "text": "PROSPERO"
-      },
-      {
-        "lineNumber": 209,
+        "lineNumber": 179,
         "text": "Say again, where didst thou leave these varlets?"
       }
     ]
   },
   {
-    "speaker": "PROSPERO",
+    "speaker": "ARIEL",
     "lines": [
       {
-        "lineNumber": 210,
-        "text": "ARIEL"
-      },
-      {
-        "lineNumber": 211,
+        "lineNumber": 180,
         "text": "I told you, sir, they were red-hot with drinking,"
       },
       {
-        "lineNumber": 212,
+        "lineNumber": 181,
         "text": "So full of valor that they smote the air"
       },
       {
-        "lineNumber": 213,
+        "lineNumber": 182,
         "text": "For breathing in their faces, beat the ground"
       },
       {
-        "lineNumber": 214,
+        "lineNumber": 183,
         "text": "For kissing of their feet; yet always bending"
       },
       {
-        "lineNumber": 215,
+        "lineNumber": 184,
         "text": "Towards their project. Then I beat my tabor,"
       },
       {
-        "lineNumber": 216,
+        "lineNumber": 185,
         "text": "At which, like unbacked colts, they pricked their"
       },
       {
-        "lineNumber": 217,
+        "lineNumber": 186,
         "text": "ears,"
       },
       {
-        "lineNumber": 218,
+        "lineNumber": 187,
         "text": "Advanced their eyelids, lifted up their noses"
       },
       {
-        "lineNumber": 219,
+        "lineNumber": 188,
         "text": "As they smelt music. So I charmed their ears"
       },
       {
-        "lineNumber": 220,
+        "lineNumber": 189,
         "text": "That, calf-like, they my lowing followed through"
       },
       {
-        "lineNumber": 221,
+        "lineNumber": 190,
         "text": "Toothed briers, sharp furzes, pricking gorse, and"
       },
       {
-        "lineNumber": 222,
+        "lineNumber": 191,
         "text": "thorns,"
       },
       {
-        "lineNumber": 223,
+        "lineNumber": 192,
         "text": "Which entered their frail shins. At last I left them"
       },
       {
-        "lineNumber": 224,
+        "lineNumber": 193,
         "text": "I' th' filthy-mantled pool beyond your cell,"
       },
       {
-        "lineNumber": 225,
+        "lineNumber": 194,
         "text": "There dancing up to th' chins, that the foul lake"
       },
       {
-        "lineNumber": 226,
+        "lineNumber": 195,
         "text": "O'erstunk their feet."
       }
     ]
@@ -11296,19 +10660,19 @@ const the_tempest_4_1: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 227,
+        "lineNumber": 196,
         "text": "This was well done, my bird."
       },
       {
-        "lineNumber": 228,
+        "lineNumber": 197,
         "text": "Thy shape invisible retain thou still."
       },
       {
-        "lineNumber": 229,
+        "lineNumber": 198,
         "text": "The trumpery in my house, go bring it hither"
       },
       {
-        "lineNumber": 230,
+        "lineNumber": 199,
         "text": "For stale to catch these thieves."
       }
     ]
@@ -11317,31 +10681,27 @@ const the_tempest_4_1: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 231,
-        "text": "PROSPERO"
-      },
-      {
-        "lineNumber": 232,
+        "lineNumber": 200,
         "text": "A devil, a born devil, on whose nature"
       },
       {
-        "lineNumber": 233,
+        "lineNumber": 201,
         "text": "Nurture can never stick; on whom my pains,"
       },
       {
-        "lineNumber": 234,
+        "lineNumber": 202,
         "text": "Humanely taken, all, all lost, quite lost;"
       },
       {
-        "lineNumber": 235,
+        "lineNumber": 203,
         "text": "And as with age his body uglier grows,"
       },
       {
-        "lineNumber": 236,
+        "lineNumber": 204,
         "text": "So his mind cankers. I will plague them all"
       },
       {
-        "lineNumber": 237,
+        "lineNumber": 205,
         "text": "Even to roaring."
       }
     ]
@@ -11350,7 +10710,7 @@ const the_tempest_4_1: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 238,
+        "lineNumber": 206,
         "text": "Come, hang them on this line."
       }
     ]
@@ -11359,11 +10719,11 @@ const the_tempest_4_1: SceneData = {
     "speaker": "CALIBAN",
     "lines": [
       {
-        "lineNumber": 239,
+        "lineNumber": 207,
         "text": "Pray you, tread softly, that the blind mole"
       },
       {
-        "lineNumber": 240,
+        "lineNumber": 208,
         "text": "may not hear a footfall. We now are near his cell."
       }
     ]
@@ -11372,15 +10732,15 @@ const the_tempest_4_1: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 241,
+        "lineNumber": 209,
         "text": "Monster, your fairy, which you say is a"
       },
       {
-        "lineNumber": 242,
+        "lineNumber": 210,
         "text": "harmless fairy, has done little better than played the"
       },
       {
-        "lineNumber": 243,
+        "lineNumber": 211,
         "text": "jack with us."
       }
     ]
@@ -11389,11 +10749,11 @@ const the_tempest_4_1: SceneData = {
     "speaker": "TRINCULO",
     "lines": [
       {
-        "lineNumber": 244,
+        "lineNumber": 212,
         "text": "Monster, I do smell all horse piss, at which"
       },
       {
-        "lineNumber": 245,
+        "lineNumber": 213,
         "text": "my nose is in great indignation."
       }
     ]
@@ -11402,11 +10762,11 @@ const the_tempest_4_1: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 246,
+        "lineNumber": 214,
         "text": "So is mine.--Do you hear, monster. If I"
       },
       {
-        "lineNumber": 247,
+        "lineNumber": 215,
         "text": "should take a displeasure against you, look you--"
       }
     ]
@@ -11415,36 +10775,32 @@ const the_tempest_4_1: SceneData = {
     "speaker": "TRINCULO",
     "lines": [
       {
-        "lineNumber": 248,
+        "lineNumber": 216,
         "text": "Thou wert but a lost monster."
       }
     ]
   },
   {
-    "speaker": "TRINCULO",
+    "speaker": "CALIBAN",
     "lines": [
       {
-        "lineNumber": 249,
-        "text": "CALIBAN"
-      },
-      {
-        "lineNumber": 250,
+        "lineNumber": 217,
         "text": "Good my lord, give me thy favor still."
       },
       {
-        "lineNumber": 251,
+        "lineNumber": 218,
         "text": "Be patient, for the prize I'll bring thee to"
       },
       {
-        "lineNumber": 252,
+        "lineNumber": 219,
         "text": "Shall hoodwink this mischance. Therefore speak"
       },
       {
-        "lineNumber": 253,
+        "lineNumber": 220,
         "text": "softly."
       },
       {
-        "lineNumber": 254,
+        "lineNumber": 221,
         "text": "All's hushed as midnight yet."
       }
     ]
@@ -11453,7 +10809,7 @@ const the_tempest_4_1: SceneData = {
     "speaker": "TRINCULO",
     "lines": [
       {
-        "lineNumber": 255,
+        "lineNumber": 222,
         "text": "Ay, but to lose our bottles in the pool!"
       }
     ]
@@ -11462,11 +10818,11 @@ const the_tempest_4_1: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 256,
+        "lineNumber": 223,
         "text": "There is not only disgrace and dishonor in"
       },
       {
-        "lineNumber": 257,
+        "lineNumber": 224,
         "text": "that, monster, but an infinite loss."
       }
     ]
@@ -11475,11 +10831,11 @@ const the_tempest_4_1: SceneData = {
     "speaker": "TRINCULO",
     "lines": [
       {
-        "lineNumber": 258,
+        "lineNumber": 225,
         "text": "That's more to me than my wetting. Yet this"
       },
       {
-        "lineNumber": 259,
+        "lineNumber": 226,
         "text": "is your harmless fairy, monster!"
       }
     ]
@@ -11488,40 +10844,36 @@ const the_tempest_4_1: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 260,
+        "lineNumber": 227,
         "text": "I will fetch off my bottle, though I be o'er"
       },
       {
-        "lineNumber": 261,
+        "lineNumber": 228,
         "text": "ears for my labor."
       }
     ]
   },
   {
-    "speaker": "STEPHANO",
+    "speaker": "CALIBAN",
     "lines": [
       {
-        "lineNumber": 262,
-        "text": "CALIBAN"
-      },
-      {
-        "lineNumber": 263,
+        "lineNumber": 229,
         "text": "Prithee, my king, be quiet. Seest thou here,"
       },
       {
-        "lineNumber": 264,
+        "lineNumber": 230,
         "text": "This is the mouth o' th' cell. No noise, and enter."
       },
       {
-        "lineNumber": 265,
+        "lineNumber": 231,
         "text": "Do that good mischief which may make this island"
       },
       {
-        "lineNumber": 266,
+        "lineNumber": 232,
         "text": "Thine own forever, and I, thy Caliban,"
       },
       {
-        "lineNumber": 267,
+        "lineNumber": 233,
         "text": "For aye thy foot-licker."
       }
     ]
@@ -11530,11 +10882,11 @@ const the_tempest_4_1: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 268,
+        "lineNumber": 234,
         "text": "Give me thy hand. I do begin to have bloody"
       },
       {
-        "lineNumber": 269,
+        "lineNumber": 235,
         "text": "thoughts."
       }
     ]
@@ -11543,28 +10895,24 @@ const the_tempest_4_1: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 270,
+        "lineNumber": 236,
         "text": "TRINCULO, [seeing the apparel]  O King Stephano, O"
       },
       {
-        "lineNumber": 271,
+        "lineNumber": 237,
         "text": "peer, O worthy Stephano, look what a wardrobe"
       },
       {
-        "lineNumber": 272,
+        "lineNumber": 238,
         "text": "here is for thee!"
       }
     ]
   },
   {
-    "speaker": "STEPHANO",
+    "speaker": "CALIBAN",
     "lines": [
       {
-        "lineNumber": 273,
-        "text": "CALIBAN"
-      },
-      {
-        "lineNumber": 274,
+        "lineNumber": 239,
         "text": "Let it alone, thou fool. It is but trash."
       }
     ]
@@ -11573,15 +10921,15 @@ const the_tempest_4_1: SceneData = {
     "speaker": "TRINCULO",
     "lines": [
       {
-        "lineNumber": 275,
+        "lineNumber": 240,
         "text": "Oho, monster, we know what belongs to a"
       },
       {
-        "lineNumber": 276,
+        "lineNumber": 241,
         "text": "frippery. [He puts on one of the gowns.] O King"
       },
       {
-        "lineNumber": 277,
+        "lineNumber": 242,
         "text": "Stephano!"
       }
     ]
@@ -11590,11 +10938,11 @@ const the_tempest_4_1: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 278,
+        "lineNumber": 243,
         "text": "Put off that gown, Trinculo. By this hand,"
       },
       {
-        "lineNumber": 279,
+        "lineNumber": 244,
         "text": "I'll have that gown."
       }
     ]
@@ -11603,36 +10951,32 @@ const the_tempest_4_1: SceneData = {
     "speaker": "TRINCULO",
     "lines": [
       {
-        "lineNumber": 280,
+        "lineNumber": 245,
         "text": "Thy Grace shall have it."
       }
     ]
   },
   {
-    "speaker": "TRINCULO",
+    "speaker": "CALIBAN",
     "lines": [
       {
-        "lineNumber": 281,
-        "text": "CALIBAN"
-      },
-      {
-        "lineNumber": 282,
+        "lineNumber": 246,
         "text": "The dropsy drown this fool! What do you mean"
       },
       {
-        "lineNumber": 283,
+        "lineNumber": 247,
         "text": "To dote thus on such luggage? Let 't alone,"
       },
       {
-        "lineNumber": 284,
+        "lineNumber": 248,
         "text": "And do the murder first. If he awake,"
       },
       {
-        "lineNumber": 285,
+        "lineNumber": 249,
         "text": "From toe to crown he'll fill our skins with pinches,"
       },
       {
-        "lineNumber": 286,
+        "lineNumber": 250,
         "text": "Make us strange stuff."
       }
     ]
@@ -11641,7 +10985,7 @@ const the_tempest_4_1: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 287,
+        "lineNumber": 251,
         "text": "Be you quiet, monster.--Mistress Line, is"
       }
     ]
@@ -11650,11 +10994,11 @@ const the_tempest_4_1: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 288,
+        "lineNumber": 252,
         "text": "Now is the jerkin under the line.--Now, jerkin, you"
       },
       {
-        "lineNumber": 289,
+        "lineNumber": 253,
         "text": "are like to lose your hair and prove a bald jerkin."
       }
     ]
@@ -11663,11 +11007,11 @@ const the_tempest_4_1: SceneData = {
     "speaker": "TRINCULO",
     "lines": [
       {
-        "lineNumber": 290,
+        "lineNumber": 254,
         "text": "Do, do. We steal by line and level, an 't like"
       },
       {
-        "lineNumber": 291,
+        "lineNumber": 255,
         "text": "your Grace."
       }
     ]
@@ -11676,19 +11020,19 @@ const the_tempest_4_1: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 292,
+        "lineNumber": 256,
         "text": "I thank thee for that jest. Here's a garment"
       },
       {
-        "lineNumber": 293,
+        "lineNumber": 257,
         "text": "for 't. Wit shall not go unrewarded while I am king"
       },
       {
-        "lineNumber": 294,
+        "lineNumber": 258,
         "text": "of this country. \"Steal by line and level\" is an excellent"
       },
       {
-        "lineNumber": 295,
+        "lineNumber": 259,
         "text": "pass of pate. There's another garment for 't."
       }
     ]
@@ -11697,32 +11041,28 @@ const the_tempest_4_1: SceneData = {
     "speaker": "TRINCULO",
     "lines": [
       {
-        "lineNumber": 296,
+        "lineNumber": 260,
         "text": "Monster, come, put some lime upon your"
       },
       {
-        "lineNumber": 297,
+        "lineNumber": 261,
         "text": "fingers, and away with the rest."
       }
     ]
   },
   {
-    "speaker": "TRINCULO",
+    "speaker": "CALIBAN",
     "lines": [
       {
-        "lineNumber": 298,
-        "text": "CALIBAN"
-      },
-      {
-        "lineNumber": 299,
+        "lineNumber": 262,
         "text": "I will have none on 't. We shall lose our time"
       },
       {
-        "lineNumber": 300,
+        "lineNumber": 263,
         "text": "And all be turned to barnacles or to apes"
       },
       {
-        "lineNumber": 301,
+        "lineNumber": 264,
         "text": "With foreheads villainous low."
       }
     ]
@@ -11731,15 +11071,15 @@ const the_tempest_4_1: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 302,
+        "lineNumber": 265,
         "text": "Monster, lay to your fingers. Help to bear"
       },
       {
-        "lineNumber": 303,
+        "lineNumber": 266,
         "text": "this away where my hogshead of wine is, or I'll turn"
       },
       {
-        "lineNumber": 304,
+        "lineNumber": 267,
         "text": "you out of my kingdom. Go to, carry this."
       }
     ]
@@ -11748,7 +11088,7 @@ const the_tempest_4_1: SceneData = {
     "speaker": "TRINCULO",
     "lines": [
       {
-        "lineNumber": 305,
+        "lineNumber": 268,
         "text": "And this."
       }
     ]
@@ -11757,7 +11097,7 @@ const the_tempest_4_1: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 306,
+        "lineNumber": 269,
         "text": "Ay, and this."
       }
     ]
@@ -11766,7 +11106,7 @@ const the_tempest_4_1: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 307,
+        "lineNumber": 270,
         "text": "Hey, Mountain, hey!"
       }
     ]
@@ -11775,45 +11115,41 @@ const the_tempest_4_1: SceneData = {
     "speaker": "ARIEL",
     "lines": [
       {
-        "lineNumber": 308,
+        "lineNumber": 271,
         "text": "Silver! There it goes, Silver!"
       }
     ]
   },
   {
-    "speaker": "ARIEL",
+    "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 309,
-        "text": "PROSPERO"
-      },
-      {
-        "lineNumber": 310,
+        "lineNumber": 272,
         "text": "Fury, Fury! There, Tyrant, there! Hark, hark!"
       }
     ]
   },
   {
-    "speaker": "ARIEL",
+    "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 311,
+        "lineNumber": 273,
         "text": "Go, charge my goblins that they grind their joints"
       },
       {
-        "lineNumber": 312,
+        "lineNumber": 274,
         "text": "With dry convulsions, shorten up their sinews"
       },
       {
-        "lineNumber": 313,
+        "lineNumber": 275,
         "text": "With aged cramps, and more pinch-spotted make"
       },
       {
-        "lineNumber": 314,
+        "lineNumber": 276,
         "text": "them"
       },
       {
-        "lineNumber": 315,
+        "lineNumber": 277,
         "text": "Than pard or cat o' mountain."
       }
     ]
@@ -11822,177 +11158,164 @@ const the_tempest_4_1: SceneData = {
     "speaker": "ARIEL",
     "lines": [
       {
-        "lineNumber": 316,
+        "lineNumber": 278,
         "text": "Hark, they roar."
       }
     ]
   },
   {
-    "speaker": "ARIEL",
+    "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 317,
-        "text": "PROSPERO"
-      },
-      {
-        "lineNumber": 318,
+        "lineNumber": 279,
         "text": "Let them be hunted soundly. At this hour"
       },
       {
-        "lineNumber": 319,
+        "lineNumber": 280,
         "text": "Lies at my mercy all mine enemies."
       },
       {
-        "lineNumber": 320,
+        "lineNumber": 281,
         "text": "Shortly shall all my labors end, and thou"
       },
       {
-        "lineNumber": 321,
+        "lineNumber": 282,
         "text": "Shalt have the air at freedom. For a little"
       },
       {
-        "lineNumber": 322,
+        "lineNumber": 283,
         "text": "Follow and do me service."
-      }
-    ]
-  },
-  {
-    "speaker": "ARIEL",
-    "lines": [
-      {
-        "lineNumber": 323,
-        "text": "====="
       }
     ]
   }
 ],
   stageDirections: [
   {
-    "position": 1,
+    "position": 0,
     "text": "Enter Prospero, Ferdinand, and Miranda."
   },
   {
-    "position": 1,
+    "position": 0,
     "text": "ROSPERO, [to Ferdinand"
   },
   {
-    "position": 6,
+    "position": 4,
     "text": "Ferdinand and Miranda move aside."
   },
   {
-    "position": 7,
+    "position": 5,
     "text": "Enter Ariel."
   },
   {
-    "position": 14,
+    "position": 12,
     "text": "He exits."
   },
   {
-    "position": 14,
+    "position": 12,
     "text": "ROSPERO, [to Ferdinand"
   },
   {
-    "position": 17,
+    "position": 15,
     "text": "Soft music."
   },
   {
-    "position": 18,
+    "position": 16,
     "text": "Enter Iris."
   },
   {
-    "position": 19,
+    "position": 17,
     "text": "Enter Ceres."
   },
   {
-    "position": 23,
+    "position": 21,
     "text": "Juno descends."
   },
   {
-    "position": 25,
+    "position": 23,
     "text": "They sing."
   },
   {
-    "position": 30,
+    "position": 28,
     "text": "Juno and Ceres whisper"
   },
   {
-    "position": 30,
+    "position": 28,
     "text": "nd send Iris on employment."
   },
   {
-    "position": 32,
+    "position": 30,
     "text": "Enter certain Nymphs."
   },
   {
-    "position": 33,
+    "position": 31,
     "text": "Enter certain Reapers, properly habited. They join wit"
   },
   {
-    "position": 34,
+    "position": 32,
     "text": "hereof Prospero starts suddenly and speaks."
   },
   {
-    "position": 35,
+    "position": 33,
     "text": "To a strange, hollow, and confused noise"
   },
   {
-    "position": 35,
+    "position": 33,
     "text": "he spirits heavily vanish."
   },
   {
-    "position": 35,
+    "position": 33,
     "text": "ERDINAND, [to Miranda"
   },
   {
-    "position": 37,
+    "position": 35,
     "text": "ROSPERO, [to Ferdinand"
   },
   {
-    "position": 39,
+    "position": 37,
     "text": "They exit."
   },
   {
-    "position": 39,
+    "position": 37,
     "text": "Enter Ariel."
   },
   {
-    "position": 46,
+    "position": 44,
     "text": "RIEL  I go, I go.\t[He exits."
   },
   {
-    "position": 47,
+    "position": 45,
     "text": "Enter Ariel, loaden with glistering apparel, etc."
   },
   {
-    "position": 48,
+    "position": 46,
     "text": "Enter Caliban, Stephano, and Trinculo, all wet, a"
   },
   {
-    "position": 48,
+    "position": 46,
     "text": "rospero and Ariel look on."
   },
   {
-    "position": 67,
+    "position": 65,
     "text": "ot this my jerkin?\t[He takes a jacket from the tree."
   },
   {
-    "position": 75,
+    "position": 73,
     "text": "A noise of hunters heard."
   },
   {
-    "position": 75,
+    "position": 73,
     "text": "Enter divers spirits in shape of dogs and hounds"
   },
   {
-    "position": 75,
+    "position": 73,
     "text": "unting them about, Prospero and Ariel setting them on."
   },
   {
-    "position": 78,
+    "position": 76,
     "text": "Caliban, Stephano, and Trinculo are driven off."
   },
   {
-    "position": 81,
+    "position": 79,
     "text": "They exit."
   }
 ],
@@ -12005,31 +11328,18 @@ const the_tempest_5_1: SceneData = {
   scene: 1,
   speeches: [
   {
-    "speaker": "ARIEL",
+    "speaker": "PROSPERO",
     "lines": [
       {
         "lineNumber": 1,
-        "text": "======="
-      }
-    ]
-  },
-  {
-    "speaker": "ARIEL",
-    "lines": [
-      {
-        "lineNumber": 2,
-        "text": "PROSPERO"
-      },
-      {
-        "lineNumber": 3,
         "text": "Now does my project gather to a head."
       },
       {
-        "lineNumber": 4,
+        "lineNumber": 2,
         "text": "My charms crack not, my spirits obey, and time"
       },
       {
-        "lineNumber": 5,
+        "lineNumber": 3,
         "text": "Goes upright with his carriage.--How's the day?"
       }
     ]
@@ -12038,15 +11348,11 @@ const the_tempest_5_1: SceneData = {
     "speaker": "ARIEL",
     "lines": [
       {
-        "lineNumber": 6,
-        "text": "ARIEL"
-      },
-      {
-        "lineNumber": 7,
+        "lineNumber": 4,
         "text": "On the sixth hour, at which time, my lord,"
       },
       {
-        "lineNumber": 8,
+        "lineNumber": 5,
         "text": "You said our work should cease."
       }
     ]
@@ -12055,15 +11361,15 @@ const the_tempest_5_1: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 9,
+        "lineNumber": 6,
         "text": "I did say so"
       },
       {
-        "lineNumber": 10,
+        "lineNumber": 7,
         "text": "When first I raised the tempest. Say, my spirit,"
       },
       {
-        "lineNumber": 11,
+        "lineNumber": 8,
         "text": "How fares the King and 's followers?"
       }
     ]
@@ -12072,67 +11378,67 @@ const the_tempest_5_1: SceneData = {
     "speaker": "ARIEL",
     "lines": [
       {
-        "lineNumber": 12,
+        "lineNumber": 9,
         "text": "Confined"
       },
       {
-        "lineNumber": 13,
+        "lineNumber": 10,
         "text": "together"
       },
       {
-        "lineNumber": 14,
+        "lineNumber": 11,
         "text": "In the same fashion as you gave in charge,"
       },
       {
-        "lineNumber": 15,
+        "lineNumber": 12,
         "text": "Just as you left them; all prisoners, sir,"
       },
       {
-        "lineNumber": 16,
+        "lineNumber": 13,
         "text": "In the line grove which weather-fends your cell."
       },
       {
-        "lineNumber": 17,
+        "lineNumber": 14,
         "text": "They cannot budge till your release. The King,"
       },
       {
-        "lineNumber": 18,
+        "lineNumber": 15,
         "text": "His brother, and yours abide all three distracted,"
       },
       {
-        "lineNumber": 19,
+        "lineNumber": 16,
         "text": "And the remainder mourning over them,"
       },
       {
-        "lineNumber": 20,
+        "lineNumber": 17,
         "text": "Brimful of sorrow and dismay; but chiefly"
       },
       {
-        "lineNumber": 21,
+        "lineNumber": 18,
         "text": "Him that you termed, sir, the good old Lord"
       },
       {
-        "lineNumber": 22,
+        "lineNumber": 19,
         "text": "Gonzalo."
       },
       {
-        "lineNumber": 23,
+        "lineNumber": 20,
         "text": "His tears runs down his beard like winter's drops"
       },
       {
-        "lineNumber": 24,
+        "lineNumber": 21,
         "text": "From eaves of reeds. Your charm so strongly works"
       },
       {
-        "lineNumber": 25,
+        "lineNumber": 22,
         "text": "'em"
       },
       {
-        "lineNumber": 26,
+        "lineNumber": 23,
         "text": "That if you now beheld them, your affections"
       },
       {
-        "lineNumber": 27,
+        "lineNumber": 24,
         "text": "Would become tender."
       }
     ]
@@ -12141,20 +11447,16 @@ const the_tempest_5_1: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 28,
+        "lineNumber": 25,
         "text": "Dost thou think so, spirit?"
       }
     ]
   },
   {
-    "speaker": "PROSPERO",
+    "speaker": "ARIEL",
     "lines": [
       {
-        "lineNumber": 29,
-        "text": "ARIEL"
-      },
-      {
-        "lineNumber": 30,
+        "lineNumber": 26,
         "text": "Mine would, sir, were I human."
       }
     ]
@@ -12163,59 +11465,59 @@ const the_tempest_5_1: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 31,
+        "lineNumber": 27,
         "text": "And mine shall."
       },
       {
-        "lineNumber": 32,
+        "lineNumber": 28,
         "text": "Hast thou, which art but air, a touch, a feeling"
       },
       {
-        "lineNumber": 33,
+        "lineNumber": 29,
         "text": "Of their afflictions, and shall not myself,"
       },
       {
-        "lineNumber": 34,
+        "lineNumber": 30,
         "text": "One of their kind, that relish all as sharply"
       },
       {
-        "lineNumber": 35,
+        "lineNumber": 31,
         "text": "Passion as they, be kindlier moved than thou art?"
       },
       {
-        "lineNumber": 36,
+        "lineNumber": 32,
         "text": "Though with their high wrongs I am struck to th'"
       },
       {
-        "lineNumber": 37,
+        "lineNumber": 33,
         "text": "quick,"
       },
       {
-        "lineNumber": 38,
+        "lineNumber": 34,
         "text": "Yet with my nobler reason 'gainst my fury"
       },
       {
-        "lineNumber": 39,
+        "lineNumber": 35,
         "text": "Do I take part. The rarer action is"
       },
       {
-        "lineNumber": 40,
+        "lineNumber": 36,
         "text": "In virtue than in vengeance. They being penitent,"
       },
       {
-        "lineNumber": 41,
+        "lineNumber": 37,
         "text": "The sole drift of my purpose doth extend"
       },
       {
-        "lineNumber": 42,
+        "lineNumber": 38,
         "text": "Not a frown further. Go, release them, Ariel."
       },
       {
-        "lineNumber": 43,
+        "lineNumber": 39,
         "text": "My charms I'll break, their senses I'll restore,"
       },
       {
-        "lineNumber": 44,
+        "lineNumber": 40,
         "text": "And they shall be themselves."
       }
     ]
@@ -12224,338 +11526,330 @@ const the_tempest_5_1: SceneData = {
     "speaker": "ARIEL",
     "lines": [
       {
-        "lineNumber": 45,
+        "lineNumber": 41,
         "text": "I'll fetch them, sir."
       }
     ]
   },
   {
-    "speaker": "ARIEL",
+    "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 46,
-        "text": "PROSPERO"
-      },
-      {
-        "lineNumber": 47,
+        "lineNumber": 42,
         "text": "You elves of hills, brooks, standing lakes, and groves,"
       },
       {
-        "lineNumber": 48,
+        "lineNumber": 43,
         "text": "And you that on the sands with printless foot"
       },
       {
-        "lineNumber": 49,
+        "lineNumber": 44,
         "text": "Do chase the ebbing Neptune, and do fly him"
       },
       {
-        "lineNumber": 50,
+        "lineNumber": 45,
         "text": "When he comes back; you demi-puppets that"
       },
       {
-        "lineNumber": 51,
+        "lineNumber": 46,
         "text": "By moonshine do the green sour ringlets make,"
       },
       {
-        "lineNumber": 52,
+        "lineNumber": 47,
         "text": "Whereof the ewe not bites; and you whose pastime"
       },
       {
-        "lineNumber": 53,
+        "lineNumber": 48,
         "text": "Is to make midnight mushrumps, that rejoice"
       },
       {
-        "lineNumber": 54,
+        "lineNumber": 49,
         "text": "To hear the solemn curfew; by whose aid,"
       },
       {
-        "lineNumber": 55,
+        "lineNumber": 50,
         "text": "Weak masters though you be, I have bedimmed"
       },
       {
-        "lineNumber": 56,
+        "lineNumber": 51,
         "text": "The noontide sun, called forth the mutinous winds,"
       },
       {
-        "lineNumber": 57,
+        "lineNumber": 52,
         "text": "And 'twixt the green sea and the azured vault"
       },
       {
-        "lineNumber": 58,
+        "lineNumber": 53,
         "text": "Set roaring war; to the dread rattling thunder"
       },
       {
-        "lineNumber": 59,
+        "lineNumber": 54,
         "text": "Have I given fire, and rifted Jove's stout oak"
       },
       {
-        "lineNumber": 60,
+        "lineNumber": 55,
         "text": "With his own bolt; the strong-based promontory"
       },
       {
-        "lineNumber": 61,
+        "lineNumber": 56,
         "text": "Have I made shake, and by the spurs plucked up"
       },
       {
-        "lineNumber": 62,
+        "lineNumber": 57,
         "text": "The pine and cedar; graves at my command"
       },
       {
-        "lineNumber": 63,
+        "lineNumber": 58,
         "text": "Have waked their sleepers, oped, and let 'em forth"
       },
       {
-        "lineNumber": 64,
+        "lineNumber": 59,
         "text": "By my so potent art. But this rough magic"
       },
       {
-        "lineNumber": 65,
+        "lineNumber": 60,
         "text": "I here abjure, and when I have required"
       },
       {
-        "lineNumber": 66,
+        "lineNumber": 61,
         "text": "Some heavenly music, which even now I do,"
       }
     ]
   },
   {
-    "speaker": "ARIEL",
+    "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 67,
+        "lineNumber": 62,
         "text": "To work mine end upon their senses that"
       },
       {
-        "lineNumber": 68,
+        "lineNumber": 63,
         "text": "This airy charm is for, I'll break my staff,"
       },
       {
-        "lineNumber": 69,
+        "lineNumber": 64,
         "text": "Bury it certain fathoms in the earth,"
       },
       {
-        "lineNumber": 70,
+        "lineNumber": 65,
         "text": "And deeper than did ever plummet sound"
       }
     ]
   },
   {
-    "speaker": "ARIEL",
+    "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 71,
+        "lineNumber": 66,
         "text": "gesture, attended by Gonzalo; Sebastian and Antonio in"
       },
       {
-        "lineNumber": 72,
+        "lineNumber": 67,
         "text": "like manner attended by Adrian and Francisco. They all"
       },
       {
-        "lineNumber": 73,
+        "lineNumber": 68,
         "text": "enter the circle which Prospero had made, and there"
       }
     ]
   },
   {
-    "speaker": "ARIEL",
+    "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 74,
+        "lineNumber": 69,
         "text": "A solemn air, and the best comforter"
       },
       {
-        "lineNumber": 75,
+        "lineNumber": 70,
         "text": "To an unsettled fancy, cure thy brains,"
       },
       {
-        "lineNumber": 76,
+        "lineNumber": 71,
         "text": "Now useless, boiled within thy skull. There stand,"
       },
       {
-        "lineNumber": 77,
+        "lineNumber": 72,
         "text": "For you are spell-stopped.--"
       },
       {
-        "lineNumber": 78,
+        "lineNumber": 73,
         "text": "Holy Gonzalo, honorable man,"
       },
       {
-        "lineNumber": 79,
+        "lineNumber": 74,
         "text": "Mine eyes, e'en sociable to the show of thine,"
       },
       {
-        "lineNumber": 80,
+        "lineNumber": 75,
         "text": "Fall fellowly drops.--The charm dissolves apace,"
       },
       {
-        "lineNumber": 81,
+        "lineNumber": 76,
         "text": "And as the morning steals upon the night,"
       },
       {
-        "lineNumber": 82,
+        "lineNumber": 77,
         "text": "Melting the darkness, so their rising senses"
       },
       {
-        "lineNumber": 83,
+        "lineNumber": 78,
         "text": "Begin to chase the ignorant fumes that mantle"
       },
       {
-        "lineNumber": 84,
+        "lineNumber": 79,
         "text": "Their clearer reason.--O good Gonzalo,"
       },
       {
-        "lineNumber": 85,
+        "lineNumber": 80,
         "text": "My true preserver and a loyal sir"
       },
       {
-        "lineNumber": 86,
+        "lineNumber": 81,
         "text": "To him thou follow'st, I will pay thy graces"
       },
       {
-        "lineNumber": 87,
+        "lineNumber": 82,
         "text": "Home, both in word and deed.--Most cruelly"
       },
       {
-        "lineNumber": 88,
+        "lineNumber": 83,
         "text": "Didst thou, Alonso, use me and my daughter."
       },
       {
-        "lineNumber": 89,
+        "lineNumber": 84,
         "text": "Thy brother was a furtherer in the act.--"
       },
       {
-        "lineNumber": 90,
+        "lineNumber": 85,
         "text": "Thou art pinched for 't now, Sebastian.--Flesh and"
       },
       {
-        "lineNumber": 91,
+        "lineNumber": 86,
         "text": "blood,"
       },
       {
-        "lineNumber": 92,
+        "lineNumber": 87,
         "text": "You, brother mine, that entertained ambition,"
       },
       {
-        "lineNumber": 93,
+        "lineNumber": 88,
         "text": "Expelled remorse and nature, whom, with Sebastian,"
       },
       {
-        "lineNumber": 94,
+        "lineNumber": 89,
         "text": "Whose inward pinches therefore are most strong,"
       },
       {
-        "lineNumber": 95,
+        "lineNumber": 90,
         "text": "Would here have killed your king, I do forgive thee,"
       },
       {
-        "lineNumber": 96,
+        "lineNumber": 91,
         "text": "Unnatural though thou art.--Their understanding"
       },
       {
-        "lineNumber": 97,
+        "lineNumber": 92,
         "text": "Begins to swell, and the approaching tide"
       },
       {
-        "lineNumber": 98,
+        "lineNumber": 93,
         "text": "Will shortly fill the reasonable shore"
       },
       {
-        "lineNumber": 99,
+        "lineNumber": 94,
         "text": "That now lies foul and muddy. Not one of them"
       },
       {
-        "lineNumber": 100,
+        "lineNumber": 95,
         "text": "That yet looks on me or would know me.--Ariel,"
       },
       {
-        "lineNumber": 101,
+        "lineNumber": 96,
         "text": "Fetch me the hat and rapier in my cell."
       }
     ]
   },
   {
-    "speaker": "ARIEL",
+    "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 102,
+        "lineNumber": 97,
         "text": "I will discase me and myself present"
       },
       {
-        "lineNumber": 103,
+        "lineNumber": 98,
         "text": "As I was sometime Milan.--Quickly, spirit,"
       },
       {
-        "lineNumber": 104,
+        "lineNumber": 99,
         "text": "Thou shalt ere long be free."
       }
     ]
   },
   {
-    "speaker": "ARIEL",
+    "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 105,
+        "lineNumber": 100,
         "text": "Where the bee sucks, there suck I."
       },
       {
-        "lineNumber": 106,
+        "lineNumber": 101,
         "text": "In a cowslip's bell I lie."
       },
       {
-        "lineNumber": 107,
+        "lineNumber": 102,
         "text": "There I couch when owls do cry."
       },
       {
-        "lineNumber": 108,
+        "lineNumber": 103,
         "text": "On the bat's back I do fly"
       },
       {
-        "lineNumber": 109,
+        "lineNumber": 104,
         "text": "After summer merrily."
       },
       {
-        "lineNumber": 110,
+        "lineNumber": 105,
         "text": "Merrily, merrily shall I live now"
       },
       {
-        "lineNumber": 111,
+        "lineNumber": 106,
         "text": "Under the blossom that hangs on the bow."
       }
     ]
   },
   {
-    "speaker": "ARIEL",
+    "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 112,
-        "text": "PROSPERO"
-      },
-      {
-        "lineNumber": 113,
+        "lineNumber": 107,
         "text": "Why, that's my dainty Ariel. I shall miss"
       },
       {
-        "lineNumber": 114,
+        "lineNumber": 108,
         "text": "Thee, but yet thou shalt have freedom. So, so, so."
       },
       {
-        "lineNumber": 115,
+        "lineNumber": 109,
         "text": "To the King's ship, invisible as thou art."
       },
       {
-        "lineNumber": 116,
+        "lineNumber": 110,
         "text": "There shalt thou find the mariners asleep"
       },
       {
-        "lineNumber": 117,
+        "lineNumber": 111,
         "text": "Under the hatches. The master and the boatswain"
       },
       {
-        "lineNumber": 118,
+        "lineNumber": 112,
         "text": "Being awake, enforce them to this place,"
       },
       {
-        "lineNumber": 119,
+        "lineNumber": 113,
         "text": "And presently, I prithee."
       }
     ]
@@ -12564,66 +11858,58 @@ const the_tempest_5_1: SceneData = {
     "speaker": "ARIEL",
     "lines": [
       {
-        "lineNumber": 120,
-        "text": "ARIEL"
-      },
-      {
-        "lineNumber": 121,
+        "lineNumber": 114,
         "text": "I drink the air before me, and return"
       }
     ]
   },
   {
-    "speaker": "ARIEL",
+    "speaker": "GONZALO",
     "lines": [
       {
-        "lineNumber": 122,
-        "text": "GONZALO"
-      },
-      {
-        "lineNumber": 123,
+        "lineNumber": 115,
         "text": "All torment, trouble, wonder, and amazement"
       },
       {
-        "lineNumber": 124,
+        "lineNumber": 116,
         "text": "Inhabits here. Some heavenly power guide us"
       },
       {
-        "lineNumber": 125,
+        "lineNumber": 117,
         "text": "Out of this fearful country!"
       }
     ]
   },
   {
-    "speaker": "ARIEL",
+    "speaker": "GONZALO",
     "lines": [
       {
-        "lineNumber": 126,
+        "lineNumber": 118,
         "text": "PROSPERO, [to Alonso]  Behold, sir king,"
       },
       {
-        "lineNumber": 127,
+        "lineNumber": 119,
         "text": "The wronged Duke of Milan, Prospero."
       },
       {
-        "lineNumber": 128,
+        "lineNumber": 120,
         "text": "For more assurance that a living prince"
       },
       {
-        "lineNumber": 129,
+        "lineNumber": 121,
         "text": "Does now speak to thee, I embrace thy body,"
       }
     ]
   },
   {
-    "speaker": "ARIEL",
+    "speaker": "GONZALO",
     "lines": [
       {
-        "lineNumber": 130,
+        "lineNumber": 122,
         "text": "And to thee and thy company I bid"
       },
       {
-        "lineNumber": 131,
+        "lineNumber": 123,
         "text": "A hearty welcome."
       }
     ]
@@ -12632,47 +11918,47 @@ const the_tempest_5_1: SceneData = {
     "speaker": "ALONSO",
     "lines": [
       {
-        "lineNumber": 132,
+        "lineNumber": 124,
         "text": "Whe'er thou be'st he or no,"
       },
       {
-        "lineNumber": 133,
+        "lineNumber": 125,
         "text": "Or some enchanted trifle to abuse me"
       },
       {
-        "lineNumber": 134,
+        "lineNumber": 126,
         "text": "(As late I have been) I not know. Thy pulse"
       },
       {
-        "lineNumber": 135,
+        "lineNumber": 127,
         "text": "Beats as of flesh and blood; and since I saw thee,"
       },
       {
-        "lineNumber": 136,
+        "lineNumber": 128,
         "text": "Th' affliction of my mind amends, with which"
       },
       {
-        "lineNumber": 137,
+        "lineNumber": 129,
         "text": "I fear a madness held me. This must crave,"
       },
       {
-        "lineNumber": 138,
+        "lineNumber": 130,
         "text": "An if this be at all, a most strange story."
       },
       {
-        "lineNumber": 139,
+        "lineNumber": 131,
         "text": "Thy dukedom I resign, and do entreat"
       },
       {
-        "lineNumber": 140,
+        "lineNumber": 132,
         "text": "Thou pardon me my wrongs. But how should"
       },
       {
-        "lineNumber": 141,
+        "lineNumber": 133,
         "text": "Prospero"
       },
       {
-        "lineNumber": 142,
+        "lineNumber": 134,
         "text": "Be living and be here?"
       }
     ]
@@ -12681,15 +11967,15 @@ const the_tempest_5_1: SceneData = {
     "speaker": "ALONSO",
     "lines": [
       {
-        "lineNumber": 143,
+        "lineNumber": 135,
         "text": "PROSPERO, [to Gonzalo]  First, noble friend,"
       },
       {
-        "lineNumber": 144,
+        "lineNumber": 136,
         "text": "Let me embrace thine age, whose honor cannot"
       },
       {
-        "lineNumber": 145,
+        "lineNumber": 137,
         "text": "Be measured or confined."
       }
     ]
@@ -12698,11 +11984,11 @@ const the_tempest_5_1: SceneData = {
     "speaker": "GONZALO",
     "lines": [
       {
-        "lineNumber": 146,
+        "lineNumber": 138,
         "text": "Whether this be"
       },
       {
-        "lineNumber": 147,
+        "lineNumber": 139,
         "text": "Or be not, I'll not swear."
       }
     ]
@@ -12711,15 +11997,15 @@ const the_tempest_5_1: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 148,
+        "lineNumber": 140,
         "text": "You do yet taste"
       },
       {
-        "lineNumber": 149,
+        "lineNumber": 141,
         "text": "Some subtleties o' th' isle, that will not let you"
       },
       {
-        "lineNumber": 150,
+        "lineNumber": 142,
         "text": "Believe things certain. Welcome, my friends all."
       }
     ]
@@ -12728,19 +12014,19 @@ const the_tempest_5_1: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 151,
+        "lineNumber": 143,
         "text": "of lords, were I so minded,"
       },
       {
-        "lineNumber": 152,
+        "lineNumber": 144,
         "text": "I here could pluck his Highness' frown upon you"
       },
       {
-        "lineNumber": 153,
+        "lineNumber": 145,
         "text": "And justify you traitors. At this time"
       },
       {
-        "lineNumber": 154,
+        "lineNumber": 146,
         "text": "I will tell no tales."
       }
     ]
@@ -12749,7 +12035,7 @@ const the_tempest_5_1: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 155,
+        "lineNumber": 147,
         "text": "SEBASTIAN, [aside]  The devil speaks in him."
       }
     ]
@@ -12758,7 +12044,7 @@ const the_tempest_5_1: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 156,
+        "lineNumber": 148,
         "text": "PROSPERO, [aside to Sebastian]  No."
       }
     ]
@@ -12767,23 +12053,23 @@ const the_tempest_5_1: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 157,
+        "lineNumber": 149,
         "text": "call brother"
       },
       {
-        "lineNumber": 158,
+        "lineNumber": 150,
         "text": "Would even infect my mouth, I do forgive"
       },
       {
-        "lineNumber": 159,
+        "lineNumber": 151,
         "text": "Thy rankest fault, all of them, and require"
       },
       {
-        "lineNumber": 160,
+        "lineNumber": 152,
         "text": "My dukedom of thee, which perforce I know"
       },
       {
-        "lineNumber": 161,
+        "lineNumber": 153,
         "text": "Thou must restore."
       }
     ]
@@ -12792,27 +12078,27 @@ const the_tempest_5_1: SceneData = {
     "speaker": "ALONSO",
     "lines": [
       {
-        "lineNumber": 162,
+        "lineNumber": 154,
         "text": "If thou be'st Prospero,"
       },
       {
-        "lineNumber": 163,
+        "lineNumber": 155,
         "text": "Give us particulars of thy preservation,"
       },
       {
-        "lineNumber": 164,
+        "lineNumber": 156,
         "text": "How thou hast met us here, whom three hours since"
       },
       {
-        "lineNumber": 165,
+        "lineNumber": 157,
         "text": "Were wracked upon this shore, where I have lost--"
       },
       {
-        "lineNumber": 166,
+        "lineNumber": 158,
         "text": "How sharp the point of this remembrance is!--"
       },
       {
-        "lineNumber": 167,
+        "lineNumber": 159,
         "text": "My dear son Ferdinand."
       }
     ]
@@ -12821,24 +12107,20 @@ const the_tempest_5_1: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 168,
+        "lineNumber": 160,
         "text": "I am woe for 't, sir."
       }
     ]
   },
   {
-    "speaker": "PROSPERO",
+    "speaker": "ALONSO",
     "lines": [
       {
-        "lineNumber": 169,
-        "text": "ALONSO"
-      },
-      {
-        "lineNumber": 170,
+        "lineNumber": 161,
         "text": "Irreparable is the loss, and patience"
       },
       {
-        "lineNumber": 171,
+        "lineNumber": 162,
         "text": "Says it is past her cure."
       }
     ]
@@ -12847,19 +12129,19 @@ const the_tempest_5_1: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 172,
+        "lineNumber": 163,
         "text": "I rather think"
       },
       {
-        "lineNumber": 173,
+        "lineNumber": 164,
         "text": "You have not sought her help, of whose soft grace,"
       },
       {
-        "lineNumber": 174,
+        "lineNumber": 165,
         "text": "For the like loss, I have her sovereign aid"
       },
       {
-        "lineNumber": 175,
+        "lineNumber": 166,
         "text": "And rest myself content."
       }
     ]
@@ -12868,32 +12150,28 @@ const the_tempest_5_1: SceneData = {
     "speaker": "ALONSO",
     "lines": [
       {
-        "lineNumber": 176,
+        "lineNumber": 167,
         "text": "You the like loss?"
       }
     ]
   },
   {
-    "speaker": "ALONSO",
+    "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 177,
-        "text": "PROSPERO"
-      },
-      {
-        "lineNumber": 178,
+        "lineNumber": 168,
         "text": "As great to me as late, and supportable"
       },
       {
-        "lineNumber": 179,
+        "lineNumber": 169,
         "text": "To make the dear loss have I means much weaker"
       },
       {
-        "lineNumber": 180,
+        "lineNumber": 170,
         "text": "Than you may call to comfort you, for I"
       },
       {
-        "lineNumber": 181,
+        "lineNumber": 171,
         "text": "Have lost my daughter."
       }
     ]
@@ -12902,129 +12180,125 @@ const the_tempest_5_1: SceneData = {
     "speaker": "ALONSO",
     "lines": [
       {
-        "lineNumber": 182,
+        "lineNumber": 172,
         "text": "A daughter?"
       },
       {
-        "lineNumber": 183,
+        "lineNumber": 173,
         "text": "O heavens, that they were living both in Naples,"
       },
       {
-        "lineNumber": 184,
+        "lineNumber": 174,
         "text": "The King and Queen there! That they were, I wish"
       },
       {
-        "lineNumber": 185,
+        "lineNumber": 175,
         "text": "Myself were mudded in that oozy bed"
       },
       {
-        "lineNumber": 186,
+        "lineNumber": 176,
         "text": "Where my son lies!--When did you lose your"
       },
       {
-        "lineNumber": 187,
+        "lineNumber": 177,
         "text": "daughter?"
       }
     ]
   },
   {
-    "speaker": "ALONSO",
+    "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 188,
-        "text": "PROSPERO"
-      },
-      {
-        "lineNumber": 189,
+        "lineNumber": 178,
         "text": "In this last tempest. I perceive these lords"
       },
       {
-        "lineNumber": 190,
+        "lineNumber": 179,
         "text": "At this encounter do so much admire"
       },
       {
-        "lineNumber": 191,
+        "lineNumber": 180,
         "text": "That they devour their reason, and scarce think"
       },
       {
-        "lineNumber": 192,
+        "lineNumber": 181,
         "text": "Their eyes do offices of truth, their words"
       },
       {
-        "lineNumber": 193,
+        "lineNumber": 182,
         "text": "Are natural breath.--But howsoe'er you have"
       },
       {
-        "lineNumber": 194,
+        "lineNumber": 183,
         "text": "Been justled from your senses, know for certain"
       },
       {
-        "lineNumber": 195,
+        "lineNumber": 184,
         "text": "That I am Prospero and that very duke"
       },
       {
-        "lineNumber": 196,
+        "lineNumber": 185,
         "text": "Which was thrust forth of Milan, who most"
       },
       {
-        "lineNumber": 197,
+        "lineNumber": 186,
         "text": "strangely"
       },
       {
-        "lineNumber": 198,
+        "lineNumber": 187,
         "text": "Upon this shore, where you were wracked, was"
       },
       {
-        "lineNumber": 199,
+        "lineNumber": 188,
         "text": "landed"
       },
       {
-        "lineNumber": 200,
+        "lineNumber": 189,
         "text": "To be the lord on 't. No more yet of this."
       },
       {
-        "lineNumber": 201,
+        "lineNumber": 190,
         "text": "For 'tis a chronicle of day by day,"
       },
       {
-        "lineNumber": 202,
+        "lineNumber": 191,
         "text": "Not a relation for a breakfast, nor"
       },
       {
-        "lineNumber": 203,
+        "lineNumber": 192,
         "text": "Befitting this first meeting. [To Alonso.] Welcome, sir."
       },
       {
-        "lineNumber": 204,
+        "lineNumber": 193,
         "text": "This cell's my court. Here have I few attendants,"
       },
       {
-        "lineNumber": 205,
+        "lineNumber": 194,
         "text": "And subjects none abroad. Pray you, look in."
       },
       {
-        "lineNumber": 206,
+        "lineNumber": 195,
         "text": "My dukedom since you have given me again,"
       },
       {
-        "lineNumber": 207,
+        "lineNumber": 196,
         "text": "I will requite you with as good a thing,"
       },
       {
-        "lineNumber": 208,
+        "lineNumber": 197,
         "text": "At least bring forth a wonder to content you"
       },
       {
-        "lineNumber": 209,
+        "lineNumber": 198,
         "text": "As much as me my dukedom."
       }
     ]
   },
   {
-    "speaker": "ALONSO",
+    "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 210,
+        "lineNumber": 199,
         "text": "Sweet lord, you play me false."
       }
     ]
@@ -13033,28 +12307,24 @@ const the_tempest_5_1: SceneData = {
     "speaker": "FERDINAND",
     "lines": [
       {
-        "lineNumber": 211,
+        "lineNumber": 200,
         "text": "No, my dearest love,"
       },
       {
-        "lineNumber": 212,
+        "lineNumber": 201,
         "text": "I would not for the world."
       }
     ]
   },
   {
-    "speaker": "FERDINAND",
+    "speaker": "MIRANDA",
     "lines": [
       {
-        "lineNumber": 213,
-        "text": "MIRANDA"
-      },
-      {
-        "lineNumber": 214,
+        "lineNumber": 202,
         "text": "Yes, for a score of kingdoms you should wrangle,"
       },
       {
-        "lineNumber": 215,
+        "lineNumber": 203,
         "text": "And I would call it fair play."
       }
     ]
@@ -13063,15 +12333,15 @@ const the_tempest_5_1: SceneData = {
     "speaker": "ALONSO",
     "lines": [
       {
-        "lineNumber": 216,
+        "lineNumber": 204,
         "text": "If this prove"
       },
       {
-        "lineNumber": 217,
+        "lineNumber": 205,
         "text": "A vision of the island, one dear son"
       },
       {
-        "lineNumber": 218,
+        "lineNumber": 206,
         "text": "Shall I twice lose."
       }
     ]
@@ -13080,7 +12350,7 @@ const the_tempest_5_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 219,
+        "lineNumber": 207,
         "text": "A most high miracle!"
       }
     ]
@@ -13089,7 +12359,7 @@ const the_tempest_5_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 220,
+        "lineNumber": 208,
         "text": "Though the seas threaten, they are merciful."
       }
     ]
@@ -13098,19 +12368,19 @@ const the_tempest_5_1: SceneData = {
     "speaker": "ALONSO",
     "lines": [
       {
-        "lineNumber": 221,
+        "lineNumber": 209,
         "text": "Now, all the"
       },
       {
-        "lineNumber": 222,
+        "lineNumber": 210,
         "text": "blessings"
       },
       {
-        "lineNumber": 223,
+        "lineNumber": 211,
         "text": "Of a glad father compass thee about!"
       },
       {
-        "lineNumber": 224,
+        "lineNumber": 212,
         "text": "Arise, and say how thou cam'st here."
       }
     ]
@@ -13119,19 +12389,19 @@ const the_tempest_5_1: SceneData = {
     "speaker": "ALONSO",
     "lines": [
       {
-        "lineNumber": 225,
+        "lineNumber": 213,
         "text": "MIRANDA, [rising and coming forward]  O wonder!"
       },
       {
-        "lineNumber": 226,
+        "lineNumber": 214,
         "text": "How many goodly creatures are there here!"
       },
       {
-        "lineNumber": 227,
+        "lineNumber": 215,
         "text": "How beauteous mankind is! O, brave new world"
       },
       {
-        "lineNumber": 228,
+        "lineNumber": 216,
         "text": "That has such people in 't!"
       }
     ]
@@ -13140,7 +12410,7 @@ const the_tempest_5_1: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 229,
+        "lineNumber": 217,
         "text": "'Tis new to thee."
       }
     ]
@@ -13149,19 +12419,19 @@ const the_tempest_5_1: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 230,
+        "lineNumber": 218,
         "text": "What is this maid with whom thou wast at play?"
       },
       {
-        "lineNumber": 231,
+        "lineNumber": 219,
         "text": "Your eld'st acquaintance cannot be three hours."
       },
       {
-        "lineNumber": 232,
+        "lineNumber": 220,
         "text": "Is she the goddess that hath severed us"
       },
       {
-        "lineNumber": 233,
+        "lineNumber": 221,
         "text": "And brought us thus together?"
       }
     ]
@@ -13170,39 +12440,39 @@ const the_tempest_5_1: SceneData = {
     "speaker": "FERDINAND",
     "lines": [
       {
-        "lineNumber": 234,
+        "lineNumber": 222,
         "text": "Sir, she is mortal,"
       },
       {
-        "lineNumber": 235,
+        "lineNumber": 223,
         "text": "But by immortal providence she's mine."
       },
       {
-        "lineNumber": 236,
+        "lineNumber": 224,
         "text": "I chose her when I could not ask my father"
       },
       {
-        "lineNumber": 237,
+        "lineNumber": 225,
         "text": "For his advice, nor thought I had one. She"
       },
       {
-        "lineNumber": 238,
+        "lineNumber": 226,
         "text": "Is daughter to this famous Duke of Milan,"
       },
       {
-        "lineNumber": 239,
+        "lineNumber": 227,
         "text": "Of whom so often I have heard renown,"
       },
       {
-        "lineNumber": 240,
+        "lineNumber": 228,
         "text": "But never saw before, of whom I have"
       },
       {
-        "lineNumber": 241,
+        "lineNumber": 229,
         "text": "Received a second life; and second father"
       },
       {
-        "lineNumber": 242,
+        "lineNumber": 230,
         "text": "This lady makes him to me."
       }
     ]
@@ -13211,15 +12481,15 @@ const the_tempest_5_1: SceneData = {
     "speaker": "ALONSO",
     "lines": [
       {
-        "lineNumber": 243,
+        "lineNumber": 231,
         "text": "I am hers."
       },
       {
-        "lineNumber": 244,
+        "lineNumber": 232,
         "text": "But, O, how oddly will it sound that I"
       },
       {
-        "lineNumber": 245,
+        "lineNumber": 233,
         "text": "Must ask my child forgiveness!"
       }
     ]
@@ -13228,15 +12498,15 @@ const the_tempest_5_1: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 246,
+        "lineNumber": 234,
         "text": "There, sir, stop."
       },
       {
-        "lineNumber": 247,
+        "lineNumber": 235,
         "text": "Let us not burden our remembrances with"
       },
       {
-        "lineNumber": 248,
+        "lineNumber": 236,
         "text": "A heaviness that's gone."
       }
     ]
@@ -13245,27 +12515,27 @@ const the_tempest_5_1: SceneData = {
     "speaker": "GONZALO",
     "lines": [
       {
-        "lineNumber": 249,
+        "lineNumber": 237,
         "text": "I have inly wept"
       },
       {
-        "lineNumber": 250,
+        "lineNumber": 238,
         "text": "Or should have spoke ere this. Look down, you"
       },
       {
-        "lineNumber": 251,
+        "lineNumber": 239,
         "text": "gods,"
       },
       {
-        "lineNumber": 252,
+        "lineNumber": 240,
         "text": "And on this couple drop a blessed crown,"
       },
       {
-        "lineNumber": 253,
+        "lineNumber": 241,
         "text": "For it is you that have chalked forth the way"
       },
       {
-        "lineNumber": 254,
+        "lineNumber": 242,
         "text": "Which brought us hither."
       }
     ]
@@ -13274,73 +12544,69 @@ const the_tempest_5_1: SceneData = {
     "speaker": "ALONSO",
     "lines": [
       {
-        "lineNumber": 255,
+        "lineNumber": 243,
         "text": "I say \"Amen,\" Gonzalo."
       }
     ]
   },
   {
-    "speaker": "ALONSO",
+    "speaker": "GONZALO",
     "lines": [
       {
-        "lineNumber": 256,
-        "text": "GONZALO"
-      },
-      {
-        "lineNumber": 257,
+        "lineNumber": 244,
         "text": "Was Milan thrust from Milan, that his issue"
       },
       {
-        "lineNumber": 258,
+        "lineNumber": 245,
         "text": "Should become kings of Naples? O, rejoice"
       },
       {
-        "lineNumber": 259,
+        "lineNumber": 246,
         "text": "Beyond a common joy, and set it down"
       },
       {
-        "lineNumber": 260,
+        "lineNumber": 247,
         "text": "With gold on lasting pillars: in one voyage"
       },
       {
-        "lineNumber": 261,
+        "lineNumber": 248,
         "text": "Did Claribel her husband find at Tunis,"
       },
       {
-        "lineNumber": 262,
+        "lineNumber": 249,
         "text": "And Ferdinand, her brother, found a wife"
       },
       {
-        "lineNumber": 263,
+        "lineNumber": 250,
         "text": "Where he himself was lost; Prospero his dukedom"
       },
       {
-        "lineNumber": 264,
+        "lineNumber": 251,
         "text": "In a poor isle; and all of us ourselves"
       },
       {
-        "lineNumber": 265,
+        "lineNumber": 252,
         "text": "When no man was his own."
       }
     ]
   },
   {
-    "speaker": "ALONSO",
+    "speaker": "GONZALO",
     "lines": [
       {
-        "lineNumber": 266,
+        "lineNumber": 253,
         "text": "ALONSO, [to Ferdinand and Miranda]  Give me your"
       },
       {
-        "lineNumber": 267,
+        "lineNumber": 254,
         "text": "hands."
       },
       {
-        "lineNumber": 268,
+        "lineNumber": 255,
         "text": "Let grief and sorrow still embrace his heart"
       },
       {
-        "lineNumber": 269,
+        "lineNumber": 256,
         "text": "That doth not wish you joy!"
       }
     ]
@@ -13349,7 +12615,7 @@ const the_tempest_5_1: SceneData = {
     "speaker": "GONZALO",
     "lines": [
       {
-        "lineNumber": 270,
+        "lineNumber": 257,
         "text": "Be it so. Amen."
       }
     ]
@@ -13358,207 +12624,191 @@ const the_tempest_5_1: SceneData = {
     "speaker": "GONZALO",
     "lines": [
       {
-        "lineNumber": 271,
+        "lineNumber": 258,
         "text": "O, look, sir, look, sir, here is more of us."
       },
       {
-        "lineNumber": 272,
+        "lineNumber": 259,
         "text": "I prophesied if a gallows were on land,"
       },
       {
-        "lineNumber": 273,
+        "lineNumber": 260,
         "text": "This fellow could not drown. Now, blasphemy,"
       },
       {
-        "lineNumber": 274,
+        "lineNumber": 261,
         "text": "That swear'st grace o'erboard, not an oath on"
       },
       {
-        "lineNumber": 275,
+        "lineNumber": 262,
         "text": "shore?"
       },
       {
-        "lineNumber": 276,
+        "lineNumber": 263,
         "text": "Hast thou no mouth by land? What is the news?"
       }
     ]
   },
   {
-    "speaker": "GONZALO",
+    "speaker": "BOATSWAIN",
     "lines": [
       {
-        "lineNumber": 277,
-        "text": "BOATSWAIN"
-      },
-      {
-        "lineNumber": 278,
+        "lineNumber": 264,
         "text": "The best news is that we have safely found"
       },
       {
-        "lineNumber": 279,
+        "lineNumber": 265,
         "text": "Our king and company. The next: our ship,"
       },
       {
-        "lineNumber": 280,
+        "lineNumber": 266,
         "text": "Which, but three glasses since, we gave out split,"
       },
       {
-        "lineNumber": 281,
+        "lineNumber": 267,
         "text": "Is tight and yare and bravely rigged as when"
       },
       {
-        "lineNumber": 282,
+        "lineNumber": 268,
         "text": "We first put out to sea."
       }
     ]
   },
   {
-    "speaker": "GONZALO",
+    "speaker": "BOATSWAIN",
     "lines": [
       {
-        "lineNumber": 283,
+        "lineNumber": 269,
         "text": "ARIEL, [aside to Prospero]  Sir, all this service"
       },
       {
-        "lineNumber": 284,
+        "lineNumber": 270,
         "text": "Have I done since I went."
       }
     ]
   },
   {
-    "speaker": "GONZALO",
+    "speaker": "BOATSWAIN",
     "lines": [
       {
-        "lineNumber": 285,
+        "lineNumber": 271,
         "text": "PROSPERO, [aside to Ariel]  My tricksy spirit!"
       }
     ]
   },
   {
-    "speaker": "GONZALO",
+    "speaker": "ALONSO",
     "lines": [
       {
-        "lineNumber": 286,
-        "text": "ALONSO"
-      },
-      {
-        "lineNumber": 287,
+        "lineNumber": 272,
         "text": "These are not natural events. They strengthen"
       },
       {
-        "lineNumber": 288,
+        "lineNumber": 273,
         "text": "From strange to stranger.--Say, how came you"
       },
       {
-        "lineNumber": 289,
+        "lineNumber": 274,
         "text": "hither?"
       }
     ]
   },
   {
-    "speaker": "GONZALO",
+    "speaker": "BOATSWAIN",
     "lines": [
       {
-        "lineNumber": 290,
-        "text": "BOATSWAIN"
-      },
-      {
-        "lineNumber": 291,
+        "lineNumber": 275,
         "text": "If I did think, sir, I were well awake,"
       },
       {
-        "lineNumber": 292,
+        "lineNumber": 276,
         "text": "I'd strive to tell you. We were dead of sleep"
       },
       {
-        "lineNumber": 293,
+        "lineNumber": 277,
         "text": "And--how, we know not--all clapped under"
       },
       {
-        "lineNumber": 294,
+        "lineNumber": 278,
         "text": "hatches,"
       },
       {
-        "lineNumber": 295,
+        "lineNumber": 279,
         "text": "Where, but even now, with strange and several"
       },
       {
-        "lineNumber": 296,
+        "lineNumber": 280,
         "text": "noises"
       },
       {
-        "lineNumber": 297,
+        "lineNumber": 281,
         "text": "Of roaring, shrieking, howling, jingling chains,"
       },
       {
-        "lineNumber": 298,
+        "lineNumber": 282,
         "text": "And more diversity of sounds, all horrible,"
       },
       {
-        "lineNumber": 299,
+        "lineNumber": 283,
         "text": "We were awaked, straightway at liberty,"
       },
       {
-        "lineNumber": 300,
+        "lineNumber": 284,
         "text": "Where we, in all her trim, freshly beheld"
       },
       {
-        "lineNumber": 301,
+        "lineNumber": 285,
         "text": "Our royal, good, and gallant ship, our master"
       },
       {
-        "lineNumber": 302,
+        "lineNumber": 286,
         "text": "Cap'ring to eye her. On a trice, so please you,"
       },
       {
-        "lineNumber": 303,
+        "lineNumber": 287,
         "text": "Even in a dream were we divided from them"
       },
       {
-        "lineNumber": 304,
+        "lineNumber": 288,
         "text": "And were brought moping hither."
       }
     ]
   },
   {
-    "speaker": "GONZALO",
+    "speaker": "BOATSWAIN",
     "lines": [
       {
-        "lineNumber": 305,
+        "lineNumber": 289,
         "text": "ARIEL, [aside to Prospero]  Was 't well done?"
       }
     ]
   },
   {
-    "speaker": "GONZALO",
+    "speaker": "BOATSWAIN",
     "lines": [
       {
-        "lineNumber": 306,
+        "lineNumber": 290,
         "text": "Bravely, my diligence. Thou shalt be free."
       }
     ]
   },
   {
-    "speaker": "GONZALO",
+    "speaker": "ALONSO",
     "lines": [
       {
-        "lineNumber": 307,
-        "text": "ALONSO"
-      },
-      {
-        "lineNumber": 308,
+        "lineNumber": 291,
         "text": "This is as strange a maze as e'er men trod,"
       },
       {
-        "lineNumber": 309,
+        "lineNumber": 292,
         "text": "And there is in this business more than nature"
       },
       {
-        "lineNumber": 310,
+        "lineNumber": 293,
         "text": "Was ever conduct of. Some oracle"
       },
       {
-        "lineNumber": 311,
+        "lineNumber": 294,
         "text": "Must rectify our knowledge."
       }
     ]
@@ -13567,27 +12817,27 @@ const the_tempest_5_1: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 312,
+        "lineNumber": 295,
         "text": "Sir, my liege,"
       },
       {
-        "lineNumber": 313,
+        "lineNumber": 296,
         "text": "Do not infest your mind with beating on"
       },
       {
-        "lineNumber": 314,
+        "lineNumber": 297,
         "text": "The strangeness of this business. At picked leisure,"
       },
       {
-        "lineNumber": 315,
+        "lineNumber": 298,
         "text": "Which shall be shortly, single I'll resolve you,"
       },
       {
-        "lineNumber": 316,
+        "lineNumber": 299,
         "text": "Which to you shall seem probable, of every"
       },
       {
-        "lineNumber": 317,
+        "lineNumber": 300,
         "text": "These happened accidents; till when, be cheerful"
       }
     ]
@@ -13596,27 +12846,27 @@ const the_tempest_5_1: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 318,
+        "lineNumber": 301,
         "text": "Come hither, spirit;"
       },
       {
-        "lineNumber": 319,
+        "lineNumber": 302,
         "text": "Set Caliban and his companions free."
       },
       {
-        "lineNumber": 320,
+        "lineNumber": 303,
         "text": "Untie the spell. [Ariel exits.] How fares my gracious"
       },
       {
-        "lineNumber": 321,
+        "lineNumber": 304,
         "text": "sir?"
       },
       {
-        "lineNumber": 322,
+        "lineNumber": 305,
         "text": "There are yet missing of your company"
       },
       {
-        "lineNumber": 323,
+        "lineNumber": 306,
         "text": "Some few odd lads that you remember not."
       }
     ]
@@ -13625,15 +12875,15 @@ const the_tempest_5_1: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 324,
+        "lineNumber": 307,
         "text": "Every man shift for all the rest, and let no"
       },
       {
-        "lineNumber": 325,
+        "lineNumber": 308,
         "text": "man take care for himself, for all is but fortune."
       },
       {
-        "lineNumber": 326,
+        "lineNumber": 309,
         "text": "Coraggio, bully monster, coraggio."
       }
     ]
@@ -13642,11 +12892,11 @@ const the_tempest_5_1: SceneData = {
     "speaker": "TRINCULO",
     "lines": [
       {
-        "lineNumber": 327,
+        "lineNumber": 310,
         "text": "If these be true spies which I wear in my"
       },
       {
-        "lineNumber": 328,
+        "lineNumber": 311,
         "text": "head, here's a goodly sight."
       }
     ]
@@ -13655,11 +12905,11 @@ const the_tempest_5_1: SceneData = {
     "speaker": "CALIBAN",
     "lines": [
       {
-        "lineNumber": 329,
+        "lineNumber": 312,
         "text": "O Setebos, these be brave spirits indeed! How"
       },
       {
-        "lineNumber": 330,
+        "lineNumber": 313,
         "text": "fine my master is! I am afraid he will chastise me."
       }
     ]
@@ -13668,15 +12918,15 @@ const the_tempest_5_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 331,
+        "lineNumber": 314,
         "text": "Ha, ha!"
       },
       {
-        "lineNumber": 332,
+        "lineNumber": 315,
         "text": "What things are these, my Lord Antonio?"
       },
       {
-        "lineNumber": 333,
+        "lineNumber": 316,
         "text": "Will money buy 'em?"
       }
     ]
@@ -13685,60 +12935,56 @@ const the_tempest_5_1: SceneData = {
     "speaker": "ANTONIO",
     "lines": [
       {
-        "lineNumber": 334,
+        "lineNumber": 317,
         "text": "Very like. One of them"
       },
       {
-        "lineNumber": 335,
+        "lineNumber": 318,
         "text": "Is a plain fish and no doubt marketable."
       }
     ]
   },
   {
-    "speaker": "ANTONIO",
+    "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 336,
-        "text": "PROSPERO"
-      },
-      {
-        "lineNumber": 337,
+        "lineNumber": 319,
         "text": "Mark but the badges of these men, my lords,"
       },
       {
-        "lineNumber": 338,
+        "lineNumber": 320,
         "text": "Then say if they be true. This misshapen knave,"
       },
       {
-        "lineNumber": 339,
+        "lineNumber": 321,
         "text": "His mother was a witch, and one so strong"
       },
       {
-        "lineNumber": 340,
+        "lineNumber": 322,
         "text": "That could control the moon, make flows and ebbs,"
       },
       {
-        "lineNumber": 341,
+        "lineNumber": 323,
         "text": "And deal in her command without her power."
       },
       {
-        "lineNumber": 342,
+        "lineNumber": 324,
         "text": "These three have robbed me, and this demi-devil,"
       },
       {
-        "lineNumber": 343,
+        "lineNumber": 325,
         "text": "For he's a bastard one, had plotted with them"
       },
       {
-        "lineNumber": 344,
+        "lineNumber": 326,
         "text": "To take my life. Two of these fellows you"
       },
       {
-        "lineNumber": 345,
+        "lineNumber": 327,
         "text": "Must know and own. This thing of darkness I"
       },
       {
-        "lineNumber": 346,
+        "lineNumber": 328,
         "text": "Acknowledge mine."
       }
     ]
@@ -13747,20 +12993,16 @@ const the_tempest_5_1: SceneData = {
     "speaker": "CALIBAN",
     "lines": [
       {
-        "lineNumber": 347,
+        "lineNumber": 329,
         "text": "I shall be pinched to death."
       }
     ]
   },
   {
-    "speaker": "CALIBAN",
+    "speaker": "ALONSO",
     "lines": [
       {
-        "lineNumber": 348,
-        "text": "ALONSO"
-      },
-      {
-        "lineNumber": 349,
+        "lineNumber": 330,
         "text": "Is not this Stephano, my drunken butler?"
       }
     ]
@@ -13769,24 +13011,20 @@ const the_tempest_5_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 350,
+        "lineNumber": 331,
         "text": "He is drunk now. Where had he wine?"
       }
     ]
   },
   {
-    "speaker": "SEBASTIAN",
+    "speaker": "ALONSO",
     "lines": [
       {
-        "lineNumber": 351,
-        "text": "ALONSO"
-      },
-      {
-        "lineNumber": 352,
+        "lineNumber": 332,
         "text": "And Trinculo is reeling ripe. Where should they"
       },
       {
-        "lineNumber": 353,
+        "lineNumber": 333,
         "text": "Find this grand liquor that hath gilded 'em?"
       }
     ]
@@ -13795,15 +13033,15 @@ const the_tempest_5_1: SceneData = {
     "speaker": "TRINCULO",
     "lines": [
       {
-        "lineNumber": 354,
+        "lineNumber": 334,
         "text": "I have been in such a pickle since I saw you"
       },
       {
-        "lineNumber": 355,
+        "lineNumber": 335,
         "text": "last that I fear me will never out of my bones. I"
       },
       {
-        "lineNumber": 356,
+        "lineNumber": 336,
         "text": "shall not fear flyblowing."
       }
     ]
@@ -13812,7 +13050,7 @@ const the_tempest_5_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 357,
+        "lineNumber": 337,
         "text": "Why, how now, Stephano?"
       }
     ]
@@ -13821,11 +13059,11 @@ const the_tempest_5_1: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 358,
+        "lineNumber": 338,
         "text": "O, touch me not! I am not Stephano, but a"
       },
       {
-        "lineNumber": 359,
+        "lineNumber": 339,
         "text": "cramp."
       }
     ]
@@ -13834,7 +13072,7 @@ const the_tempest_5_1: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 360,
+        "lineNumber": 340,
         "text": "You'd be king o' the isle, sirrah?"
       }
     ]
@@ -13843,7 +13081,7 @@ const the_tempest_5_1: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 361,
+        "lineNumber": 341,
         "text": "I should have been a sore one, then."
       }
     ]
@@ -13852,57 +13090,49 @@ const the_tempest_5_1: SceneData = {
     "speaker": "STEPHANO",
     "lines": [
       {
-        "lineNumber": 362,
+        "lineNumber": 342,
         "text": "This is as strange a thing as e'er I looked on."
       }
     ]
   },
   {
-    "speaker": "STEPHANO",
+    "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 363,
-        "text": "PROSPERO"
-      },
-      {
-        "lineNumber": 364,
+        "lineNumber": 343,
         "text": "He is as disproportioned in his manners"
       },
       {
-        "lineNumber": 365,
+        "lineNumber": 344,
         "text": "As in his shape. [To Caliban.] Go, sirrah, to my cell."
       },
       {
-        "lineNumber": 366,
+        "lineNumber": 345,
         "text": "Take with you your companions. As you look"
       },
       {
-        "lineNumber": 367,
+        "lineNumber": 346,
         "text": "To have my pardon, trim it handsomely."
       }
     ]
   },
   {
-    "speaker": "STEPHANO",
+    "speaker": "CALIBAN",
     "lines": [
       {
-        "lineNumber": 368,
-        "text": "CALIBAN"
-      },
-      {
-        "lineNumber": 369,
+        "lineNumber": 347,
         "text": "Ay, that I will, and I'll be wise hereafter"
       },
       {
-        "lineNumber": 370,
+        "lineNumber": 348,
         "text": "And seek for grace. What a thrice-double ass"
       },
       {
-        "lineNumber": 371,
+        "lineNumber": 349,
         "text": "Was I to take this drunkard for a god,"
       },
       {
-        "lineNumber": 372,
+        "lineNumber": 350,
         "text": "And worship this dull fool!"
       }
     ]
@@ -13911,7 +13141,7 @@ const the_tempest_5_1: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 373,
+        "lineNumber": 351,
         "text": "Go to, away!"
       }
     ]
@@ -13920,7 +13150,7 @@ const the_tempest_5_1: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 374,
+        "lineNumber": 352,
         "text": "Hence, and bestow your luggage where you found it."
       }
     ]
@@ -13929,64 +13159,60 @@ const the_tempest_5_1: SceneData = {
     "speaker": "SEBASTIAN",
     "lines": [
       {
-        "lineNumber": 375,
+        "lineNumber": 353,
         "text": "Or stole it, rather."
       }
     ]
   },
   {
-    "speaker": "SEBASTIAN",
+    "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 376,
-        "text": "PROSPERO"
-      },
-      {
-        "lineNumber": 377,
+        "lineNumber": 354,
         "text": "Sir, I invite your Highness and your train"
       },
       {
-        "lineNumber": 378,
+        "lineNumber": 355,
         "text": "To my poor cell, where you shall take your rest"
       },
       {
-        "lineNumber": 379,
+        "lineNumber": 356,
         "text": "For this one night, which part of it I'll waste"
       },
       {
-        "lineNumber": 380,
+        "lineNumber": 357,
         "text": "With such discourse as, I not doubt, shall make it"
       },
       {
-        "lineNumber": 381,
+        "lineNumber": 358,
         "text": "Go quick away: the story of my life"
       },
       {
-        "lineNumber": 382,
+        "lineNumber": 359,
         "text": "And the particular accidents gone by"
       },
       {
-        "lineNumber": 383,
+        "lineNumber": 360,
         "text": "Since I came to this isle. And in the morn"
       },
       {
-        "lineNumber": 384,
+        "lineNumber": 361,
         "text": "I'll bring you to your ship, and so to Naples,"
       },
       {
-        "lineNumber": 385,
+        "lineNumber": 362,
         "text": "Where I have hope to see the nuptial"
       },
       {
-        "lineNumber": 386,
+        "lineNumber": 363,
         "text": "Of these our dear-beloved solemnized,"
       },
       {
-        "lineNumber": 387,
+        "lineNumber": 364,
         "text": "And thence retire me to my Milan, where"
       },
       {
-        "lineNumber": 388,
+        "lineNumber": 365,
         "text": "Every third thought shall be my grave."
       }
     ]
@@ -13995,15 +13221,15 @@ const the_tempest_5_1: SceneData = {
     "speaker": "ALONSO",
     "lines": [
       {
-        "lineNumber": 389,
+        "lineNumber": 366,
         "text": "I long"
       },
       {
-        "lineNumber": 390,
+        "lineNumber": 367,
         "text": "To hear the story of your life, which must"
       },
       {
-        "lineNumber": 391,
+        "lineNumber": 368,
         "text": "Take the ear strangely."
       }
     ]
@@ -14012,134 +13238,116 @@ const the_tempest_5_1: SceneData = {
     "speaker": "PROSPERO",
     "lines": [
       {
-        "lineNumber": 392,
+        "lineNumber": 369,
         "text": "I'll deliver all,"
       },
       {
-        "lineNumber": 393,
+        "lineNumber": 370,
         "text": "And promise you calm seas, auspicious gales,"
       },
       {
-        "lineNumber": 394,
+        "lineNumber": 371,
         "text": "And sail so expeditious that shall catch"
       },
       {
-        "lineNumber": 395,
+        "lineNumber": 372,
         "text": "Your royal fleet far off. [Aside to Ariel.] My Ariel,"
       },
       {
-        "lineNumber": 396,
+        "lineNumber": 373,
         "text": "chick,"
       },
       {
-        "lineNumber": 397,
+        "lineNumber": 374,
         "text": "That is thy charge. Then to the elements"
       },
       {
-        "lineNumber": 398,
+        "lineNumber": 375,
         "text": "Be free, and fare thou well.--Please you, draw near."
       }
     ]
   },
   {
-    "speaker": "PROSPERO",
+    "speaker": "EPILOGUE,",
     "lines": [
       {
-        "lineNumber": 399,
-        "text": "EPILOGUE,"
-      }
-    ]
-  },
-  {
-    "speaker": "PROSPERO",
-    "lines": [
-      {
-        "lineNumber": 400,
-        "text": "============================"
-      }
-    ]
-  },
-  {
-    "speaker": "PROSPERO",
-    "lines": [
-      {
-        "lineNumber": 401,
+        "lineNumber": 376,
         "text": "Now my charms are all o'erthrown,"
       },
       {
-        "lineNumber": 402,
+        "lineNumber": 377,
         "text": "And what strength I have 's mine own,"
       },
       {
-        "lineNumber": 403,
+        "lineNumber": 378,
         "text": "Which is most faint. Now 'tis true"
       },
       {
-        "lineNumber": 404,
+        "lineNumber": 379,
         "text": "I must be here confined by you,"
       },
       {
-        "lineNumber": 405,
+        "lineNumber": 380,
         "text": "Or sent to Naples. Let me not,"
       },
       {
-        "lineNumber": 406,
+        "lineNumber": 381,
         "text": "Since I have my dukedom got"
       },
       {
-        "lineNumber": 407,
+        "lineNumber": 382,
         "text": "And pardoned the deceiver, dwell"
       },
       {
-        "lineNumber": 408,
+        "lineNumber": 383,
         "text": "In this bare island by your spell,"
       },
       {
-        "lineNumber": 409,
+        "lineNumber": 384,
         "text": "But release me from my bands"
       },
       {
-        "lineNumber": 410,
+        "lineNumber": 385,
         "text": "With the help of your good hands."
       },
       {
-        "lineNumber": 411,
+        "lineNumber": 386,
         "text": "Gentle breath of yours my sails"
       },
       {
-        "lineNumber": 412,
+        "lineNumber": 387,
         "text": "Must fill, or else my project fails,"
       },
       {
-        "lineNumber": 413,
+        "lineNumber": 388,
         "text": "Which was to please. Now I want"
       },
       {
-        "lineNumber": 414,
+        "lineNumber": 389,
         "text": "Spirits to enforce, art to enchant,"
       },
       {
-        "lineNumber": 415,
+        "lineNumber": 390,
         "text": "And my ending is despair,"
       },
       {
-        "lineNumber": 416,
+        "lineNumber": 391,
         "text": "Unless I be relieved by prayer,"
       },
       {
-        "lineNumber": 417,
+        "lineNumber": 392,
         "text": "Which pierces so that it assaults"
       },
       {
-        "lineNumber": 418,
+        "lineNumber": 393,
         "text": "Mercy itself, and frees all faults."
       },
       {
-        "lineNumber": 419,
+        "lineNumber": 394,
         "text": "As you from crimes would pardoned be,"
       },
       {
-        "lineNumber": 420,
+        "lineNumber": 395,
         "text": "Let your indulgence set me free."
       }
     ]
@@ -14147,139 +13355,139 @@ const the_tempest_5_1: SceneData = {
 ],
   stageDirections: [
   {
-    "position": 1,
+    "position": 0,
     "text": "Enter Prospero in his magic robes, and Ariel."
   },
   {
-    "position": 9,
+    "position": 8,
     "text": "He exits."
   },
   {
-    "position": 9,
+    "position": 8,
     "text": "Prospero draws a large circle on the stage with his staff."
   },
   {
-    "position": 10,
+    "position": 9,
     "text": "Prospero gestures with his staff."
   },
   {
-    "position": 11,
+    "position": 10,
     "text": "'ll drown my book.\t[Solemn music."
   },
   {
-    "position": 11,
+    "position": 10,
     "text": "Here enters Ariel before; then Alonso with a franti"
   },
   {
-    "position": 12,
+    "position": 11,
     "text": "tand charmed; which Prospero observing, speaks."
   },
   {
-    "position": 13,
+    "position": 12,
     "text": "Ariel exits and at once return"
   },
   {
-    "position": 13,
+    "position": 12,
     "text": "ith Prospero's ducal robes."
   },
   {
-    "position": 14,
+    "position": 13,
     "text": "RIEL [sings, and helps to attire him."
   },
   {
-    "position": 17,
+    "position": 16,
     "text": "r ere your pulse twice beat.\t[He exits."
   },
   {
-    "position": 19,
+    "position": 18,
     "text": "He embraces Alonso."
   },
   {
-    "position": 24,
+    "position": 23,
     "text": "Aside to Sebastian and Antonio.] But you, my brac"
   },
   {
-    "position": 27,
+    "position": 26,
     "text": "To Antonio.] For you, most wicked sir, whom t"
   },
   {
-    "position": 36,
+    "position": 35,
     "text": "Here Prospero discovers Ferdinand and Miranda"
   },
   {
-    "position": 36,
+    "position": 35,
     "text": "laying at chess."
   },
   {
-    "position": 36,
+    "position": 35,
     "text": "IRANDA, [to Ferdinand"
   },
   {
-    "position": 41,
+    "position": 40,
     "text": "ERDINAND, [seeing Alonso and coming forward"
   },
   {
-    "position": 42,
+    "position": 41,
     "text": " have cursed them without cause.\t[He kneels."
   },
   {
-    "position": 43,
+    "position": 42,
     "text": "Ferdinand stands."
   },
   {
-    "position": 45,
+    "position": 44,
     "text": "LONSO, [to Ferdinand"
   },
   {
-    "position": 54,
+    "position": 53,
     "text": "Enter Ariel, with the Master and Boatswai"
   },
   {
-    "position": 54,
+    "position": 53,
     "text": "mazedly following."
   },
   {
-    "position": 61,
+    "position": 60,
     "text": "ROSPERO, [aside to Ariel"
   },
   {
-    "position": 64,
+    "position": 63,
     "text": "nd think of each thing well. [Aside to Ariel."
   },
   {
-    "position": 65,
+    "position": 64,
     "text": "Enter Ariel, driving in Caliban, Stephano, and Trincul"
   },
   {
-    "position": 65,
+    "position": 64,
     "text": "n their stolen apparel."
   },
   {
-    "position": 75,
+    "position": 74,
     "text": "To Trinculo.] How cam'st thou in this pickle"
   },
   {
-    "position": 80,
+    "position": 79,
     "text": "LONSO, [indicating Caliban"
   },
   {
-    "position": 84,
+    "position": 83,
     "text": "LONSO, [to Stephano and Trinculo"
   },
   {
-    "position": 86,
+    "position": 85,
     "text": "Caliban, Stephano, and Trinculo exit."
   },
   {
-    "position": 89,
+    "position": 88,
     "text": "They all exit."
   },
   {
-    "position": 90,
+    "position": 88,
     "text": "spoken by Prospero."
   },
   {
-    "position": 92,
+    "position": 89,
     "text": "He exits."
   }
 ],
@@ -14299,8 +13507,6 @@ export const scenes: { [key: string]: SceneData } = {
 };
 
 export const getScene = (playId: string, act: number, scene: number): SceneData | null => {
-  // Normalize playId: convert hyphens to underscores to match our keys
-  const normalizedPlayId = playId.replace(/-/g, '_');
-  const key = `${normalizedPlayId}_${act}_${scene}`;
+  const key = `${playId}_${act}_${scene}`;
   return scenes[key] || null;
 };
