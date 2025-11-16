@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import { Book, Cloud, Skull, Crown, Heart } from 'lucide-react';
+import { Book, Cloud, Skull, Crown, Heart, Smile } from 'lucide-react';
 
 const plays = [
   {
@@ -15,6 +15,21 @@ const plays = [
       { id: 3, scenes: 3 },
       { id: 4, scenes: 1 },
       { id: 5, scenes: 1 },
+    ]
+  },
+  {
+    id: 'alls-well-that-ends-well',
+    title: "All's Well That Ends Well",
+    subtitle: 'A Comedy of Trials and Triumph',
+    icon: Smile,
+    description: 'Love, deception, and the power of determination',
+    difficulty: 'Intermediate',
+    acts: [
+      { id: 1, scenes: 3 },
+      { id: 2, scenes: 5 },
+      { id: 3, scenes: 7 },
+      { id: 4, scenes: 5 },
+      { id: 5, scenes: 3 },
     ]
   },
   {

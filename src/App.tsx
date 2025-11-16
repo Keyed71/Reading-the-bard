@@ -2,6 +2,7 @@ import { BrowserRouter, Routes, Route, Link } from 'react-router-dom';
 import { BookOpen } from 'lucide-react';
 import ShakespeareCompanion from './components/ShakespeareCompanion';
 import TempestReader from './components/TempestReader';
+import AllsWellReader from './components/AllsWellReader';
 import PlaySelector from './components/PlaySelector';
 
 function App() {
@@ -26,6 +27,7 @@ function App() {
           <Routes>
             <Route path="/" element={<PlaySelector />} />
             <Route path="/play/the-tempest/:actId/:sceneId" element={<TempestReader />} />
+            <Route path="/play/alls-well-that-ends-well/:actId/:sceneId" element={<AllsWellReader />} />
             <Route path="/play/:playId/:actId/:sceneId" element={<ShakespeareCompanion />} />
           </Routes>
         </main>
